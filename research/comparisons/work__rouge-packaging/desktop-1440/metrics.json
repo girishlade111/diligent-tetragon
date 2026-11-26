@@ -1,0 +1,34 @@
+{
+  "id": "work__rouge-packaging",
+  "localPath": "/work/rouge-packaging",
+  "fullPage": {
+    "width": 1440,
+    "height": 6098,
+    "refSize": {
+      "width": 1440,
+      "height": 6530
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 6098
+    },
+    "diffPixels": 3180118,
+    "totalPixels": 8781120,
+    "diffPercent": 36.22
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 687453,
+    "totalPixels": 1296000,
+    "diffPercent": 53.04
+  }
+}
