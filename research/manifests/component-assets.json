@@ -1,0 +1,2534 @@
+[
+  {
+    "framerFile": "yrA6UEesQxKJJmJ3B0fFyOdK54.svg",
+    "deliveryUrl": "/assets/images/extracted/img-001-yrA6UEesQxKJJmJ3B0fFyOdK54.svg",
+    "width": null,
+    "height": null,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "404",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "about",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "contact",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "home",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__figma-token-plugin",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__film-camera-app",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__motion-cheatsheet",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__shader-gradients",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__ui-sound-kit",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__variable-type-toy",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "privacy",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "resume",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "services",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__brand-and-web",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__design-systems",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__front-end-development",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__product-design",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "terms",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "uses",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "work",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__atlas-dev-platform",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__loop-banking-app",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__nord-brand-identity",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__print-colour-system",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__pulse-dashboard",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__rouge-packaging",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__sole-campaign",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__type-poster-series",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__design-in-the-browser",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__design-system-that-sticks",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__freelance-year-three",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__motion-that-means-something",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__pricing-design-work",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__prototype-in-code",
+        "alt": "Mara Voss",
+        "w": 26,
+        "h": 26,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp",
+    "deliveryUrl": "/assets/images/extracted/img-034-RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp",
+    "width": 1600,
+    "height": 1600,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "404",
+        "alt": "",
+        "w": 295,
+        "h": 227,
+        "filter": "saturate(0.75) contrast(1.05)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 248,
+        "h": 165,
+        "filter": "none"
+      },
+      {
+        "routeId": "home",
+        "alt": "Sole — Sole Supply",
+        "w": 674,
+        "h": 506,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__front-end-development",
+        "alt": "",
+        "w": 416,
+        "h": 297,
+        "filter": "none"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 250,
+        "h": 200,
+        "filter": "saturate(0.9) contrast(1.02)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 250,
+        "h": 200,
+        "filter": "saturate(0.9) contrast(1.02)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 708,
+        "h": 531,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__loop-banking-app",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__pulse-dashboard",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__pulse-dashboard",
+        "alt": "",
+        "w": 636,
+        "h": 424,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__sole-campaign",
+        "alt": "",
+        "w": 1328,
+        "h": 632,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__sole-campaign",
+        "alt": "",
+        "w": 373,
+        "h": 249,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__type-poster-series",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "V6F6MmOz0yYocntSYdagH0c6yk.webp",
+    "deliveryUrl": "/assets/images/extracted/img-035-V6F6MmOz0yYocntSYdagH0c6yk.webp",
+    "width": 1289,
+    "height": 1600,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "404",
+        "alt": "",
+        "w": 295,
+        "h": 227,
+        "filter": "saturate(0.75) contrast(1.05)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 248,
+        "h": 165,
+        "filter": "saturate(0.6) brightness(0.78)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 674,
+        "h": 506,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__product-design",
+        "alt": "",
+        "w": 416,
+        "h": 297,
+        "filter": "none"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 250,
+        "h": 200,
+        "filter": "saturate(0.9) contrast(1.02)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 250,
+        "h": 200,
+        "filter": "saturate(0.9) contrast(1.02)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 485,
+        "h": 606,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__loop-banking-app",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__pulse-dashboard",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__rouge-packaging",
+        "alt": "",
+        "w": 1328,
+        "h": 632,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__rouge-packaging",
+        "alt": "",
+        "w": 373,
+        "h": 249,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__sole-campaign",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__sole-campaign",
+        "alt": "",
+        "w": 636,
+        "h": 424,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "0xS7DiKB6Qv3iIrl5djSaB9cfA.webp",
+    "deliveryUrl": "/assets/images/extracted/img-036-0xS7DiKB6Qv3iIrl5djSaB9cfA.webp",
+    "width": 1600,
+    "height": 1073,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "404",
+        "alt": "",
+        "w": 295,
+        "h": 227,
+        "filter": "saturate(0.75) contrast(1.05)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 248,
+        "h": 165,
+        "filter": "saturate(0.6) brightness(0.78)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 674,
+        "h": 506,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__brand-and-web",
+        "alt": "",
+        "w": 416,
+        "h": 297,
+        "filter": "none"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 250,
+        "h": 200,
+        "filter": "saturate(0.9) contrast(1.02)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 250,
+        "h": 200,
+        "filter": "saturate(0.9) contrast(1.02)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 708,
+        "h": 708,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__nord-brand-identity",
+        "alt": "",
+        "w": 1328,
+        "h": 632,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__nord-brand-identity",
+        "alt": "",
+        "w": 373,
+        "h": 249,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__pulse-dashboard",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__rouge-packaging",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__rouge-packaging",
+        "alt": "",
+        "w": 636,
+        "h": 424,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__sole-campaign",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "HCyXSnJj8tsOubkimG9feSzY.webp",
+    "deliveryUrl": "/assets/images/extracted/img-037-HCyXSnJj8tsOubkimG9feSzY.webp",
+    "width": 1600,
+    "height": 893,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "404",
+        "alt": "",
+        "w": 295,
+        "h": 227,
+        "filter": "saturate(0.75) contrast(1.05)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 248,
+        "h": 165,
+        "filter": "saturate(0.6) brightness(0.78)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 674,
+        "h": 506,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__front-end-development",
+        "alt": "",
+        "w": 416,
+        "h": 297,
+        "filter": "none"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 250,
+        "h": 200,
+        "filter": "saturate(0.9) contrast(1.02)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 250,
+        "h": 200,
+        "filter": "saturate(0.9) contrast(1.02)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 485,
+        "h": 485,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__atlas-dev-platform",
+        "alt": "",
+        "w": 1328,
+        "h": 632,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__atlas-dev-platform",
+        "alt": "",
+        "w": 373,
+        "h": 249,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__nord-brand-identity",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__nord-brand-identity",
+        "alt": "",
+        "w": 636,
+        "h": 424,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__rouge-packaging",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__sole-campaign",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp",
+    "deliveryUrl": "/assets/images/extracted/img-038-ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp",
+    "width": 1289,
+    "height": 1600,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "404",
+        "alt": "",
+        "w": 295,
+        "h": 227,
+        "filter": "saturate(0.75) contrast(1.05)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 248,
+        "h": 165,
+        "filter": "saturate(0.6) brightness(0.78)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 674,
+        "h": 506,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__design-systems",
+        "alt": "",
+        "w": 416,
+        "h": 297,
+        "filter": "none"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 250,
+        "h": 200,
+        "filter": "saturate(0.9) contrast(1.02)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 250,
+        "h": 200,
+        "filter": "saturate(0.9) contrast(1.02)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 708,
+        "h": 531,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__atlas-dev-platform",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__atlas-dev-platform",
+        "alt": "",
+        "w": 636,
+        "h": 424,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__nord-brand-identity",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__print-colour-system",
+        "alt": "",
+        "w": 1328,
+        "h": 632,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__print-colour-system",
+        "alt": "",
+        "w": 373,
+        "h": 249,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__rouge-packaging",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "ogU1zLwwfiOf77V1AWCdup1V0.webp",
+    "deliveryUrl": "/assets/images/extracted/img-039-ogU1zLwwfiOf77V1AWCdup1V0.webp",
+    "width": 1152,
+    "height": 860,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "404",
+        "alt": "",
+        "w": 295,
+        "h": 227,
+        "filter": "saturate(0.75) contrast(1.05)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 248,
+        "h": 165,
+        "filter": "saturate(0.6) brightness(0.78)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 674,
+        "h": 506,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__brand-and-web",
+        "alt": "",
+        "w": 416,
+        "h": 297,
+        "filter": "none"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 250,
+        "h": 200,
+        "filter": "saturate(0.9) contrast(1.02)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 250,
+        "h": 200,
+        "filter": "saturate(0.9) contrast(1.02)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 485,
+        "h": 606,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__atlas-dev-platform",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__nord-brand-identity",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__print-colour-system",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__print-colour-system",
+        "alt": "",
+        "w": 636,
+        "h": 424,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__type-poster-series",
+        "alt": "",
+        "w": 1328,
+        "h": 632,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__type-poster-series",
+        "alt": "",
+        "w": 373,
+        "h": 249,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "wWV2ddZYB4xeHZuWidhxzKZxgb4.svg",
+    "deliveryUrl": "/assets/images/extracted/img-008-wWV2ddZYB4xeHZuWidhxzKZxgb4.svg",
+    "width": null,
+    "height": null,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "404",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "about",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "contact",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__figma-token-plugin",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__film-camera-app",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__motion-cheatsheet",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__shader-gradients",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__ui-sound-kit",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__variable-type-toy",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "privacy",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "resume",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "services",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__brand-and-web",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__design-systems",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__front-end-development",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__product-design",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "terms",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "uses",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__atlas-dev-platform",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__loop-banking-app",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__nord-brand-identity",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__print-colour-system",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__pulse-dashboard",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__rouge-packaging",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__sole-campaign",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__type-poster-series",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__design-in-the-browser",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__design-system-that-sticks",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__freelance-year-three",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__motion-that-means-something",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__pricing-design-work",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__prototype-in-code",
+        "alt": "",
+        "w": 489,
+        "h": 52,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "eVAFXhLhhVnioLmPGlg8sXKpA.webp",
+    "deliveryUrl": "/assets/images/extracted/img-009-eVAFXhLhhVnioLmPGlg8sXKpA.webp",
+    "width": 1152,
+    "height": 1496,
+    "hasAlpha": true,
+    "usages": [
+      {
+        "routeId": "about",
+        "alt": "Portrait of Mara Voss",
+        "w": 471,
+        "h": 642,
+        "filter": "brightness(0.94) contrast(1.04)"
+      },
+      {
+        "routeId": "writing__design-in-the-browser",
+        "alt": "Mara Voss",
+        "w": 34,
+        "h": 34,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__design-system-that-sticks",
+        "alt": "Mara Voss",
+        "w": 34,
+        "h": 34,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__freelance-year-three",
+        "alt": "Mara Voss",
+        "w": 34,
+        "h": 34,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__motion-that-means-something",
+        "alt": "Mara Voss",
+        "w": 34,
+        "h": 34,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__pricing-design-work",
+        "alt": "Mara Voss",
+        "w": 34,
+        "h": 34,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__prototype-in-code",
+        "alt": "Mara Voss",
+        "w": 34,
+        "h": 34,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "NvLO0PQlhNEwe9xWtvBijcoaQ.webp",
+    "deliveryUrl": "/assets/images/extracted/img-010-NvLO0PQlhNEwe9xWtvBijcoaQ.webp",
+    "width": 1320,
+    "height": 737,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "about",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "filter": "grayscale(0.1) brightness(0.95)"
+      },
+      {
+        "routeId": "about",
+        "alt": "Started interaction design at HfG",
+        "w": 249,
+        "h": 166,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "Mwv6ySf9IuxC0Hmo73cSSwfXyX8.webp",
+    "deliveryUrl": "/assets/images/extracted/img-011-Mwv6ySf9IuxC0Hmo73cSSwfXyX8.webp",
+    "width": 1600,
+    "height": 679,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "about",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "filter": "grayscale(0.1) brightness(0.95)"
+      },
+      {
+        "routeId": "about",
+        "alt": "First studio job in Berlin",
+        "w": 249,
+        "h": 166,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "Ggd9vwOGl8CgHM2nQ5WIwCrIyho.webp",
+    "deliveryUrl": "/assets/images/extracted/img-012-Ggd9vwOGl8CgHM2nQ5WIwCrIyho.webp",
+    "width": 1289,
+    "height": 1600,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "about",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "filter": "grayscale(0.55) contrast(1.05) brightness(0.82)"
+      },
+      {
+        "routeId": "about",
+        "alt": "Learned React to stop waiting on handoffs",
+        "w": 249,
+        "h": 166,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "IIITSxUPaHdtRoV1AzVoxzjaY0.webp",
+    "deliveryUrl": "/assets/images/extracted/img-013-IIITSxUPaHdtRoV1AzVoxzjaY0.webp",
+    "width": 1152,
+    "height": 860,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "about",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "filter": "grayscale(0.1) brightness(0.95)"
+      },
+      {
+        "routeId": "about",
+        "alt": "Led design at Loop Bank",
+        "w": 249,
+        "h": 166,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "9jI95ma8pfDzFKbDFbckYGg9y4k.webp",
+    "deliveryUrl": "/assets/images/extracted/img-014-9jI95ma8pfDzFKbDFbckYGg9y4k.webp",
+    "width": 1600,
+    "height": 893,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "about",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "filter": "grayscale(0.55) contrast(1.05) brightness(0.82)"
+      },
+      {
+        "routeId": "about",
+        "alt": "Went independent",
+        "w": 249,
+        "h": 166,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "YmJpQL1jG8ThItAouogebliWLjQ.webp",
+    "deliveryUrl": "/assets/images/extracted/img-015-YmJpQL1jG8ThItAouogebliWLjQ.webp",
+    "width": 1600,
+    "height": 679,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "about",
+        "alt": "",
+        "w": 0,
+        "h": 0,
+        "filter": "grayscale(0.55) contrast(1.05) brightness(0.82)"
+      },
+      {
+        "routeId": "about",
+        "alt": "Taking on 3 projects a quarter",
+        "w": 249,
+        "h": 166,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "MCgkGHgpaBXia3pVo71MdUl6XIU.webp",
+    "deliveryUrl": "/assets/images/extracted/img-016-MCgkGHgpaBXia3pVo71MdUl6XIU.webp",
+    "width": 1600,
+    "height": 1589,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "about",
+        "alt": "Colour tests, week 2",
+        "w": 0,
+        "h": 0,
+        "filter": "none"
+      },
+      {
+        "routeId": "about",
+        "alt": "Colour tests, week 2",
+        "w": 301,
+        "h": 346,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "Hpvs4on63pfmM1uLEVR4hZoS8s.webp",
+    "deliveryUrl": "/assets/images/extracted/img-017-Hpvs4on63pfmM1uLEVR4hZoS8s.webp",
+    "width": 1289,
+    "height": 1600,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "about",
+        "alt": "The desk, Berlin",
+        "w": 0,
+        "h": 0,
+        "filter": "none"
+      },
+      {
+        "routeId": "about",
+        "alt": "The desk, Berlin",
+        "w": 296,
+        "h": 342,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "5dGp3uiYzUdAKjLhL2gPS4MLUIA.webp",
+    "deliveryUrl": "/assets/images/extracted/img-018-5dGp3uiYzUdAKjLhL2gPS4MLUIA.webp",
+    "width": 860,
+    "height": 1152,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "about",
+        "alt": "Friday review",
+        "w": 0,
+        "h": 0,
+        "filter": "none"
+      },
+      {
+        "routeId": "about",
+        "alt": "Friday review",
+        "w": 294,
+        "h": 340,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "dunKMZI2kyT07lXHFIEvckbg60.webp",
+    "deliveryUrl": "/assets/images/extracted/img-028-dunKMZI2kyT07lXHFIEvckbg60.webp",
+    "width": 382,
+    "height": 512,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "about",
+        "alt": "",
+        "w": 73,
+        "h": 73,
+        "filter": "grayscale(1) contrast(1.15)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 73,
+        "h": 73,
+        "filter": "grayscale(1) contrast(1.15)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 73,
+        "h": 73,
+        "filter": "grayscale(1) contrast(1.15)"
+      }
+    ]
+  },
+  {
+    "framerFile": "4tAaRWdCGFFP6inkIMQvhHVYg.webp",
+    "deliveryUrl": "/assets/images/extracted/img-029-4tAaRWdCGFFP6inkIMQvhHVYg.webp",
+    "width": 382,
+    "height": 512,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "about",
+        "alt": "",
+        "w": 72,
+        "h": 72,
+        "filter": "grayscale(1) contrast(1.15)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 72,
+        "h": 72,
+        "filter": "grayscale(1) contrast(1.15)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 72,
+        "h": 72,
+        "filter": "grayscale(1) contrast(1.15)"
+      }
+    ]
+  },
+  {
+    "framerFile": "VKW79qnYyo2u8EtRfJzLP6uts.webp",
+    "deliveryUrl": "/assets/images/extracted/img-030-VKW79qnYyo2u8EtRfJzLP6uts.webp",
+    "width": 382,
+    "height": 512,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "about",
+        "alt": "",
+        "w": 71,
+        "h": 71,
+        "filter": "grayscale(1) contrast(1.15)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 71,
+        "h": 71,
+        "filter": "grayscale(1) contrast(1.15)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 71,
+        "h": 71,
+        "filter": "grayscale(1) contrast(1.15)"
+      }
+    ]
+  },
+  {
+    "framerFile": "QEChA2dUSATQtS9xNXPe2Tts.webp",
+    "deliveryUrl": "/assets/images/extracted/img-031-QEChA2dUSATQtS9xNXPe2Tts.webp",
+    "width": 600,
+    "height": 600,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "about",
+        "alt": "",
+        "w": 71,
+        "h": 71,
+        "filter": "grayscale(1) contrast(1.15)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 71,
+        "h": 71,
+        "filter": "grayscale(1) contrast(1.15)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 71,
+        "h": 71,
+        "filter": "grayscale(1) contrast(1.15)"
+      }
+    ]
+  },
+  {
+    "framerFile": "G8Lzu2FTtZBjR2kg4UmFJMoCHUc.webp",
+    "deliveryUrl": "/assets/images/extracted/img-032-G8Lzu2FTtZBjR2kg4UmFJMoCHUc.webp",
+    "width": 448,
+    "height": 600,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "about",
+        "alt": "",
+        "w": 73,
+        "h": 73,
+        "filter": "grayscale(1) contrast(1.15)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 73,
+        "h": 73,
+        "filter": "grayscale(1) contrast(1.15)"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 73,
+        "h": 73,
+        "filter": "grayscale(1) contrast(1.15)"
+      }
+    ]
+  },
+  {
+    "framerFile": "R2fb4UeMhFZlfe2DqK1ITMlyrU.webp",
+    "deliveryUrl": "/assets/images/extracted/img-033-R2fb4UeMhFZlfe2DqK1ITMlyrU.webp",
+    "width": 825,
+    "height": 1024,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 401,
+        "h": 496,
+        "filter": "invert(1) grayscale(0.4) contrast(1.15) brightness(0.95)"
+      },
+      {
+        "routeId": "home",
+        "alt": "Mara at her desk, working on a laptop",
+        "w": 401,
+        "h": 496,
+        "filter": "grayscale(1) contrast(0.72) brightness(0.72) sepia(0.5)"
+      }
+    ]
+  },
+  {
+    "framerFile": "aCXktoLBfWbawiZ7GZnH7tUqE.webp",
+    "deliveryUrl": "/assets/images/extracted/img-040-aCXktoLBfWbawiZ7GZnH7tUqE.webp",
+    "width": 1600,
+    "height": 1195,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 248,
+        "h": 165,
+        "filter": "saturate(0.6) brightness(0.78)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 674,
+        "h": 506,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__product-design",
+        "alt": "",
+        "w": 416,
+        "h": 297,
+        "filter": "none"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 708,
+        "h": 708,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__atlas-dev-platform",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__loop-banking-app",
+        "alt": "",
+        "w": 1328,
+        "h": 632,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__loop-banking-app",
+        "alt": "",
+        "w": 373,
+        "h": 249,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__print-colour-system",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__type-poster-series",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__type-poster-series",
+        "alt": "",
+        "w": 636,
+        "h": 424,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "VJUprwfcrDZhu5hrAX7RykPiVU.webp",
+    "deliveryUrl": "/assets/images/extracted/img-041-VJUprwfcrDZhu5hrAX7RykPiVU.webp",
+    "width": 1289,
+    "height": 1600,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 248,
+        "h": 165,
+        "filter": "saturate(0.6) brightness(0.78)"
+      },
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 674,
+        "h": 506,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__design-systems",
+        "alt": "",
+        "w": 416,
+        "h": 297,
+        "filter": "none"
+      },
+      {
+        "routeId": "work",
+        "alt": "",
+        "w": 485,
+        "h": 485,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__loop-banking-app",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__loop-banking-app",
+        "alt": "",
+        "w": 636,
+        "h": 424,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__print-colour-system",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__pulse-dashboard",
+        "alt": "",
+        "w": 1328,
+        "h": 632,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__pulse-dashboard",
+        "alt": "",
+        "w": 373,
+        "h": 249,
+        "filter": "none"
+      },
+      {
+        "routeId": "work__type-poster-series",
+        "alt": "",
+        "w": 429,
+        "h": 318,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "geINM5CMmcifnkxZDAyX24Jtnwc.webp",
+    "deliveryUrl": "/assets/images/extracted/img-042-geINM5CMmcifnkxZDAyX24Jtnwc.webp",
+    "width": 1024,
+    "height": 687,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "A designer at a desk, lit for a studio still",
+        "w": 679,
+        "h": 687,
+        "filter": "grayscale(1) contrast(1.12) brightness(1.06)"
+      }
+    ]
+  },
+  {
+    "framerFile": "JD3bjmPjRlGATEMpkcwri45Bxdg.webp",
+    "deliveryUrl": "/assets/images/extracted/img-056-JD3bjmPjRlGATEMpkcwri45Bxdg.webp",
+    "width": 1152,
+    "height": 860,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 419,
+        "h": 314,
+        "filter": "saturate(0.85) contrast(1.05)"
+      },
+      {
+        "routeId": "lab",
+        "alt": "",
+        "w": 403,
+        "h": 303,
+        "filter": "grayscale(0) brightness(1) contrast(1.05)"
+      },
+      {
+        "routeId": "lab__figma-token-plugin",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__film-camera-app",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__motion-cheatsheet",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__shader-gradients",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__ui-sound-kit",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__variable-type-toy",
+        "alt": "",
+        "w": 1328,
+        "h": 632,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "atXjlwGx5GV7KloSOqPuvH7S7Cw.webp",
+    "deliveryUrl": "/assets/images/extracted/img-057-atXjlwGx5GV7KloSOqPuvH7S7Cw.webp",
+    "width": 1152,
+    "height": 860,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 419,
+        "h": 314,
+        "filter": "saturate(0.85) contrast(1.05)"
+      },
+      {
+        "routeId": "lab",
+        "alt": "",
+        "w": 403,
+        "h": 303,
+        "filter": "grayscale(0) brightness(1) contrast(1.05)"
+      },
+      {
+        "routeId": "lab__figma-token-plugin",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__film-camera-app",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__motion-cheatsheet",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__shader-gradients",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__ui-sound-kit",
+        "alt": "",
+        "w": 1328,
+        "h": 632,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__variable-type-toy",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "yWReFKzsaMwrYkGZvDJEDKL4.webp",
+    "deliveryUrl": "/assets/images/extracted/img-058-yWReFKzsaMwrYkGZvDJEDKL4.webp",
+    "width": 1600,
+    "height": 1195,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 419,
+        "h": 314,
+        "filter": "saturate(0.85) contrast(1.05)"
+      },
+      {
+        "routeId": "lab",
+        "alt": "",
+        "w": 403,
+        "h": 303,
+        "filter": "grayscale(1) brightness(0.42) contrast(1.2)"
+      },
+      {
+        "routeId": "lab__figma-token-plugin",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__film-camera-app",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__motion-cheatsheet",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__shader-gradients",
+        "alt": "",
+        "w": 1328,
+        "h": 632,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__ui-sound-kit",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__variable-type-toy",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "NknmqvAs4nc8W7at7d9CwbG0DXI.webp",
+    "deliveryUrl": "/assets/images/extracted/img-055-NknmqvAs4nc8W7at7d9CwbG0DXI.webp",
+    "width": 1289,
+    "height": 1600,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 419,
+        "h": 314,
+        "filter": "saturate(0.85) contrast(1.05)"
+      },
+      {
+        "routeId": "lab",
+        "alt": "",
+        "w": 403,
+        "h": 303,
+        "filter": "grayscale(0.130039) brightness(0.924577) contrast(1.06951)"
+      },
+      {
+        "routeId": "lab__figma-token-plugin",
+        "alt": "",
+        "w": 1328,
+        "h": 632,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__film-camera-app",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__motion-cheatsheet",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__shader-gradients",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__ui-sound-kit",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__variable-type-toy",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "OQ5Ct4PhqbpHPIx3QmbiZE2JrsU.webp",
+    "deliveryUrl": "/assets/images/extracted/img-059-OQ5Ct4PhqbpHPIx3QmbiZE2JrsU.webp",
+    "width": 1289,
+    "height": 1600,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 419,
+        "h": 314,
+        "filter": "saturate(0.85) contrast(1.05)"
+      },
+      {
+        "routeId": "lab",
+        "alt": "",
+        "w": 403,
+        "h": 303,
+        "filter": "grayscale(0) brightness(1) contrast(1.05)"
+      },
+      {
+        "routeId": "lab__figma-token-plugin",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__film-camera-app",
+        "alt": "",
+        "w": 1328,
+        "h": 632,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__motion-cheatsheet",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__shader-gradients",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__ui-sound-kit",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__variable-type-toy",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "fK9KxCaxD3qarScDjSZCTpzcE.webp",
+    "deliveryUrl": "/assets/images/extracted/img-060-fK9KxCaxD3qarScDjSZCTpzcE.webp",
+    "width": 860,
+    "height": 1152,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 419,
+        "h": 314,
+        "filter": "saturate(0.85) contrast(1.05)"
+      },
+      {
+        "routeId": "lab",
+        "alt": "",
+        "w": 403,
+        "h": 303,
+        "filter": "grayscale(0.479949) brightness(0.721629) contrast(1.12199)"
+      },
+      {
+        "routeId": "lab__figma-token-plugin",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__film-camera-app",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__motion-cheatsheet",
+        "alt": "",
+        "w": 1328,
+        "h": 632,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__shader-gradients",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__ui-sound-kit",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      },
+      {
+        "routeId": "lab__variable-type-toy",
+        "alt": "",
+        "w": 256,
+        "h": 205,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "bznkQafxtHVg5PuXhN9M4pu1V0.webp",
+    "deliveryUrl": "/assets/images/extracted/img-096-bznkQafxtHVg5PuXhN9M4pu1V0.webp",
+    "width": 1600,
+    "height": 893,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 202,
+        "h": 152,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing",
+        "alt": "",
+        "w": 573,
+        "h": 435,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing__design-in-the-browser",
+        "alt": "",
+        "w": 1180,
+        "h": 663,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "PpTR1Mxgqsktzv1MQ1lUKPEafRU.webp",
+    "deliveryUrl": "/assets/images/extracted/img-097-PpTR1Mxgqsktzv1MQ1lUKPEafRU.webp",
+    "width": 1289,
+    "height": 1600,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 202,
+        "h": 152,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing",
+        "alt": "",
+        "w": 84,
+        "h": 105,
+        "filter": "invert(1) hue-rotate(180deg) sepia(0.35) saturate(1.4) contrast(0.9)"
+      },
+      {
+        "routeId": "writing__design-system-that-sticks",
+        "alt": "",
+        "w": 1180,
+        "h": 663,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "5bXMAvnit1eUIzXELNqHCZQnVs.webp",
+    "deliveryUrl": "/assets/images/extracted/img-098-5bXMAvnit1eUIzXELNqHCZQnVs.webp",
+    "width": 860,
+    "height": 1152,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 202,
+        "h": 152,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing",
+        "alt": "",
+        "w": 84,
+        "h": 105,
+        "filter": "invert(1) hue-rotate(180deg) sepia(0.35) saturate(1.4) contrast(0.9)"
+      },
+      {
+        "routeId": "writing__freelance-year-three",
+        "alt": "",
+        "w": 1180,
+        "h": 663,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "QVP3uxm3Hvvp8Mxf2joctCJOGUM.webp",
+    "deliveryUrl": "/assets/images/extracted/img-101-QVP3uxm3Hvvp8Mxf2joctCJOGUM.webp",
+    "width": 1289,
+    "height": 1600,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 202,
+        "h": 152,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing",
+        "alt": "",
+        "w": 84,
+        "h": 105,
+        "filter": "invert(1) hue-rotate(180deg) sepia(0.35) saturate(1.4) contrast(0.9)"
+      },
+      {
+        "routeId": "writing__prototype-in-code",
+        "alt": "",
+        "w": 1180,
+        "h": 663,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "ei7vmtbW4VQ8vJiDMxdjZZJD2l0.webp",
+    "deliveryUrl": "/assets/images/extracted/img-099-ei7vmtbW4VQ8vJiDMxdjZZJD2l0.webp",
+    "width": 1073,
+    "height": 1600,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 202,
+        "h": 152,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing",
+        "alt": "",
+        "w": 84,
+        "h": 105,
+        "filter": "invert(1) hue-rotate(180deg) sepia(0.35) saturate(1.4) contrast(0.9)"
+      },
+      {
+        "routeId": "writing__motion-that-means-something",
+        "alt": "",
+        "w": 1180,
+        "h": 663,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "1dBHoFbiic6nrGionS6rUKisM.webp",
+    "deliveryUrl": "/assets/images/extracted/img-100-1dBHoFbiic6nrGionS6rUKisM.webp",
+    "width": 1600,
+    "height": 893,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "home",
+        "alt": "",
+        "w": 202,
+        "h": 152,
+        "filter": "none"
+      },
+      {
+        "routeId": "writing",
+        "alt": "",
+        "w": 84,
+        "h": 105,
+        "filter": "invert(1) hue-rotate(180deg) sepia(0.35) saturate(1.4) contrast(0.9)"
+      },
+      {
+        "routeId": "writing__pricing-design-work",
+        "alt": "",
+        "w": 1180,
+        "h": 663,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "ffAmvDyJjjPNHR5Fj8Esu7CwN5A.webp",
+    "deliveryUrl": "/assets/images/extracted/img-061-ffAmvDyJjjPNHR5Fj8Esu7CwN5A.webp",
+    "width": 1024,
+    "height": 572,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "services",
+        "alt": "",
+        "w": 420,
+        "h": 468,
+        "filter": "grayscale(1) contrast(1.12) brightness(1.02)"
+      }
+    ]
+  },
+  {
+    "framerFile": "iATTEUMOxSA9DzTURc6y2a5Aj8.webp",
+    "deliveryUrl": "/assets/images/extracted/img-062-iATTEUMOxSA9DzTURc6y2a5Aj8.webp",
+    "width": 1024,
+    "height": 572,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "services",
+        "alt": "",
+        "w": 684,
+        "h": 470,
+        "filter": "grayscale(1) contrast(1.1) brightness(1.05)"
+      }
+    ]
+  },
+  {
+    "framerFile": "c0aR6WYtarutrAEBEsQ6EIAxE3Q.webp",
+    "deliveryUrl": "/assets/images/extracted/img-063-c0aR6WYtarutrAEBEsQ6EIAxE3Q.webp",
+    "width": 1024,
+    "height": 765,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "services",
+        "alt": "",
+        "w": 684,
+        "h": 470,
+        "filter": "grayscale(1) contrast(1.1) brightness(1.05)"
+      }
+    ]
+  },
+  {
+    "framerFile": "KMkb8UnibQEc20ypbKLVInvvs.webp",
+    "deliveryUrl": "/assets/images/extracted/img-064-KMkb8UnibQEc20ypbKLVInvvs.webp",
+    "width": 1024,
+    "height": 1024,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "services",
+        "alt": "",
+        "w": 684,
+        "h": 470,
+        "filter": "grayscale(1) contrast(1.1) brightness(1.05)"
+      }
+    ]
+  },
+  {
+    "framerFile": "4hXtqs2Q7ZlNPLBUNVEjL4QbBqc.webp",
+    "deliveryUrl": "/assets/images/extracted/img-065-4hXtqs2Q7ZlNPLBUNVEjL4QbBqc.webp",
+    "width": 1024,
+    "height": 764,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "services",
+        "alt": "",
+        "w": 684,
+        "h": 470,
+        "filter": "grayscale(1) contrast(1.1) brightness(1.05)"
+      }
+    ]
+  },
+  {
+    "framerFile": "18c9pII8taHcGIDqoxag0A2vk.webp",
+    "deliveryUrl": "/assets/images/extracted/img-066-18c9pII8taHcGIDqoxag0A2vk.webp",
+    "width": 1152,
+    "height": 860,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "services__brand-and-web",
+        "alt": "",
+        "w": 581,
+        "h": 519,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__design-systems",
+        "alt": "",
+        "w": 54,
+        "h": 54,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__front-end-development",
+        "alt": "",
+        "w": 54,
+        "h": 54,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__product-design",
+        "alt": "",
+        "w": 54,
+        "h": 54,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "WqEqSWtX1rMGJmwAo8gQwPliYI.webp",
+    "deliveryUrl": "/assets/images/extracted/img-069-WqEqSWtX1rMGJmwAo8gQwPliYI.webp",
+    "width": 1024,
+    "height": 572,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "services__brand-and-web",
+        "alt": "",
+        "w": 54,
+        "h": 54,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__design-systems",
+        "alt": "",
+        "w": 54,
+        "h": 54,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__front-end-development",
+        "alt": "",
+        "w": 54,
+        "h": 54,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__product-design",
+        "alt": "",
+        "w": 581,
+        "h": 519,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "lEcExTmPEw7egM9qDuhNmHczglk.webp",
+    "deliveryUrl": "/assets/images/extracted/img-070-lEcExTmPEw7egM9qDuhNmHczglk.webp",
+    "width": 1024,
+    "height": 765,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "services__brand-and-web",
+        "alt": "",
+        "w": 54,
+        "h": 54,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__design-systems",
+        "alt": "",
+        "w": 581,
+        "h": 519,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__front-end-development",
+        "alt": "",
+        "w": 54,
+        "h": 54,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__product-design",
+        "alt": "",
+        "w": 54,
+        "h": 54,
+        "filter": "none"
+      }
+    ]
+  },
+  {
+    "framerFile": "dG7V1SdZcfOGRZzCnDBrK1EwXs.webp",
+    "deliveryUrl": "/assets/images/extracted/img-075-dG7V1SdZcfOGRZzCnDBrK1EwXs.webp",
+    "width": 1024,
+    "height": 1024,
+    "hasAlpha": false,
+    "usages": [
+      {
+        "routeId": "services__brand-and-web",
+        "alt": "",
+        "w": 54,
+        "h": 54,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__design-systems",
+        "alt": "",
+        "w": 54,
+        "h": 54,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__front-end-development",
+        "alt": "",
+        "w": 581,
+        "h": 519,
+        "filter": "none"
+      },
+      {
+        "routeId": "services__product-design",
+        "alt": "",
+        "w": 54,
+        "h": 54,
+        "filter": "none"
+      }
+    ]
+  }
+]
