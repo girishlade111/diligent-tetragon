@@ -11,6 +11,7 @@ export function SiteHeader() {
   const pathname = usePathname();
   const [menuOpen, setMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const [pendingHref, setPendingHref] = useState<string | null>(null);
 
   const isDarkHeroRoute =
     pathname === '/work' ||
@@ -23,7 +24,20 @@ export function SiteHeader() {
 
   useEffect(() => {
     setMenuOpen(false);
+    setPendingHref(null);
   }, [pathname]);
+
+  function handleNavClick(href: string, closeMenu = false) {
+    if (href === pathname) {
+      if (closeMenu) setMenuOpen(false);
+      setPendingHref(null);
+      if (typeof window !== 'undefined') {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+      return;
+    }
+    setPendingHref(href);
+  }
 
   useEffect(() => {
     function onScroll() {

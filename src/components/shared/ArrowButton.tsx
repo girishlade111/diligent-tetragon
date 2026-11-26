@@ -99,6 +99,7 @@ export function ArrowButton({
           href={href}
           className={classes}
           aria-label={ariaLabel || label}
+          onClick={onClick}
           {...(external ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
           {...(download ? { download: true } : {})}
         >
@@ -108,7 +109,13 @@ export function ArrowButton({
     }
 
     return (
-      <Link href={href} className={classes} aria-label={ariaLabel || label}>
+      <Link
+        href={href}
+        prefetch={true}
+        onClick={onClick}
+        className={classes}
+        aria-label={ariaLabel || label}
+      >
         {inner}
       </Link>
     );
