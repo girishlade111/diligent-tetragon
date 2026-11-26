@@ -73,6 +73,7 @@ export function CinematicPreloader() {
       aria-modal="true"
       aria-label="Introductory studio slate"
       data-testid="cinematic-preloader"
+      onClick={dismiss}
     >
       <div className="mv-pre-corners" aria-hidden="true">
         <span />
