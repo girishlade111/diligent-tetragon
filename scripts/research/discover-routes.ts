@@ -146,7 +146,7 @@ async function main() {
         h1: meta.h1,
         description: meta.desc,
         ogTitle: meta.ogTitle,
-        ogDescription: meta.ogDescription,
+        ogDescription: meta.ogDesc,
         ogImage: meta.ogImage,
         httpStatus: status,
         redirectTarget: finalUrl !== url ? finalUrl : null,
