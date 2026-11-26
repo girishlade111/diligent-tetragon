@@ -1,0 +1,34 @@
+{
+  "id": "work__atlas-dev-platform",
+  "localPath": "/work/atlas-dev-platform",
+  "fullPage": {
+    "width": 1440,
+    "height": 6060,
+    "refSize": {
+      "width": 1440,
+      "height": 6410
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 6060
+    },
+    "diffPixels": 3312362,
+    "totalPixels": 8726400,
+    "diffPercent": 37.96
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 794142,
+    "totalPixels": 1296000,
+    "diffPercent": 61.28
+  }
+}

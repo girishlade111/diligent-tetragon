@@ -1,0 +1,34 @@
+{
+  "id": "work__type-poster-series",
+  "localPath": "/work/type-poster-series",
+  "fullPage": {
+    "width": 1440,
+    "height": 5981,
+    "refSize": {
+      "width": 1440,
+      "height": 6427
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 5981
+    },
+    "diffPixels": 3202058,
+    "totalPixels": 8612640,
+    "diffPercent": 37.18
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 815316,
+    "totalPixels": 1296000,
+    "diffPercent": 62.91
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "work__print-colour-system",
+  "localPath": "/work/print-colour-system",
+  "fullPage": {
+    "width": 1440,
+    "height": 6052,
+    "refSize": {
+      "width": 1440,
+      "height": 6468
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 6052
+    },
+    "diffPixels": 3453827,
+    "totalPixels": 8714880,
+    "diffPercent": 39.63
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 844303,
+    "totalPixels": 1296000,
+    "diffPercent": 65.15
+  }
+}
