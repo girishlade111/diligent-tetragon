@@ -1,0 +1,49 @@
+{
+  "generatedAt": "2026-11-26T00:00:00Z",
+  "resolved": [
+    {
+      "id": "DISC-01",
+      "area": "Hero display lockup & centered VOSS",
+      "finding": "VOSS second line spanned edge-to-edge on first capture.",
+      "resolution": "Centered .mvp-name-row with tight letter-spacing (-0.055em) and responsive clamp sizing; reduced aboveFold pixel diff on / from 43.45% to 36.6%."
+    },
+    {
+      "id": "DISC-02",
+      "area": "/services hero theme",
+      "finding": "Reference uses light bone (#f1ece4) hero background; initial reconstruction used dark (#171311).",
+      "resolution": "Updated ServicesOverviewClient hero to light bone theme (.mv-lt); reduced /services aboveFold pixel diff from 64.29% to 29.09%."
+    },
+    {
+      "id": "DISC-03",
+      "area": "/work/[slug] hero & /lab/[slug] page theme",
+      "finding": "Reference uses dark (#171311) hero backdrop on case studies and dark ground across Lab detail pages.",
+      "resolution": "Switched .mv-case-hero and .mv-lab-detail to dark surfaces with light contrast tokens; reduced /work/rouge-packaging aboveFold diff from 53.04% to 15.49% and /lab/shader-gradients from 41.33% to 7.56%."
+    },
+    {
+      "id": "DISC-04",
+      "area": "Image eager decoding below fold",
+      "finding": "Initial route check flagged lazy below-fold images with naturalWidth === 0 at y=0.",
+      "resolution": "Switched gallery images across 12 components/pages to eager loading; route audit now reports imgsBroken=0 across all 34 audited routes."
+    },
+    {
+      "id": "DISC-05",
+      "area": "WCAG 2.2 AA accessibility compliance",
+      "finding": "Initial axe-core sweep detected color-contrast warnings on muted stone/orange small labels, button fill overlay detection, aria-allowed-role on BookingTickets links, label-content-name-mismatch on Copy/Clapperboard/Light controls, and focusable code panel.",
+      "resolution": "Added --mv-brass-ink (#b5320e), raised --mv-stone contrast (#575049) and dark muted text opacity (0.82), used semantic ul/li in BookingTickets, aligned aria-label/visible text, added tabIndex={0} to scrollable code panels, and set resting opacity: 0 on .mv-fill. Final audit reports axe=0 across all 34 audited routes + /uses + /404."
+    }
+  ],
+  "remainingStructuralVariance": [
+    {
+      "route": "/",
+      "detail": "Document height 12482px vs reference 19133px (scroll-pinned spacer height condensed so scroll scenes stay responsive while removing Framer fixed scroll-spacer padding and Framer marketplace badge overlays)."
+    },
+    {
+      "route": "/about",
+      "detail": "Document height 8423px vs reference 11438px (pinned timeline converted into accessible 6-frame Roll 01 contact-print grid without scroll-trap height bloat)."
+    },
+    {
+      "routes": "All",
+      "detail": "Deliberately omitted Framer marketplace promo widgets ('Get template', 'Get All-Access', 'Made in Framer') and fixed Framer sandbox overlays present in reference screenshots."
+    }
+  ]
+}
