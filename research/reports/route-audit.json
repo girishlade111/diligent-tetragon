@@ -31,13 +31,7 @@
       "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
-      "axeViolations": [
-        {
-          "id": "color-contrast",
-          "impact": "serious",
-          "nodes": 3
-        }
-      ]
+      "axeViolations": []
     },
     {
       "path": "/resume",
@@ -217,13 +211,7 @@
       "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
-      "axeViolations": [
-        {
-          "id": "color-contrast",
-          "impact": "serious",
-          "nodes": 1
-        }
-      ]
+      "axeViolations": []
     },
     {
       "path": "/lab/ui-sound-kit",
@@ -233,13 +221,7 @@
       "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
-      "axeViolations": [
-        {
-          "id": "color-contrast",
-          "impact": "serious",
-          "nodes": 1
-        }
-      ]
+      "axeViolations": []
     },
     {
       "path": "/lab/shader-gradients",
@@ -249,13 +231,7 @@
       "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
-      "axeViolations": [
-        {
-          "id": "color-contrast",
-          "impact": "serious",
-          "nodes": 1
-        }
-      ]
+      "axeViolations": []
     },
     {
       "path": "/lab/figma-token-plugin",
@@ -265,13 +241,7 @@
       "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
-      "axeViolations": [
-        {
-          "id": "color-contrast",
-          "impact": "serious",
-          "nodes": 1
-        }
-      ]
+      "axeViolations": []
     },
     {
       "path": "/lab/film-camera-app",
@@ -281,13 +251,7 @@
       "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
-      "axeViolations": [
-        {
-          "id": "color-contrast",
-          "impact": "serious",
-          "nodes": 1
-        }
-      ]
+      "axeViolations": []
     },
     {
       "path": "/lab/motion-cheatsheet",
@@ -297,13 +261,7 @@
       "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
-      "axeViolations": [
-        {
-          "id": "color-contrast",
-          "impact": "serious",
-          "nodes": 1
-        }
-      ]
+      "axeViolations": []
     },
     {
       "path": "/writing/design-in-the-browser",
