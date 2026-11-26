@@ -1,0 +1,34 @@
+{
+  "id": "work__nord-brand-identity",
+  "localPath": "/work/nord-brand-identity",
+  "fullPage": {
+    "width": 1440,
+    "height": 6071,
+    "refSize": {
+      "width": 1440,
+      "height": 6530
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 6071
+    },
+    "diffPixels": 3227584,
+    "totalPixels": 8742240,
+    "diffPercent": 36.92
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 747722,
+    "totalPixels": 1296000,
+    "diffPercent": 57.69
+  }
+}
