@@ -31,9 +31,10 @@ export function Clapperboard({
     <button
       type="button"
       onClick={triggerSnap}
-      aria-label={`Film clapperboard slate, Scene ${scene}, Take ${take}. Activate to snap slate.`}
+      title={`Film clapperboard slate — Scene ${scene}, Take ${take}`}
       className={`mv-clap ${variant === 'hero' ? 'is-hero' : 'is-footer'} ${clapped ? 'is-clapping' : ''} ${className}`.trim()}
     >
+      <span className="mv-sr">Film slate, activate to snap — </span>
       <span className="mv-clap-arm" aria-hidden="true">
         <span className="mv-clap-stripes" />
       </span>

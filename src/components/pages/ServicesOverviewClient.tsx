@@ -12,12 +12,12 @@ export function ServicesOverviewClient() {
 
   return (
     <>
-      <section className="mvsg-hero mv-dark" aria-labelledby="services-hero-heading">
+      <section className="mvsg-hero mv-lt" aria-labelledby="services-hero-heading">
         <div className="mv-wrap mvsg-hero-inner">
           <div className="mvsg-hero-copy">
-            <FramePill label="FRAME 03 — Services" dark />
+            <FramePill label="FRAME 03 — Services" />
             <h1 id="services-hero-heading" className="mv-hd mv-hd-xl mvsg-title">
-              What I can <span className="mv-hl-orange">do</span> for you.
+              What I can <span className="mv-hl-box">do</span> for you.
             </h1>
             <p className="mvsg-sub">
               Four ways to work together, from a one-week sprint to a full product built and
@@ -83,7 +83,7 @@ export function ServicesOverviewClient() {
                     alt={`${svc.title} studio photography`}
                     width={640}
                     height={400}
-                    loading="lazy"
+                    loading="eager"
                   />
                   <span className="mvsg-card-gel" style={{ background: svc.gelColor }} />
                   <span className="mvsg-card-gel-tag">

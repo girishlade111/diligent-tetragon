@@ -92,7 +92,7 @@ export function LabFilmReel() {
                   alt={exp.title}
                   width={420}
                   height={280}
-                  loading="lazy"
+                  loading="eager"
                 />
               </div>
               <div className="mvlb-frame-body">

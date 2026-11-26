@@ -96,7 +96,7 @@ export function AboutPageClient() {
                       alt={`${ev.year}: ${ev.title}`}
                       width={480}
                       height={320}
-                      loading="lazy"
+                      loading="eager"
                     />
                   </div>
                   <span className="mvab-tl-year">{ev.year}</span>
@@ -146,7 +146,7 @@ export function AboutPageClient() {
                       alt={frame.caption}
                       width={360}
                       height={440}
-                      loading="lazy"
+                      loading="eager"
                     />
                     <span className="mvab-glint" aria-hidden="true" />
                   </div>

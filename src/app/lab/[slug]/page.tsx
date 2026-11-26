@@ -137,7 +137,7 @@ export default async function LabDetailPage({
                   alt={item.title}
                   width={320}
                   height={200}
-                  loading="lazy"
+                  loading="eager"
                 />
                 <span>
                   {item.category} · {item.year}

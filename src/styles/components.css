@@ -162,7 +162,7 @@
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  color: rgba(241, 236, 228, 0.65);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mv-mobile-list {
@@ -259,7 +259,7 @@
   font-size: 12px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: rgba(241, 236, 228, 0.72);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mv-pre-rec {
@@ -295,7 +295,7 @@
 
 .mv-pre-sub {
   font-size: 16px;
-  color: rgba(241, 236, 228, 0.72);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mv-pre-progress {
@@ -417,11 +417,12 @@
 
 .mvp-name-row {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 0.015em;
   font-family: var(--mv-font-d);
   font-weight: 700;
-  font-stretch: 120%;
-  font-size: clamp(74px, 24vw, 360px);
+  font-stretch: 118%;
+  font-size: clamp(78px, 24vw, 355px);
   line-height: 0.82;
   letter-spacing: -0.055em;
   color: var(--mv-ink);
@@ -432,7 +433,8 @@
 }
 
 .mvp-name-row-bot {
-  margin-top: 0.04em;
+  font-size: clamp(62px, 14.2vw, 225px);
+  margin-top: -0.02em;
 }
 
 .mvp-stage {
@@ -893,7 +895,7 @@
 .mvwk-mono-lbl {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.65);
+  color: rgba(241, 236, 228, 0.82);
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
@@ -966,7 +968,7 @@
 .mvwk-proj-meta {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.72);
+  color: rgba(241, 236, 228, 0.82);
   margin-top: 6px;
 }
 
@@ -981,8 +983,9 @@
   margin-top: 8px;
   padding: 4px 10px;
   border-radius: 999px;
-  background: rgba(255, 91, 46, 0.16);
-  color: var(--mv-brass);
+  background: var(--mv-brass);
+  color: var(--mv-ink);
+  font-weight: 600;
   font-family: var(--mv-font-m);
   font-size: 12px;
 }
@@ -1422,7 +1425,7 @@
 .mvpr-slate-next {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.72);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mvpr-slate-copy {
@@ -1653,7 +1656,7 @@
   text-align: right;
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.7);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mvcr-roll {
@@ -1688,7 +1691,7 @@
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  color: rgba(241, 236, 228, 0.56);
+  color: rgba(241, 236, 228, 0.82);
   padding-bottom: 8px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.14);
 }
@@ -1716,7 +1719,7 @@
   font-style: normal;
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.6);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mvcr-co {
@@ -1727,7 +1730,7 @@
 
 .mvcr-sum {
   font-size: 14px;
-  color: rgba(241, 236, 228, 0.72);
+  color: rgba(241, 236, 228, 0.82);
   margin-top: 6px;
 }
 
@@ -1741,7 +1744,7 @@
 .mvcr-outro span {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.65);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mvcr-outro strong {
@@ -1956,7 +1959,7 @@
 .mvlb-counter {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.72);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mvlb-nav-btns {
@@ -2033,13 +2036,14 @@
 .mvlb-tail {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.65);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mvlb-frame {
   width: 340px;
   flex: none;
   background: #1d1816;
+  color: var(--mv-bone);
   border: 1px solid rgba(255, 255, 255, 0.14);
   border-radius: 8px;
   padding: 12px;
@@ -2071,12 +2075,13 @@
 .mvlb-frame-title {
   font-size: 22px;
   font-weight: 700;
+  color: var(--mv-cloud);
 }
 
 .mvlb-frame-meta {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.68);
+  color: rgba(241, 236, 228, 0.82);
   margin-top: 2px;
 }
 
@@ -2300,11 +2305,12 @@
 
 .mv-copy-btn {
   appearance: none;
-  border: 1px solid rgba(20, 18, 16, 0.25);
-  background: rgba(255, 255, 255, 0.45);
+  border: 1px solid rgba(20, 18, 16, 0.28);
+  background: rgba(255, 255, 255, 0.86);
   color: var(--mv-ink);
   font-family: var(--mv-font-m);
   font-size: 12px;
+  font-weight: 600;
   padding: 6px 12px;
   border-radius: 6px;
   cursor: pointer;
@@ -2362,9 +2368,11 @@
 }
 
 .mvct-tix {
+  list-style: none;
+  padding: 0;
   display: grid;
   gap: 10px;
-  margin-top: 10px;
+  margin: 10px 0 0;
 }
 
 .mvct-tk {
@@ -2520,7 +2528,7 @@
   display: block;
   font-family: var(--mv-font-m);
   font-size: 11px;
-  color: rgba(241, 236, 228, 0.6);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mv-clap-v {
@@ -2554,7 +2562,7 @@
 .mvft-sub {
   max-width: 44ch;
   font-size: 18px;
-  color: rgba(241, 236, 228, 0.72);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mvft-write {
@@ -2565,7 +2573,7 @@
 .mvft-k {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.58);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mvft-email {
@@ -2587,7 +2595,7 @@
 .mvft-col-h {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.56);
+  color: rgba(241, 236, 228, 0.82);
   margin-bottom: 14px;
 }
 
@@ -2614,7 +2622,7 @@
 .mvft-link-meta {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.56);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mvft-bar {
@@ -2626,7 +2634,7 @@
   padding-top: 24px;
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.72);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mvft-bar-left,
@@ -2803,7 +2811,7 @@
   border-top: 1px solid rgba(255, 255, 255, 0.12);
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.62);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mvwi-body {
@@ -2934,8 +2942,8 @@
   bottom: 12px;
   padding: 5px 10px;
   border-radius: 999px;
-  background: rgba(16, 13, 12, 0.86);
-  color: var(--mv-brass);
+  background: var(--mv-near-black);
+  color: var(--mv-amber-film);
   font-family: var(--mv-font-m);
   font-size: 12px;
 }
@@ -2956,7 +2964,7 @@
 .mvwi-card-role-lbl {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.65);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mvwi-card-right {
@@ -2999,7 +3007,18 @@
 .mv-case {
   background: var(--mv-bone);
   color: var(--mv-ink);
+}
+
+.mv-case-hero.mv-dark {
+  background: linear-gradient(180deg, var(--mv-night) 0%, var(--mv-night) 76%, var(--mv-bone) 76%);
+  color: var(--mv-bone);
   padding-top: 124px;
+}
+
+.mv-case-crumb.is-dark-crumb,
+.mv-case-crumb.is-dark-crumb a,
+.mv-case-hero.mv-dark .mv-case-cat {
+  color: rgba(241, 236, 228, 0.85);
 }
 
 .mv-case-hero-grid {
@@ -3047,7 +3066,7 @@
 .mv-case-outcome {
   font-size: clamp(28px, 3.6vw, 56px);
   font-weight: 700;
-  color: var(--mv-brass);
+  color: var(--mv-brass-ink);
   line-height: 1.04;
   margin-top: 8px;
 }
@@ -3278,7 +3297,7 @@
 .mvab-fact dt {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: var(--mv-brass);
+  color: var(--mv-brass-ink);
 }
 
 .mvab-fact dd {
@@ -3335,7 +3354,7 @@
 .mvab-roll-label {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.68);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mvab-timeline-grid {
@@ -3675,7 +3694,7 @@
 .mvrs-sub-k {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: var(--mv-brass);
+  color: var(--mv-brass-ink);
   margin-bottom: 6px;
 }
 
@@ -3715,8 +3734,8 @@
 }
 
 .mvsg-hero {
-  background: var(--mv-night);
-  color: var(--mv-bone);
+  background: var(--mv-bone);
+  color: var(--mv-ink);
   padding: 132px 0 48px;
 }
 
@@ -3903,7 +3922,7 @@
 .mvsg-rate-item span {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: var(--mv-brass);
+  color: var(--mv-brass-ink);
 }
 
 .mvsg-rate-item strong {
@@ -3989,7 +4008,7 @@
 .mv-svc-deliv-list span {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: var(--mv-brass);
+  color: var(--mv-brass-ink);
 }
 
 .mv-svc-deliv-list strong {
@@ -4058,7 +4077,7 @@
 .mv-svc-faq-q {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: var(--mv-brass);
+  color: var(--mv-brass-ink);
 }
 
 /* Lab & Lab detail */
@@ -4184,7 +4203,7 @@
   justify-content: space-between;
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.65);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mvli-tools {
@@ -4287,7 +4306,7 @@
   justify-content: space-between;
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: var(--mv-brass);
+  color: var(--mv-brass-ink);
 }
 
 .mvli-demo-type {
@@ -4605,7 +4624,7 @@
 .mvwl-letter-note {
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.6);
+  color: rgba(241, 236, 228, 0.82);
   margin-top: 10px;
 }
 
@@ -4826,7 +4845,7 @@
 .mvus-item-code {
   font-family: var(--mv-font-m);
   font-size: 11px;
-  color: var(--mv-brass);
+  color: var(--mv-brass-ink);
 }
 
 .mvus-item-name {
@@ -5214,7 +5233,7 @@
   gap: 12px;
   font-family: var(--mv-font-m);
   font-size: 12px;
-  color: rgba(241, 236, 228, 0.72);
+  color: rgba(241, 236, 228, 0.82);
 }
 
 .mv4-rec {
@@ -5318,4 +5337,10 @@
   .mv4-strip {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
+}
+
+
+.mvsg-hero .mvwi-hero-foot {
+  color: var(--mv-stone);
+  border-top-color: rgba(20, 18, 16, 0.14);
 }

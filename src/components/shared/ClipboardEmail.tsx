@@ -52,10 +52,11 @@ export function ClipboardEmail({
         type="button"
         onClick={handleCopy}
         className="mv-copy-btn"
-        aria-label={copied ? 'Email copied' : 'Copy email address'}
+        title={copied ? 'Copied email address' : 'Copy email address'}
         data-testid="copy-email-btn"
       >
         <span>{copied ? 'Copied' : 'Copy'}</span>
+        <span className="mv-sr"> email address</span>
       </button>
     </div>
   );

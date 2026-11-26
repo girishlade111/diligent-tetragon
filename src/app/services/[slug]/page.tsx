@@ -112,7 +112,7 @@ export default async function ServiceDetailPage({
                   alt={proj.heroAlt}
                   width={560}
                   height={350}
-                  loading="lazy"
+                  loading="eager"
                 />
                 <h3>{proj.title}</h3>
                 <p>

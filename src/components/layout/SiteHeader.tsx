@@ -14,7 +14,7 @@ export function SiteHeader() {
 
   const isDarkHeroRoute =
     pathname === '/work' ||
-    pathname === '/services' ||
+    pathname.startsWith('/work/') ||
     pathname === '/lab' ||
     pathname === '/uses' ||
     pathname === '/404' ||

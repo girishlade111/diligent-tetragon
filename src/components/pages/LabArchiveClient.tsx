@@ -120,7 +120,7 @@ export function LabArchiveClient() {
                       alt={exp.title}
                       width={520}
                       height={340}
-                      loading="lazy"
+                      loading="eager"
                     />
                     <span className="mvli-grain" aria-hidden="true" />
                   </div>

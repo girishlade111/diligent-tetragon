@@ -62,7 +62,7 @@ export function WritingNotebookPreview() {
               alt=""
               width={400}
               height={280}
-              loading="lazy"
+              loading="eager"
             />
             <p className="mvnt-preview-meta">
               {previewArticle.index} /writing/{previewArticle.slug}

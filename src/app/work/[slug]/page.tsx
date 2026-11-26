@@ -45,10 +45,10 @@ export default async function ProjectDetailPage({
     <>
       <SiteHeader />
       <main id="main-content" className="mv-case mv-lt">
-        <section className="mv-case-hero">
+        <section className="mv-case-hero mv-dark">
           <div className="mv-wrap mv-case-hero-grid">
             <div className="mv-case-hero-left">
-              <div className="mv-case-crumb">
+              <div className="mv-case-crumb is-dark-crumb">
                 <Link href="/work">← All work</Link>
                 <span>Shipped</span>
                 <span>{project.year}</span>
@@ -60,6 +60,7 @@ export default async function ProjectDetailPage({
             <CallSheet
               title="Call sheet"
               subtitle="Prod."
+              className="mv-case-callsheet"
               rows={[
                 { label: 'Production', value: project.title },
                 { label: 'Client', value: project.client },
@@ -137,7 +138,7 @@ export default async function ProjectDetailPage({
                   alt={`${project.title} design frame`}
                   width={640}
                   height={400}
-                  loading="lazy"
+                  loading="eager"
                 />
               </div>
               <div className="mv-case-code-panel">
@@ -177,7 +178,7 @@ export default async function ProjectDetailPage({
                   alt={rel.heroAlt}
                   width={480}
                   height={300}
-                  loading="lazy"
+                  loading="eager"
                 />
                 <span>{rel.title}</span>
               </Link>
@@ -211,7 +212,7 @@ export default async function ProjectDetailPage({
                 alt={nextProject.heroAlt}
                 width={640}
                 height={400}
-                loading="lazy"
+                loading="eager"
               />
             </Link>
           </div>

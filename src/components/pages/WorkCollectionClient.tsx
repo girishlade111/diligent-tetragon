@@ -141,7 +141,7 @@ export function WorkCollectionClient() {
                       alt={project.heroAlt}
                       width={640}
                       height={400}
-                      loading="lazy"
+                      loading="eager"
                     />
                     <span className="mvwi-card-badge">{project.outcomeShort}</span>
                   </div>

@@ -56,7 +56,7 @@ export function TestimonialsBoard() {
                   alt={`Portrait of ${item.author}, ${item.role}`}
                   width={48}
                   height={48}
-                  loading="lazy"
+                  loading="eager"
                 />
               </div>
               <div>

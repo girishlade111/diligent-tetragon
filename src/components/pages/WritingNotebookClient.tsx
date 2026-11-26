@@ -127,7 +127,7 @@ export function WritingNotebookClient() {
                   alt=""
                   width={180}
                   height={120}
-                  loading="lazy"
+                  loading="eager"
                 />
               </div>
               <div className="mvwl-row-main">

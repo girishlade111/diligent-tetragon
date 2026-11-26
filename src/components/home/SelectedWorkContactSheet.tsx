@@ -95,7 +95,7 @@ export function SelectedWorkContactSheet() {
                       alt={project.heroAlt}
                       width={480}
                       height={300}
-                      loading="lazy"
+                      loading="eager"
                     />
                     {isCurrent && (
                       <svg

@@ -220,7 +220,17 @@ select {
 }
 
 .mv-hl-orange {
+  display: inline-block;
+  color: var(--mv-ink);
+  background: var(--mv-brass);
+  padding: 0 0.08em;
+  line-height: 1.02;
+}
+
+.mv-dark .mv-hl-orange {
   color: var(--mv-brass);
+  background: transparent;
+  padding: 0;
 }
 
 .mv-hl-ul {

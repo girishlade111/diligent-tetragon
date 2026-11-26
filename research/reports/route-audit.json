@@ -1,6 +1,6 @@
 {
   "totalRoutes": 34,
-  "totalErrors": 11,
+  "totalErrors": 0,
   "status404": 404,
   "routes": [
     {
@@ -8,37 +8,19 @@
       "status": 200,
       "consoleErrors": [],
       "failedAssets": [],
-      "brokenImgs": [
-        "http://localhost:3000/assets/images/extracted/img-028-dunKMZI2kyT07lXHFIEvckbg60.webp",
-        "http://localhost:3000/assets/images/extracted/img-029-4tAaRWdCGFFP6inkIMQvhHVYg.webp",
-        "http://localhost:3000/assets/images/extracted/img-030-VKW79qnYyo2u8EtRfJzLP6uts.webp",
-        "http://localhost:3000/assets/images/extracted/img-031-QEChA2dUSATQtS9xNXPe2Tts.webp",
-        "http://localhost:3000/assets/images/extracted/img-032-G8Lzu2FTtZBjR2kg4UmFJMoCHUc.webp",
-        "http://localhost:3000/assets/images/extracted/img-056-JD3bjmPjRlGATEMpkcwri45Bxdg.webp",
-        "http://localhost:3000/assets/images/extracted/img-057-atXjlwGx5GV7KloSOqPuvH7S7Cw.webp",
-        "http://localhost:3000/assets/images/extracted/img-058-yWReFKzsaMwrYkGZvDJEDKL4.webp",
-        "http://localhost:3000/assets/images/extracted/img-055-NknmqvAs4nc8W7at7d9CwbG0DXI.webp",
-        "http://localhost:3000/assets/images/extracted/img-059-OQ5Ct4PhqbpHPIx3QmbiZE2JrsU.webp",
-        "http://localhost:3000/assets/images/extracted/img-060-fK9KxCaxD3qarScDjSZCTpzcE.webp",
-        "http://localhost:3000/assets/images/extracted/img-096-bznkQafxtHVg5PuXhN9M4pu1V0.webp"
-      ],
+      "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 43
+          "nodes": 3
         },
         {
           "id": "label-content-name-mismatch",
           "impact": "serious",
-          "nodes": 2
+          "nodes": 1
         }
       ]
     },
@@ -47,30 +29,14 @@
       "status": 200,
       "consoleErrors": [],
       "failedAssets": [],
-      "brokenImgs": [
-        "http://localhost:3000/assets/images/extracted/img-028-dunKMZI2kyT07lXHFIEvckbg60.webp",
-        "http://localhost:3000/assets/images/extracted/img-029-4tAaRWdCGFFP6inkIMQvhHVYg.webp",
-        "http://localhost:3000/assets/images/extracted/img-030-VKW79qnYyo2u8EtRfJzLP6uts.webp",
-        "http://localhost:3000/assets/images/extracted/img-031-QEChA2dUSATQtS9xNXPe2Tts.webp",
-        "http://localhost:3000/assets/images/extracted/img-032-G8Lzu2FTtZBjR2kg4UmFJMoCHUc.webp"
-      ],
+      "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 29
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 2
         }
       ]
     },
@@ -79,30 +45,14 @@
       "status": 200,
       "consoleErrors": [],
       "failedAssets": [],
-      "brokenImgs": [
-        "http://localhost:3000/assets/images/extracted/img-028-dunKMZI2kyT07lXHFIEvckbg60.webp",
-        "http://localhost:3000/assets/images/extracted/img-029-4tAaRWdCGFFP6inkIMQvhHVYg.webp",
-        "http://localhost:3000/assets/images/extracted/img-030-VKW79qnYyo2u8EtRfJzLP6uts.webp",
-        "http://localhost:3000/assets/images/extracted/img-031-QEChA2dUSATQtS9xNXPe2Tts.webp",
-        "http://localhost:3000/assets/images/extracted/img-032-G8Lzu2FTtZBjR2kg4UmFJMoCHUc.webp"
-      ],
+      "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 37
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 6
         }
       ]
     },
@@ -116,19 +66,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 31
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -142,19 +82,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 35
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 8
         }
       ]
     },
@@ -168,19 +98,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 10
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 2
         }
       ]
     },
@@ -194,19 +114,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 25
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 2
         }
       ]
     },
@@ -222,12 +132,7 @@
         {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 23
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -236,26 +141,14 @@
       "status": 200,
       "consoleErrors": [],
       "failedAssets": [],
-      "brokenImgs": [
-        "http://localhost:3000/assets/images/extracted/img-035-V6F6MmOz0yYocntSYdagH0c6yk.webp"
-      ],
+      "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 31
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -264,26 +157,14 @@
       "status": 200,
       "consoleErrors": [],
       "failedAssets": [],
-      "brokenImgs": [
-        "http://localhost:3000/assets/images/extracted/img-036-0xS7DiKB6Qv3iIrl5djSaB9cfA.webp"
-      ],
+      "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 31
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 7
         }
       ]
     },
@@ -292,26 +173,14 @@
       "status": 200,
       "consoleErrors": [],
       "failedAssets": [],
-      "brokenImgs": [
-        "http://localhost:3000/assets/images/extracted/img-037-HCyXSnJj8tsOubkimG9feSzY.webp"
-      ],
+      "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 31
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 7
         }
       ]
     },
@@ -320,26 +189,14 @@
       "status": 200,
       "consoleErrors": [],
       "failedAssets": [],
-      "brokenImgs": [
-        "http://localhost:3000/assets/images/extracted/img-038-ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp"
-      ],
+      "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 31
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -348,26 +205,14 @@
       "status": 200,
       "consoleErrors": [],
       "failedAssets": [],
-      "brokenImgs": [
-        "http://localhost:3000/assets/images/extracted/img-039-ogU1zLwwfiOf77V1AWCdup1V0.webp"
-      ],
+      "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 31
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -376,26 +221,14 @@
       "status": 200,
       "consoleErrors": [],
       "failedAssets": [],
-      "brokenImgs": [
-        "http://localhost:3000/assets/images/extracted/img-040-aCXktoLBfWbawiZ7GZnH7tUqE.webp"
-      ],
+      "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 31
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 7
         }
       ]
     },
@@ -404,26 +237,14 @@
       "status": 200,
       "consoleErrors": [],
       "failedAssets": [],
-      "brokenImgs": [
-        "http://localhost:3000/assets/images/extracted/img-041-VJUprwfcrDZhu5hrAX7RykPiVU.webp"
-      ],
+      "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 31
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 7
         },
         {
           "id": "scrollable-region-focusable",
@@ -437,26 +258,14 @@
       "status": 200,
       "consoleErrors": [],
       "failedAssets": [],
-      "brokenImgs": [
-        "http://localhost:3000/assets/images/extracted/img-034-RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp"
-      ],
+      "brokenImgs": [],
       "overflowDesktop": false,
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 31
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 7
         }
       ]
     },
@@ -470,19 +279,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 20
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -496,19 +295,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 20
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -522,19 +311,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 20
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -548,19 +327,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 20
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -574,19 +343,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 23
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -600,19 +359,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 23
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -626,19 +375,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 23
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -652,19 +391,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 23
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -678,19 +407,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 23
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -704,19 +423,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 23
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -730,19 +439,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 16
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -756,19 +455,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 16
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -782,19 +471,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 16
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -808,19 +487,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 16
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -834,19 +503,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 16
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -860,19 +519,9 @@
       "overflowMobile": false,
       "axeViolations": [
         {
-          "id": "aria-allowed-role",
-          "impact": "minor",
-          "nodes": 3
-        },
-        {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 16
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 3
         }
       ]
     },
@@ -888,12 +537,7 @@
         {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 6
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 2
         }
       ]
     },
@@ -909,12 +553,7 @@
         {
           "id": "color-contrast",
           "impact": "serious",
-          "nodes": 6
-        },
-        {
-          "id": "label-content-name-mismatch",
-          "impact": "serious",
-          "nodes": 1
+          "nodes": 2
         }
       ]
     }
