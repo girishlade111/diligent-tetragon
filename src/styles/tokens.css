@@ -96,6 +96,24 @@
   --ease-out-expo: cubic-bezier(0.2, 0.8, 0.2, 1);
   --ease-curtain: cubic-bezier(0.7, 0, 0.2, 1);
   --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+
+  /* Reference Token Compatibility Aliases */
+  --token-16b5adc2-b338-4c29-8d2f-257e6954cf5a: #f1ece4;
+  --token-a0e1c66a-c1c9-4c90-be8e-4bf6a8de5b67: #141210;
+  --token-7c0dc847-0c00-4522-9b51-c06f450620d6: #ff5b2e;
+  --token-83513f9a-f80f-4010-85f4-fcfe722678a7: #231d19;
+  --token-ca1873bd-cbd6-4c8f-9e0f-99c3f2a381a3: #ddd4c8;
+  --token-4392d762-5738-4cf9-a436-c2d3ce566ed5: #857b70;
+  --token-f962665a-6e98-42fc-b153-6c537b674e45: #ffffff;
+  --token-2cb09a38-77ef-4464-80b0-9b13bcba4a5d: #171311;
+  --token-8ac7b6f1-72ca-464e-8db1-0211132fd97d: #e6ded1;
+  --token-7cfa2313-0725-45c4-8af5-c74bc88c371b: #141210;
+  --token-9691d2ef-3c92-40cd-8580-ac4d21195978: #47413b;
+  --token-c39d53fe-cb20-4ea6-842a-1a68d44a121b: #141210;
+  --token-5daf52bc-b9a7-4ae3-a5ad-98e20f890562: rgba(23, 19, 17, 0);
+  --token-569f377b-0768-42ef-910b-a96cdfc9fe57: rgba(20, 18, 16, 0);
+  --token-b998b29b-68fb-4072-a8aa-edb30938ecfe: rgba(255, 255, 255, 0.35);
+  --token-38e004b5-e9b4-4695-937b-7626aa175787: rgba(20, 18, 16, 0.12);
 }
 
 @media (max-width: 1199px) {
