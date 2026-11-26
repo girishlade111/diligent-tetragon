@@ -42,7 +42,7 @@ export default async function LabDetailPage({
   return (
     <>
       <SiteHeader />
-      <main id="main-content" className="mv-lab-detail mv-lt">
+      <main id="main-content" className="mv-lab-detail mv-dark">
         <section className="mv-wrap mv-lab-hero">
           <div className="mv-case-crumb">
             <Link href="/lab">← Lab</Link>
