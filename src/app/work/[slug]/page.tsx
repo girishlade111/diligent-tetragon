@@ -141,7 +141,7 @@ export default async function ProjectDetailPage({
                   loading="eager"
                 />
               </div>
-              <div className="mv-case-code-panel">
+              <div className="mv-case-code-panel" tabIndex={0} aria-label="Implementation code example">
                 <pre>
                   <code>{project.codeSnippet}</code>
                 </pre>

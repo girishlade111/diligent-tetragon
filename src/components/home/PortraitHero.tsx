@@ -127,7 +127,7 @@ export function PortraitHero() {
           updateFromPointer(e.clientX, e.clientY);
         }}
         onKeyDown={handleLampKeyDown}
-        aria-label="Move studio light source using pointer or arrow keys"
+        aria-label="Light — move studio lamp with pointer or arrow keys"
         data-testid="hero-studio-lamp"
       >
         <span className="mvp-lamp-core" />

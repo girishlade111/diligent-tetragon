@@ -102,7 +102,7 @@ export default async function LabDetailPage({
                   <li key={b}>{b}</li>
                 ))}
               </ul>
-              <div className="mv-case-code-panel">
+              <div className="mv-case-code-panel" tabIndex={0} aria-label="Implementation code example">
                 <pre>
                   <code>{exp.codeSnippet}</code>
                 </pre>
