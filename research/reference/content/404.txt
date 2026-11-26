@@ -1,0 +1,99 @@
+TITLE: Page not found | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/404
+HEIGHT: 1904
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=560 fs=12px] MV 400TX
+[y=560 fs=12px] ·
+[y=560 fs=12px] 401
+[y=547 fs=12px] MV 400TX
+[y=547 fs=12px] ·
+[y=547 fs=12px] 402
+[y=534 fs=12px] MV 400TX
+[y=534 fs=12px] ·
+[y=534 fs=12px] 403
+[y=298 fs=28.8px] 404
+[y=521 fs=12px] MV 400TX
+[y=521 fs=12px] ·
+[y=521 fs=12px] 404
+[y=508 fs=12px] MV 400TX
+[y=508 fs=12px] ·
+[y=508 fs=12px] 405
+[y=494 fs=12px] MV 400TX
+[y=494 fs=12px] ·
+[y=494 fs=12px] 406
+[y=481 fs=12px] MV 400TX
+[y=481 fs=12px] ·
+[y=481 fs=12px] 407
+[y=117 fs=12px] ROLL 04 · FRAME 404 · NOT FOUND
+[y=117 fs=12px] Lab note: burnt in the gate
+[y=648 fs=115px] Missing
+[y=752 fs=115px] frame.
+[y=728 fs=17px] This page was cut in the edit, or it never made it onto the roll. Everything else on the reel is still here.
+[y=820 fs=13px] Back home
+[y=820 fs=13px] See my work
+[y=1048 fs=12px] Prod.
+[y=1071 fs=26px] Portfolio 2026
+[y=1124 fs=12px] Scene
+[y=1147 fs=26px] Footer
+[y=1124 fs=12px] Take
+[y=1147 fs=26px] 36
+[y=1124 fs=12px] Roll
+[y=1147 fs=26px] A-09
+[y=1200 fs=12px] Director
+[y=1223 fs=26px] Mara Voss
+[y=1276 fs=12px] Date
+[y=1299 fs=26px] 26.11.26
+[y=1276 fs=12px] Build
+[y=1299 fs=12px] main · 9f3c1a
+[y=1050 fs=64px] That’s a
+[y=1035 fs=64px] wrap.
+[y=1129 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=1174 fs=12px] Write to me
+[y=1202 fs=40px] hello@maravoss.design →
+[y=1484 fs=12px] Work
+[y=1525 fs=18px] Sole
+[y=1530 fs=12px] Brand · Campaign
+[y=1572 fs=18px] Rouge
+[y=1577 fs=12px] Brand · Packaging
+[y=1619 fs=18px] Nord
+[y=1624 fs=12px] Brand · Identity
+[y=1666 fs=18px] Atlas
+[y=1671 fs=12px] Web · Front-end
+[y=1713 fs=18px] Chroma
+[y=1718 fs=12px] Brand · Colour system
+[y=1484 fs=12px] Pages
+[y=1525 fs=18px] About
+[y=1526 fs=17px] →
+[y=1572 fs=18px] Résumé
+[y=1573 fs=17px] →
+[y=1619 fs=18px] Lab
+[y=1620 fs=17px] →
+[y=1666 fs=18px] Writing
+[y=1667 fs=17px] →
+[y=1713 fs=18px] Contact
+[y=1714 fs=17px] →
+[y=1484 fs=12px] Elsewhere
+[y=1525 fs=18px] Dribbble
+[y=1526 fs=17px] ↗
+[y=1572 fs=18px] GitHub
+[y=1573 fs=17px] ↗
+[y=1619 fs=18px] LinkedIn
+[y=1620 fs=17px] ↗
+[y=1666 fs=18px] Read.cv
+[y=1667 fs=17px] ↗
+[y=1846 fs=12px] © 2026 Mara Voss
+[y=1847 fs=12px] Privacy
+[y=1847 fs=12px] Terms
+[y=1846 fs=12px] Local time
+[y=1846 fs=12px] 18:28
+[y=1846 fs=12px] · Berlin
+[y=1846 fs=12px] Back to top
+[y=1842 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

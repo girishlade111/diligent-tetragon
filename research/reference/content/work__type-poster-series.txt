@@ -1,0 +1,215 @@
+TITLE: Violet — case study | Mara Voss, product designer & developer
+URL: https://diligent-tetragon-837366.framer.app/work/type-poster-series
+HEIGHT: 6427
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=145 fs=12px] ← All work
+[y=144 fs=12px] Shipped
+[y=144 fs=12px] 2024
+[y=337 fs=12px] Editorial · Art direction
+[y=376 fs=101px] Violet
+[y=216 fs=12px] Call sheet
+[y=225 fs=12px] Prod.
+[y=251 fs=12px] Production
+[y=254 fs=12px] Violet
+[y=282 fs=12px] Client
+[y=286 fs=12px] Violet Magazine
+[y=313 fs=12px] Category
+[y=317 fs=12px] Editorial · Art direction
+[y=362 fs=12px] Year
+[y=366 fs=12px] 2024
+[y=394 fs=12px] Role
+[y=397 fs=12px] Art direction, layout
+[y=425 fs=12px] Team
+[y=429 fs=12px] 2 people
+[y=1227 fs=12px] The short version
+[y=1256 fs=40px] Art direction and layouts for a fashion quarterly.
+[y=1227 fs=12px] Outcome
+[y=1256 fs=62px] Issue 12 sold out
+[y=1486 fs=12px] SC 01
+[y=1516 fs=52px] The
+[y=1503 fs=52px] brief
+[y=1486 fs=17px] Violet Magazine wanted issue 12 to feel collectable. The theme was letters, so the type had to do the work the photos usually do.
+[y=1562 fs=17px] I art-directed the issue and a series of posters that came folded inside, each one built from a single letter of the alphabet.
+[y=1732 fs=12px] SC 02
+[y=1762 fs=52px] What I
+[y=1749 fs=52px] did
+[y=1751 fs=17px] Picked one typeface family and pushed it from hairline to black
+[y=1817 fs=17px] Set a grid that lets every spread break it once, on purpose
+[y=1884 fs=17px] Designed six fold-out posters that join into one word on a wall
+[y=1950 fs=17px] Worked with the printer on a fluorescent fifth colour for the covers
+[y=2016 fs=17px] Built a small web gallery so readers could see all six posters together
+[y=2177 fs=12px] SC 03
+[y=2207 fs=52px] Design →
+[y=2194 fs=52px] code
+[y=2177 fs=17px] Same hands on both sides. The frame on the left is the design file, the panel on the right is what shipped — type, spacing and colour come straight across.
+[y=2268 fs=12px] Hero / Desktop
+[y=2291 fs=16px] // Violet — poster grid
+[y=2313 fs=16px] .
+[y=2315 fs=16px] poster
+[y=2315 fs=16px] {
+[y=2337 fs=16px] display
+[y=2339 fs=16px] :
+[y=2339 fs=16px] grid
+[y=2339 fs=16px] ;
+[y=2363 fs=16px] grid
+[y=2361 fs=16px] -
+[y=2363 fs=16px] template
+[y=2361 fs=16px] -
+[y=2363 fs=16px] columns
+[y=2363 fs=16px] :
+[y=2363 fs=16px] repeat
+[y=2363 fs=16px] (
+[y=2363 fs=16px] 12
+[y=2363 fs=16px] ,
+[y=2363 fs=16px] 1
+[y=2361 fs=16px] fr
+[y=2363 fs=16px] )
+[y=2363 fs=16px] ;
+[y=2387 fs=16px] font
+[y=2385 fs=16px] -
+[y=2387 fs=16px] variation
+[y=2385 fs=16px] -
+[y=2387 fs=16px] settings
+[y=2387 fs=16px] :
+[y=2387 fs=16px] "wght"
+[y=2387 fs=16px] var
+[y=2387 fs=16px] (
+[y=2385 fs=16px] --
+[y=2387 fs=16px] w
+[y=2387 fs=16px] )
+[y=2387 fs=16px] ;
+[y=2411 fs=16px] }
+[y=2433 fs=16px] .
+[y=2435 fs=16px] poster
+[y=2433 fs=16px] .
+[y=2435 fs=16px] letter
+[y=2435 fs=16px] {
+[y=2435 fs=16px] grid
+[y=2433 fs=16px] -
+[y=2435 fs=16px] column
+[y=2435 fs=16px] :
+[y=2435 fs=16px] 2
+[y=2433 fs=16px] /
+[y=2435 fs=16px] span
+[y=2435 fs=16px] 10
+[y=2435 fs=16px] ;
+[y=2435 fs=16px] }
+[y=2664 fs=12px] SC 04
+[y=2693 fs=52px] The
+[y=2680 fs=52px] result
+[y=2664 fs=17px] Issue 12 sold out in three weeks and became the first issue the magazine reprinted. The posters now sell on their own.
+[y=2759 fs=62px] Sold out
+[y=2823 fs=12px] Issue 12 in three weeks
+[y=2759 fs=62px] 6
+[y=2823 fs=12px] Fold-out posters
+[y=2759 fs=62px] 2
+[y=2823 fs=12px] People on the team
+[y=2953 fs=52px] More
+[y=2940 fs=52px] frames
+[y=3514 fs=12px] The client
+[y=3539 fs=40px] Issue 12 is the one people still ask us for. It sold out faster than any issue before.
+[y=3695 fs=22px] Tom Reyes
+[y=3722 fs=12px] Editor · Violet Magazine
+[y=4107 fs=12px] Next project
+[y=4141 fs=101px] Loop
+[y=4248 fs=12px] Product · Mobile app
+[y=4281 fs=18px] A banking app that turns spending into a weekly story.
+[y=4324 fs=12px] Open case →
+[y=4683 fs=12px] FRAME 10 — Contact
+[y=4733 fs=106px] Have a project? Let’s shoot.
+[y=4733 fs=106px] Have
+[y=4733 fs=106px] a
+[y=4733 fs=106px] project?
+[y=4828 fs=106px] Let’s
+[y=4828 fs=106px] shoot.
+[y=4982 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=5083 fs=13px] Start a project
+[y=5082 fs=14px] hello@maravoss.design
+[y=5072 fs=12px] Copy
+[y=5113 fs=12px] Copied
+[y=4799 fs=60.48px] ON AIR
+[y=4911 fs=12px] Studio 1 · Rec
+[y=4982 fs=12px] Booking now for
+[y=5002 fs=24.48px] Available for work · Nov 2026
+[y=5053 fs=12px] Next start dates
+[y=5134 fs=12px] Start
+[y=5151 fs=12px] No.
+[y=5151 fs=12px] 01
+[y=5140 fs=28.8px] Nov 17
+[y=5145 fs=12px] Admit one project
+[y=5208 fs=12px] Start
+[y=5225 fs=12px] No.
+[y=5225 fs=12px] 02
+[y=5214 fs=28.8px] Dec 1
+[y=5218 fs=12px] Admit one project
+[y=5282 fs=12px] Start
+[y=5299 fs=12px] No.
+[y=5299 fs=12px] 03
+[y=5288 fs=28.8px] Jan 12
+[y=5292 fs=12px] Admit one project
+[y=5571 fs=12px] Prod.
+[y=5594 fs=26px] Portfolio 2026
+[y=5647 fs=12px] Scene
+[y=5670 fs=26px] Footer
+[y=5647 fs=12px] Take
+[y=5670 fs=26px] 14
+[y=5647 fs=12px] Roll
+[y=5670 fs=26px] A-09
+[y=5723 fs=12px] Director
+[y=5746 fs=26px] Mara Voss
+[y=5799 fs=12px] Date
+[y=5822 fs=26px] 26.11.26
+[y=5799 fs=12px] Build
+[y=5822 fs=12px] main · 9f3c1a
+[y=5573 fs=64px] That’s a
+[y=5558 fs=64px] wrap.
+[y=5652 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=5697 fs=12px] Write to me
+[y=5725 fs=40px] hello@maravoss.design →
+[y=6007 fs=12px] Work
+[y=6048 fs=18px] Sole
+[y=6053 fs=12px] Brand · Campaign
+[y=6095 fs=18px] Rouge
+[y=6100 fs=12px] Brand · Packaging
+[y=6142 fs=18px] Nord
+[y=6147 fs=12px] Brand · Identity
+[y=6189 fs=18px] Atlas
+[y=6194 fs=12px] Web · Front-end
+[y=6236 fs=18px] Chroma
+[y=6241 fs=12px] Brand · Colour system
+[y=6007 fs=12px] Pages
+[y=6048 fs=18px] About
+[y=6049 fs=17px] →
+[y=6095 fs=18px] Résumé
+[y=6096 fs=17px] →
+[y=6142 fs=18px] Lab
+[y=6143 fs=17px] →
+[y=6189 fs=18px] Writing
+[y=6190 fs=17px] →
+[y=6236 fs=18px] Contact
+[y=6237 fs=17px] →
+[y=6007 fs=12px] Elsewhere
+[y=6048 fs=18px] Dribbble
+[y=6049 fs=17px] ↗
+[y=6095 fs=18px] GitHub
+[y=6096 fs=17px] ↗
+[y=6142 fs=18px] LinkedIn
+[y=6143 fs=17px] ↗
+[y=6189 fs=18px] Read.cv
+[y=6190 fs=17px] ↗
+[y=6370 fs=12px] © 2026 Mara Voss
+[y=6371 fs=12px] Privacy
+[y=6371 fs=12px] Terms
+[y=6370 fs=12px] Local time
+[y=6370 fs=12px] 18:24
+[y=6370 fs=12px] · Berlin
+[y=6370 fs=12px] Back to top
+[y=6365 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

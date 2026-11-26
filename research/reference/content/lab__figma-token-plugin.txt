@@ -1,0 +1,225 @@
+TITLE: Token sync plugin — lab | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/lab/figma-token-plugin
+HEIGHT: 4770
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=151 fs=12px] ← Lab
+[y=150 fs=12px] /
+[y=150 fs=12px] Open source
+[y=190 fs=12px] Open source
+[y=190 fs=12px] 2024
+[y=190 fs=12px] Figma API, TypeScript
+[y=231 fs=89px] Token sync plugin
+[y=213 fs=19px] Keeps Figma and code tokens in sync.
+[y=279 fs=13px] Live demo
+[y=279 fs=13px] Source
+[y=1082 fs=12px] Camera report
+[y=1109 fs=12px] Scene
+[y=1109 fs=12px] Open source
+[y=1147 fs=12px] Year
+[y=1147 fs=12px] 2024
+[y=1184 fs=12px] Tools
+[y=1184 fs=12px] Figma API, TypeScript
+[y=1066 fs=32px] The idea
+[y=1136 fs=17px] Every team I worked with had two sets of design tokens: the ones in Figma and the ones in code, slowly drifting apart.
+[y=1210 fs=17px] I wanted one button that makes them the same again, in either direction, with a readable diff before anything changes.
+[y=1338 fs=32px] How it's built
+[y=1409 fs=17px] A Figma plugin written in TypeScript. It reads local variables, writes a tokens.json in the W3C format and opens a pull request through the GitHub API.
+[y=1467 fs=17px] Reads Figma variables and modes, not styles
+[y=1503 fs=17px] Shows a diff before writing anything
+[y=1540 fs=17px] Opens a pull request instead of pushing to main
+[y=1577 fs=17px] Open source, used by eleven teams I know of
+[y=1681 fs=16px] const
+[y=1681 fs=16px] vars
+[y=1679 fs=16px] =
+[y=1681 fs=16px] await
+[y=1681 fs=16px] figma
+[y=1679 fs=16px] .
+[y=1681 fs=16px] variables
+[y=1679 fs=16px] .
+[y=1681 fs=16px] getLocalVariablesAsync
+[y=1681 fs=16px] (
+[y=1681 fs=16px] )
+[y=1705 fs=16px] const
+[y=1705 fs=16px] tokens
+[y=1703 fs=16px] =
+[y=1705 fs=16px] Object
+[y=1703 fs=16px] .
+[y=1705 fs=16px] fromEntries
+[y=1705 fs=16px] (
+[y=1705 fs=16px] vars
+[y=1703 fs=16px] .
+[y=1705 fs=16px] map
+[y=1705 fs=16px] (
+[y=1705 fs=16px] (
+[y=1705 fs=16px] v
+[y=1705 fs=16px] )
+[y=1705 fs=16px] =>
+[y=1705 fs=16px] [
+[y=1729 fs=16px] v
+[y=1727 fs=16px] .
+[y=1729 fs=16px] name
+[y=1727 fs=16px] .
+[y=1729 fs=16px] replace
+[y=1729 fs=16px] (
+[y=1729 fs=16px] /\//g
+[y=1729 fs=16px] ,
+[y=1729 fs=16px] "."
+[y=1729 fs=16px] )
+[y=1729 fs=16px] ,
+[y=1753 fs=16px] {
+[y=1753 fs=16px] $type
+[y=1753 fs=16px] :
+[y=1753 fs=16px] v
+[y=1751 fs=16px] .
+[y=1753 fs=16px] resolvedType
+[y=1751 fs=16px] .
+[y=1753 fs=16px] toLowerCase
+[y=1753 fs=16px] (
+[y=1753 fs=16px] )
+[y=1753 fs=16px] ,
+[y=1753 fs=16px] $value
+[y=1753 fs=16px] :
+[y=1753 fs=16px] v
+[y=1751 fs=16px] .
+[y=1753 fs=16px] valuesByMode
+[y=1753 fs=16px] [
+[y=1753 fs=16px] modeId
+[y=1753 fs=16px] ]
+[y=1753 fs=16px] }
+[y=1777 fs=16px] ]
+[y=1777 fs=16px] )
+[y=1777 fs=16px] )
+[y=1801 fs=16px] figma
+[y=1799 fs=16px] .
+[y=1801 fs=16px] ui
+[y=1799 fs=16px] .
+[y=1801 fs=16px] postMessage
+[y=1801 fs=16px] (
+[y=1801 fs=16px] {
+[y=1801 fs=16px] type
+[y=1801 fs=16px] :
+[y=1801 fs=16px] "diff"
+[y=1801 fs=16px] ,
+[y=1801 fs=16px] tokens
+[y=1801 fs=16px] }
+[y=1801 fs=16px] )
+[y=1947 fs=32px] What I learned
+[y=2017 fs=17px] Sync tools fail on trust, not on code. People only press the button when they can see exactly what it will change.
+[y=2075 fs=17px] Show the diff first, always
+[y=2112 fs=17px] Make the safe path the default one
+[y=2200 fs=24px] A plugin earns its place the day nobody has to ask which file is right.
+[y=2429 fs=52px] More from the lab
+[y=2444 fs=13px] All experiments
+[y=2717 fs=12px] Experiment
+[y=2717 fs=12px] 2026
+[y=2745 fs=22px] Variable type toy
+[y=2717 fs=12px] Side project
+[y=2717 fs=12px] 2025
+[y=2745 fs=22px] UI sound kit
+[y=2717 fs=12px] Experiment
+[y=2717 fs=12px] 2025
+[y=2745 fs=22px] Shader gradients
+[y=2717 fs=12px] Concept
+[y=2717 fs=12px] 2024
+[y=2745 fs=22px] Film camera app
+[y=2717 fs=12px] Resource
+[y=2717 fs=12px] 2023
+[y=2745 fs=22px] Motion cheatsheet
+[y=3027 fs=12px] FRAME 10 — Contact
+[y=3076 fs=106px] Have a project? Let’s shoot.
+[y=3076 fs=106px] Have
+[y=3076 fs=106px] a
+[y=3076 fs=106px] project?
+[y=3172 fs=106px] Let’s
+[y=3172 fs=106px] shoot.
+[y=3325 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=3426 fs=13px] Start a project
+[y=3426 fs=14px] hello@maravoss.design
+[y=3415 fs=12px] Copy
+[y=3457 fs=12px] Copied
+[y=3142 fs=60.48px] ON AIR
+[y=3254 fs=12px] Studio 1 · Rec
+[y=3326 fs=12px] Booking now for
+[y=3346 fs=24.48px] Available for work · Nov 2026
+[y=3397 fs=12px] Next start dates
+[y=3478 fs=12px] Start
+[y=3495 fs=12px] No.
+[y=3495 fs=12px] 01
+[y=3483 fs=28.8px] Nov 17
+[y=3488 fs=12px] Admit one project
+[y=3552 fs=12px] Start
+[y=3569 fs=12px] No.
+[y=3569 fs=12px] 02
+[y=3557 fs=28.8px] Dec 1
+[y=3561 fs=12px] Admit one project
+[y=3626 fs=12px] Start
+[y=3643 fs=12px] No.
+[y=3643 fs=12px] 03
+[y=3631 fs=28.8px] Jan 12
+[y=3636 fs=12px] Admit one project
+[y=3915 fs=12px] Prod.
+[y=3938 fs=26px] Portfolio 2026
+[y=3991 fs=12px] Scene
+[y=4014 fs=26px] Footer
+[y=3991 fs=12px] Take
+[y=4014 fs=26px] 24
+[y=3991 fs=12px] Roll
+[y=4014 fs=26px] A-09
+[y=4067 fs=12px] Director
+[y=4090 fs=26px] Mara Voss
+[y=4143 fs=12px] Date
+[y=4166 fs=26px] 26.11.26
+[y=4143 fs=12px] Build
+[y=4166 fs=12px] main · 9f3c1a
+[y=3917 fs=64px] That’s a
+[y=3902 fs=64px] wrap.
+[y=3995 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=4040 fs=12px] Write to me
+[y=4069 fs=40px] hello@maravoss.design →
+[y=4351 fs=12px] Work
+[y=4392 fs=18px] Sole
+[y=4397 fs=12px] Brand · Campaign
+[y=4439 fs=18px] Rouge
+[y=4444 fs=12px] Brand · Packaging
+[y=4486 fs=18px] Nord
+[y=4491 fs=12px] Brand · Identity
+[y=4533 fs=18px] Atlas
+[y=4538 fs=12px] Web · Front-end
+[y=4580 fs=18px] Chroma
+[y=4585 fs=12px] Brand · Colour system
+[y=4351 fs=12px] Pages
+[y=4392 fs=18px] About
+[y=4393 fs=17px] →
+[y=4439 fs=18px] Résumé
+[y=4440 fs=17px] →
+[y=4486 fs=18px] Lab
+[y=4487 fs=17px] →
+[y=4533 fs=18px] Writing
+[y=4534 fs=17px] →
+[y=4580 fs=18px] Contact
+[y=4581 fs=17px] →
+[y=4351 fs=12px] Elsewhere
+[y=4392 fs=18px] Dribbble
+[y=4393 fs=17px] ↗
+[y=4439 fs=18px] GitHub
+[y=4440 fs=17px] ↗
+[y=4486 fs=18px] LinkedIn
+[y=4487 fs=17px] ↗
+[y=4533 fs=18px] Read.cv
+[y=4534 fs=17px] ↗
+[y=4713 fs=12px] © 2026 Mara Voss
+[y=4714 fs=12px] Privacy
+[y=4714 fs=12px] Terms
+[y=4713 fs=12px] Local time
+[y=4713 fs=12px] 18:26
+[y=4713 fs=12px] · Berlin
+[y=4713 fs=12px] Back to top
+[y=4709 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

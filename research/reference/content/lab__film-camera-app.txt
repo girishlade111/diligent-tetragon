@@ -1,0 +1,207 @@
+TITLE: Film camera app — lab | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/lab/film-camera-app
+HEIGHT: 4761
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=151 fs=12px] ← Lab
+[y=150 fs=12px] /
+[y=150 fs=12px] Concept
+[y=190 fs=12px] Concept
+[y=190 fs=12px] 2024
+[y=190 fs=12px] SwiftUI, Figma
+[y=231 fs=89px] Film camera app
+[y=213 fs=19px] A camera that makes you wait.
+[y=279 fs=13px] Live demo
+[y=279 fs=13px] Source
+[y=1082 fs=12px] Camera report
+[y=1109 fs=12px] Scene
+[y=1109 fs=12px] Concept
+[y=1147 fs=12px] Year
+[y=1147 fs=12px] 2024
+[y=1184 fs=12px] Tools
+[y=1184 fs=12px] SwiftUI, Figma
+[y=1066 fs=32px] The idea
+[y=1136 fs=17px] Phone cameras made photos instant and, for me, forgettable. I wanted to design a camera that brings the wait back.
+[y=1210 fs=17px] You get 24 shots per roll, no preview, and the photos develop one day after you finish the roll.
+[y=1309 fs=32px] How it's built
+[y=1380 fs=17px] A SwiftUI concept with a real capture pipeline: photos are stored encrypted until the roll is done, then a background task develops them with a grain and colour profile per film stock.
+[y=1438 fs=17px] Three film stocks, each with its own colour curve
+[y=1475 fs=17px] No screen preview, only the frame counter
+[y=1511 fs=17px] Development runs overnight as a background task
+[y=1548 fs=17px] Designed in Figma, prototyped in SwiftUI
+[y=1652 fs=16px] struct
+[y=1652 fs=16px] Roll
+[y=1652 fs=16px] {
+[y=1676 fs=16px] var
+[y=1676 fs=16px] shots
+[y=1676 fs=16px] :
+[y=1676 fs=16px] [
+[y=1674 fs=16px] Shot
+[y=1676 fs=16px] ]
+[y=1674 fs=16px] =
+[y=1676 fs=16px] [
+[y=1676 fs=16px] ]
+[y=1700 fs=16px] let
+[y=1700 fs=16px] size
+[y=1698 fs=16px] =
+[y=1700 fs=16px] 24
+[y=1724 fs=16px] var
+[y=1724 fs=16px] isFull
+[y=1724 fs=16px] :
+[y=1722 fs=16px] Bool
+[y=1724 fs=16px] {
+[y=1724 fs=16px] shots
+[y=1722 fs=16px] .
+[y=1724 fs=16px] count
+[y=1722 fs=16px] ==
+[y=1724 fs=16px] size
+[y=1724 fs=16px] }
+[y=1748 fs=16px] var
+[y=1748 fs=16px] developsAt
+[y=1748 fs=16px] :
+[y=1746 fs=16px] Date?
+[y=1748 fs=16px] {
+[y=1772 fs=16px] isFull
+[y=1770 fs=16px] ?
+[y=1772 fs=16px] Calendar
+[y=1770 fs=16px] .
+[y=1772 fs=16px] current
+[y=1770 fs=16px] .
+[y=1772 fs=16px] date
+[y=1772 fs=16px] (
+[y=1772 fs=16px] byAdding
+[y=1772 fs=16px] :
+[y=1770 fs=16px] .
+[y=1772 fs=16px] day
+[y=1772 fs=16px] ,
+[y=1772 fs=16px] value
+[y=1770 fs=16px] :
+[y=1772 fs=16px] 1
+[y=1772 fs=16px] ,
+[y=1772 fs=16px] to
+[y=1772 fs=16px] :
+[y=1770 fs=16px] .now
+[y=1772 fs=16px] )
+[y=1772 fs=16px] :
+[y=1772 fs=16px] nil
+[y=1796 fs=16px] }
+[y=1820 fs=16px] }
+[y=1966 fs=32px] What I learned
+[y=2036 fs=17px] Constraints made people care. Testers took fewer photos and kept more of them.
+[y=2065 fs=17px] Removing a feature can be the feature
+[y=2102 fs=17px] Design the waiting, not just the result
+[y=2190 fs=24px] The best moment in the app is the notification that your roll is ready.
+[y=2419 fs=52px] More from the lab
+[y=2434 fs=13px] All experiments
+[y=2707 fs=12px] Experiment
+[y=2707 fs=12px] 2026
+[y=2735 fs=22px] Variable type toy
+[y=2707 fs=12px] Side project
+[y=2707 fs=12px] 2025
+[y=2735 fs=22px] UI sound kit
+[y=2707 fs=12px] Experiment
+[y=2707 fs=12px] 2025
+[y=2735 fs=22px] Shader gradients
+[y=2707 fs=12px] Open source
+[y=2707 fs=12px] 2024
+[y=2735 fs=22px] Token sync plugin
+[y=2707 fs=12px] Resource
+[y=2707 fs=12px] 2023
+[y=2735 fs=22px] Motion cheatsheet
+[y=3017 fs=12px] FRAME 10 — Contact
+[y=3066 fs=106px] Have a project? Let’s shoot.
+[y=3066 fs=106px] Have
+[y=3066 fs=106px] a
+[y=3066 fs=106px] project?
+[y=3162 fs=106px] Let’s
+[y=3162 fs=106px] shoot.
+[y=3315 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=3416 fs=13px] Start a project
+[y=3416 fs=14px] hello@maravoss.design
+[y=3405 fs=12px] Copy
+[y=3447 fs=12px] Copied
+[y=3132 fs=60.48px] ON AIR
+[y=3244 fs=12px] Studio 1 · Rec
+[y=3316 fs=12px] Booking now for
+[y=3336 fs=24.48px] Available for work · Nov 2026
+[y=3387 fs=12px] Next start dates
+[y=3468 fs=12px] Start
+[y=3485 fs=12px] No.
+[y=3485 fs=12px] 01
+[y=3473 fs=28.8px] Nov 17
+[y=3478 fs=12px] Admit one project
+[y=3542 fs=12px] Start
+[y=3559 fs=12px] No.
+[y=3559 fs=12px] 02
+[y=3547 fs=28.8px] Dec 1
+[y=3551 fs=12px] Admit one project
+[y=3616 fs=12px] Start
+[y=3633 fs=12px] No.
+[y=3633 fs=12px] 03
+[y=3621 fs=28.8px] Jan 12
+[y=3626 fs=12px] Admit one project
+[y=3905 fs=12px] Prod.
+[y=3928 fs=26px] Portfolio 2026
+[y=3981 fs=12px] Scene
+[y=4004 fs=26px] Footer
+[y=3981 fs=12px] Take
+[y=4004 fs=26px] 25
+[y=3981 fs=12px] Roll
+[y=4004 fs=26px] A-09
+[y=4057 fs=12px] Director
+[y=4080 fs=26px] Mara Voss
+[y=4133 fs=12px] Date
+[y=4156 fs=26px] 26.11.26
+[y=4133 fs=12px] Build
+[y=4156 fs=12px] main · 9f3c1a
+[y=3907 fs=64px] That’s a
+[y=3892 fs=64px] wrap.
+[y=3986 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=4031 fs=12px] Write to me
+[y=4059 fs=40px] hello@maravoss.design →
+[y=4341 fs=12px] Work
+[y=4382 fs=18px] Sole
+[y=4387 fs=12px] Brand · Campaign
+[y=4429 fs=18px] Rouge
+[y=4434 fs=12px] Brand · Packaging
+[y=4476 fs=18px] Nord
+[y=4481 fs=12px] Brand · Identity
+[y=4523 fs=18px] Atlas
+[y=4528 fs=12px] Web · Front-end
+[y=4570 fs=18px] Chroma
+[y=4575 fs=12px] Brand · Colour system
+[y=4341 fs=12px] Pages
+[y=4382 fs=18px] About
+[y=4383 fs=17px] →
+[y=4429 fs=18px] Résumé
+[y=4430 fs=17px] →
+[y=4476 fs=18px] Lab
+[y=4477 fs=17px] →
+[y=4523 fs=18px] Writing
+[y=4524 fs=17px] →
+[y=4570 fs=18px] Contact
+[y=4571 fs=17px] →
+[y=4341 fs=12px] Elsewhere
+[y=4382 fs=18px] Dribbble
+[y=4383 fs=17px] ↗
+[y=4429 fs=18px] GitHub
+[y=4430 fs=17px] ↗
+[y=4476 fs=18px] LinkedIn
+[y=4477 fs=17px] ↗
+[y=4523 fs=18px] Read.cv
+[y=4524 fs=17px] ↗
+[y=4703 fs=12px] © 2026 Mara Voss
+[y=4704 fs=12px] Privacy
+[y=4704 fs=12px] Terms
+[y=4703 fs=12px] Local time
+[y=4703 fs=12px] 18:26
+[y=4703 fs=12px] · Berlin
+[y=4703 fs=12px] Back to top
+[y=4699 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

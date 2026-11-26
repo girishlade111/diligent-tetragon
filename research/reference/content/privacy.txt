@@ -1,0 +1,129 @@
+TITLE: Privacy policy | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/privacy
+HEIGHT: 4414
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=142 fs=12px] The small print
+[y=187 fs=92px] Privacy
+[y=187 fs=92px] policy
+[y=296 fs=12px] Last updated 30 September 2026
+[y=450 fs=12px] Contents
+[y=450 fs=12px] Read
+[y=450 fs=12px] 0
+[y=450 fs=12px] %
+[y=488 fs=12px] 01
+[y=484 fs=14.5px] Who I am
+[y=524 fs=12px] 02
+[y=520 fs=14.5px] What I collect
+[y=560 fs=12px] 03
+[y=556 fs=14.5px] Why I use it
+[y=595 fs=12px] 04
+[y=591 fs=14.5px] Cookies
+[y=631 fs=12px] 05
+[y=627 fs=14.5px] Who I share it with
+[y=666 fs=12px] 06
+[y=662 fs=14.5px] How long I keep it
+[y=702 fs=12px] 07
+[y=698 fs=14.5px] Your rights
+[y=737 fs=12px] 08
+[y=733 fs=14.5px] Security
+[y=773 fs=12px] 09
+[y=769 fs=14.5px] Changes to this policy
+[y=450 fs=32px] Who I am
+[y=526 fs=17px] This website is the portfolio of Mara Voss, an independent product designer and developer based in Berlin. I am responsible for the personal data collected through this site, and you can reach me at any time at the email address at the end of this page.
+[y=690 fs=32px] What I collect
+[y=765 fs=17px] I only collect what I need to answer you and to keep the site running well.
+[y=814 fs=17px] Contact form:
+[y=812 fs=17px] your name, email address, company, website, budget, timeline and your message. Only your name, email and message are required.
+[y=882 fs=17px] Email:
+[y=880 fs=17px] if you write to me directly, I keep your address and our conversation.
+[y=921 fs=17px] Usage data:
+[y=919 fs=17px] anonymous statistics about page views, referring sites, device type and country, collected by a privacy-friendly analytics tool that does not use cookies or follow you across other sites.
+[y=1104 fs=32px] Why I use it
+[y=1179 fs=17px] To reply to your enquiry and, if we decide to work together, to prepare a proposal and a contract.
+[y=1219 fs=17px] To see which pages are useful, so I can improve the site.
+[y=1258 fs=17px] To meet legal duties such as bookkeeping and tax records.
+[y=1324 fs=17px] The legal bases are your consent, steps taken at your request before a contract, and my legitimate interest in running a secure and useful website.
+[y=1460 fs=32px] Cookies
+[y=1535 fs=17px] This site only uses cookies that are strictly needed for it to work, for example to remember that you closed a notice. There are no advertising cookies and no third-party tracking pixels. If an embedded video or booking tool wants to set its own cookies, it will ask for your permission first.
+[y=1699 fs=32px] Who I share it with
+[y=1775 fs=17px] I never sell your data or share it for marketing. A few trusted services process it on my behalf: the website host, the form and email provider and the analytics tool. Each one is bound by a data processing agreement and may only use your data to provide its service. When a provider is based outside the European Economic Area, the transfer is protected by standard contractual clauses.
+[y=1968 fs=32px] How long I keep it
+[y=2044 fs=17px] Enquiries that do not become a project: deleted after 12 months.
+[y=2083 fs=17px] Client correspondence and invoices: kept as long as the law requires, which in Germany can be up to 10 years.
+[y=2151 fs=17px] Analytics: kept in aggregated form only, never linked to you.
+[y=2278 fs=32px] Your rights
+[y=2353 fs=17px] You can ask me at any time to show you the personal data I hold about you, to correct it, to delete it, to restrict or object to how I use it, or to send you a copy in a portable format. Where I rely on your consent, you can withdraw it whenever you like. You also have the right to complain to your local data protection authority.
+[y=2547 fs=32px] Security
+[y=2622 fs=17px] The site is served over HTTPS, my inbox and tools are protected with two-factor authentication, and I keep the data I hold to the minimum I need.
+[y=2757 fs=32px] Changes to this policy
+[y=2832 fs=17px] If I change how I handle your data, I will update this page and the date at the top. Important changes stay highlighted here for at least 30 days.
+[y=2999 fs=12px] Questions?
+[y=3032 fs=40px] Write to me and I’ll answer within a day, in plain words.
+[y=3136 fs=19px] hello@maravoss.design →
+[y=3200 fs=13px] Email me
+[y=3559 fs=12px] Prod.
+[y=3582 fs=26px] Portfolio 2026
+[y=3635 fs=12px] Scene
+[y=3658 fs=26px] Footer
+[y=3635 fs=12px] Take
+[y=3658 fs=26px] 33
+[y=3635 fs=12px] Roll
+[y=3658 fs=26px] A-09
+[y=3711 fs=12px] Director
+[y=3734 fs=26px] Mara Voss
+[y=3787 fs=12px] Date
+[y=3810 fs=26px] 26.11.26
+[y=3787 fs=12px] Build
+[y=3810 fs=12px] main · 9f3c1a
+[y=3561 fs=64px] That’s a
+[y=3546 fs=64px] wrap.
+[y=3639 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=3684 fs=12px] Write to me
+[y=3713 fs=40px] hello@maravoss.design →
+[y=3995 fs=12px] Work
+[y=4036 fs=18px] Sole
+[y=4041 fs=12px] Brand · Campaign
+[y=4083 fs=18px] Rouge
+[y=4088 fs=12px] Brand · Packaging
+[y=4130 fs=18px] Nord
+[y=4135 fs=12px] Brand · Identity
+[y=4177 fs=18px] Atlas
+[y=4182 fs=12px] Web · Front-end
+[y=4224 fs=18px] Chroma
+[y=4229 fs=12px] Brand · Colour system
+[y=3995 fs=12px] Pages
+[y=4036 fs=18px] About
+[y=4037 fs=17px] →
+[y=4083 fs=18px] Résumé
+[y=4084 fs=17px] →
+[y=4130 fs=18px] Lab
+[y=4131 fs=17px] →
+[y=4177 fs=18px] Writing
+[y=4178 fs=17px] →
+[y=4224 fs=18px] Contact
+[y=4225 fs=17px] →
+[y=3995 fs=12px] Elsewhere
+[y=4036 fs=18px] Dribbble
+[y=4037 fs=17px] ↗
+[y=4083 fs=18px] GitHub
+[y=4084 fs=17px] ↗
+[y=4130 fs=18px] LinkedIn
+[y=4131 fs=17px] ↗
+[y=4177 fs=18px] Read.cv
+[y=4178 fs=17px] ↗
+[y=4357 fs=12px] © 2026 Mara Voss
+[y=4358 fs=12px] Privacy
+[y=4358 fs=12px] Terms
+[y=4357 fs=12px] Local time
+[y=4357 fs=12px] 18:27
+[y=4357 fs=12px] · Berlin
+[y=4357 fs=12px] Back to top
+[y=4353 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

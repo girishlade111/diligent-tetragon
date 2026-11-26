@@ -1,0 +1,211 @@
+TITLE: Nord — case study | Mara Voss, product designer & developer
+URL: https://diligent-tetragon-837366.framer.app/work/nord-brand-identity
+HEIGHT: 6530
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=145 fs=12px] ← All work
+[y=144 fs=12px] Shipped
+[y=144 fs=12px] 2025
+[y=337 fs=12px] Brand · Identity
+[y=376 fs=101px] Nord
+[y=216 fs=12px] Call sheet
+[y=225 fs=12px] Prod.
+[y=251 fs=12px] Production
+[y=254 fs=12px] Nord
+[y=282 fs=12px] Client
+[y=286 fs=12px] Nord Coffee
+[y=313 fs=12px] Category
+[y=317 fs=12px] Brand · Identity
+[y=345 fs=12px] Year
+[y=348 fs=12px] 2025
+[y=376 fs=12px] Role
+[y=380 fs=12px] Identity, packaging, type
+[y=425 fs=12px] Team
+[y=429 fs=12px] 2 people
+[y=1227 fs=12px] The short version
+[y=1256 fs=40px] Identity, packaging and type system for a Nordic roaster.
+[y=1227 fs=12px] Outcome
+[y=1256 fs=62px] Stocked in 40 cafés in year one
+[y=1545 fs=12px] SC 01
+[y=1575 fs=52px] The
+[y=1562 fs=52px] brief
+[y=1545 fs=17px] Nord Coffee roasted great beans in an industrial unit and sold them in plain brown bags. Cafés liked the coffee and forgot the name.
+[y=1621 fs=17px] They wanted an identity small enough for a two-person roastery and strong enough to sit on a café shelf next to the big brands.
+[y=1791 fs=12px] SC 02
+[y=1821 fs=52px] What I
+[y=1808 fs=52px] did
+[y=1810 fs=17px] Spent a morning in the roastery to find the story worth telling
+[y=1876 fs=17px] Drew a wordmark from the shapes on the roaster's control panel
+[y=1943 fs=17px] Built a bag system where colour marks the origin and type marks the roast
+[y=2009 fs=17px] Designed a one-page website and a wholesale sheet for cafés
+[y=2075 fs=17px] Prepared print files and a short brand guide the founders can use alone
+[y=2236 fs=12px] SC 03
+[y=2266 fs=52px] Design →
+[y=2253 fs=52px] code
+[y=2236 fs=17px] Same hands on both sides. The frame on the left is the design file, the panel on the right is what shipped — type, spacing and colour come straight across.
+[y=2327 fs=12px] Hero / Desktop
+[y=2350 fs=16px] // Nord — bag label generator
+[y=2374 fs=16px] export
+[y=2374 fs=16px] const
+[y=2374 fs=16px] label
+[y=2372 fs=16px] =
+[y=2374 fs=16px] (
+[y=2374 fs=16px] origin
+[y=2374 fs=16px] ,
+[y=2374 fs=16px] roast
+[y=2374 fs=16px] )
+[y=2374 fs=16px] =>
+[y=2374 fs=16px] (
+[y=2374 fs=16px] {
+[y=2398 fs=16px] colour
+[y=2398 fs=16px] :
+[y=2398 fs=16px] ORIGINS
+[y=2398 fs=16px] [
+[y=2398 fs=16px] origin
+[y=2398 fs=16px] ]
+[y=2396 fs=16px] .
+[y=2398 fs=16px] colour
+[y=2398 fs=16px] ,
+[y=2422 fs=16px] weight
+[y=2422 fs=16px] :
+[y=2422 fs=16px] ROASTS
+[y=2422 fs=16px] [
+[y=2422 fs=16px] roast
+[y=2422 fs=16px] ]
+[y=2420 fs=16px] .
+[y=2422 fs=16px] type
+[y=2422 fs=16px] ,
+[y=2446 fs=16px] lines
+[y=2446 fs=16px] :
+[y=2446 fs=16px] [
+[y=2446 fs=16px] origin
+[y=2444 fs=16px] .
+[y=2446 fs=16px] toUpperCase
+[y=2446 fs=16px] (
+[y=2446 fs=16px] )
+[y=2446 fs=16px] ,
+[y=2446 fs=16px] roast
+[y=2446 fs=16px] ,
+[y=2446 fs=16px] "Roasted in Oslo"
+[y=2446 fs=16px] ]
+[y=2446 fs=16px] ,
+[y=2470 fs=16px] }
+[y=2470 fs=16px] )
+[y=2723 fs=12px] SC 04
+[y=2752 fs=52px] The
+[y=2739 fs=52px] result
+[y=2723 fs=17px] Nord went from five to forty cafés in its first year, and wholesale now makes up most of the roastery's revenue.
+[y=2817 fs=62px] 40
+[y=2882 fs=12px] Cafés in year one
+[y=2817 fs=62px] 2
+[y=2882 fs=12px] People on the team
+[y=2817 fs=62px] 3 wks
+[y=2882 fs=12px] Identity sprint
+[y=3012 fs=52px] More
+[y=2999 fs=52px] frames
+[y=3573 fs=12px] The client
+[y=3598 fs=40px] The brand looked like us from the first round. Customers ask who made our bags.
+[y=3797 fs=22px] Jonas Berg
+[y=3826 fs=12px] Founder · Nord Coffee
+[y=4197 fs=12px] Next project
+[y=4230 fs=101px] Atlas
+[y=4337 fs=12px] Web · Front-end
+[y=4370 fs=18px] Marketing site and docs built in Next.js with a live code playground.
+[y=4440 fs=12px] Open case →
+[y=4786 fs=12px] FRAME 10 — Contact
+[y=4836 fs=106px] Have a project? Let’s shoot.
+[y=4836 fs=106px] Have
+[y=4836 fs=106px] a
+[y=4836 fs=106px] project?
+[y=4931 fs=106px] Let’s
+[y=4931 fs=106px] shoot.
+[y=5085 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=5186 fs=13px] Start a project
+[y=5185 fs=14px] hello@maravoss.design
+[y=5175 fs=12px] Copy
+[y=5216 fs=12px] Copied
+[y=4902 fs=60.48px] ON AIR
+[y=5013 fs=12px] Studio 1 · Rec
+[y=5085 fs=12px] Booking now for
+[y=5105 fs=24.48px] Available for work · Nov 2026
+[y=5156 fs=12px] Next start dates
+[y=5237 fs=12px] Start
+[y=5254 fs=12px] No.
+[y=5254 fs=12px] 01
+[y=5243 fs=28.8px] Nov 17
+[y=5248 fs=12px] Admit one project
+[y=5311 fs=12px] Start
+[y=5328 fs=12px] No.
+[y=5328 fs=12px] 02
+[y=5317 fs=28.8px] Dec 1
+[y=5321 fs=12px] Admit one project
+[y=5385 fs=12px] Start
+[y=5402 fs=12px] No.
+[y=5402 fs=12px] 03
+[y=5391 fs=28.8px] Jan 12
+[y=5395 fs=12px] Admit one project
+[y=5674 fs=12px] Prod.
+[y=5697 fs=26px] Portfolio 2026
+[y=5750 fs=12px] Scene
+[y=5773 fs=26px] Footer
+[y=5750 fs=12px] Take
+[y=5773 fs=26px] 11
+[y=5750 fs=12px] Roll
+[y=5773 fs=26px] A-09
+[y=5826 fs=12px] Director
+[y=5849 fs=26px] Mara Voss
+[y=5902 fs=12px] Date
+[y=5925 fs=26px] 26.11.26
+[y=5902 fs=12px] Build
+[y=5925 fs=12px] main · 9f3c1a
+[y=5676 fs=64px] That’s a
+[y=5661 fs=64px] wrap.
+[y=5755 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=5800 fs=12px] Write to me
+[y=5828 fs=40px] hello@maravoss.design →
+[y=6110 fs=12px] Work
+[y=6151 fs=18px] Sole
+[y=6156 fs=12px] Brand · Campaign
+[y=6198 fs=18px] Rouge
+[y=6203 fs=12px] Brand · Packaging
+[y=6245 fs=18px] Nord
+[y=6250 fs=12px] Brand · Identity
+[y=6292 fs=18px] Atlas
+[y=6297 fs=12px] Web · Front-end
+[y=6339 fs=18px] Chroma
+[y=6344 fs=12px] Brand · Colour system
+[y=6110 fs=12px] Pages
+[y=6151 fs=18px] About
+[y=6152 fs=17px] →
+[y=6198 fs=18px] Résumé
+[y=6199 fs=17px] →
+[y=6245 fs=18px] Lab
+[y=6246 fs=17px] →
+[y=6292 fs=18px] Writing
+[y=6293 fs=17px] →
+[y=6339 fs=18px] Contact
+[y=6340 fs=17px] →
+[y=6110 fs=12px] Elsewhere
+[y=6151 fs=18px] Dribbble
+[y=6152 fs=17px] ↗
+[y=6198 fs=18px] GitHub
+[y=6199 fs=17px] ↗
+[y=6245 fs=18px] LinkedIn
+[y=6246 fs=17px] ↗
+[y=6292 fs=18px] Read.cv
+[y=6293 fs=17px] ↗
+[y=6472 fs=12px] © 2026 Mara Voss
+[y=6473 fs=12px] Privacy
+[y=6473 fs=12px] Terms
+[y=6472 fs=12px] Local time
+[y=6472 fs=12px] 18:24
+[y=6472 fs=12px] · Berlin
+[y=6472 fs=12px] Back to top
+[y=6468 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

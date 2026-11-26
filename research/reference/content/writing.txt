@@ -1,0 +1,164 @@
+TITLE: Writing — notes on design and code | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/writing
+HEIGHT: 4376
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=165 fs=12px] NOTEBOOK — Writing
+[y=212 fs=101px] Notes from the studio.
+[y=212 fs=101px] Notes
+[y=212 fs=101px] from
+[y=303 fs=101px] the
+[y=303 fs=101px] studio.
+[y=267 fs=18px] Short essays on designing and building digital products — process, systems, pricing and the small decisions that make software feel good.
+[y=372 fs=12px] Notebook · Vol. 3
+[y=372 fs=12px] 06 notes
+[y=452 fs=12px] All
+[y=452 fs=12px] Process
+[y=452 fs=12px] Systems
+[y=452 fs=12px] Notes
+[y=452 fs=12px] Craft
+[y=618 fs=12px] p. 14
+[y=972 fs=12px] Fig.
+[y=972 fs=12px] 01 —
+[y=972 fs=12px] Process
+[y=622 fs=12px] Latest note
+[y=622 fs=12px] Process
+[y=649 fs=54.72px] Why I design in the browser now
+[y=794 fs=18px] Figma is where I think. The browser is where I decide.
+[y=839 fs=12px] Sep 2026 · 6 min
+[y=877 fs=12px] Read the note
+[y=1146 fs=12px] 02
+[y=1111 fs=33.12px] A design system that people actually use
+[y=1164 fs=16px] Four rules from building one for 40 engineers.
+[y=1131 fs=12px] Systems
+[y=1161 fs=12px] Jul 2026 · 8 min
+[y=1325 fs=12px] 03
+[y=1290 fs=33.12px] Year three as an independent
+[y=1343 fs=16px] Pricing, saying no, and the clients who stayed.
+[y=1310 fs=12px] Notes
+[y=1340 fs=12px] May 2026 · 5 min
+[y=1504 fs=12px] 04
+[y=1469 fs=33.12px] Prototype in code, not in slides
+[y=1522 fs=16px] How a 200-line prototype saved a six-week debate.
+[y=1489 fs=12px] Process
+[y=1519 fs=12px] Mar 2026 · 7 min
+[y=1683 fs=12px] 05
+[y=1648 fs=33.12px] Motion that means something
+[y=1702 fs=16px] Three questions I ask before anything moves on screen.
+[y=1668 fs=12px] Craft
+[y=1698 fs=12px] Jan 2026 · 6 min
+[y=1862 fs=12px] 06
+[y=1827 fs=33.12px] How I price design and build work
+[y=1881 fs=16px] Day rates, fixed scopes and why I stopped quoting by the screen.
+[y=1847 fs=12px] Notes
+[y=1877 fs=12px] Nov 2025 · 9 min
+[y=2126 fs=12px] The studio letter
+[y=2156 fs=48.96px] One
+[y=2156 fs=48.96px] letter
+[y=2156 fs=48.96px] a
+[y=2156 fs=48.96px] month.
+[y=2202 fs=48.96px] No
+[y=2190 fs=48.96px] noise
+[y=2190 fs=48.96px] .
+[y=2265 fs=16px] New notes, one useful link and what I'm building — straight to your inbox.
+[y=2212 fs=12px] Your email
+[y=2256 fs=13px] Subscribe
+[y=2271 fs=13px] Subscribe
+[y=2300 fs=12px] No tracking. Unsubscribe any time.
+[y=2633 fs=12px] FRAME 10 — Contact
+[y=2682 fs=106px] Have a project? Let’s shoot.
+[y=2682 fs=106px] Have
+[y=2682 fs=106px] a
+[y=2682 fs=106px] project?
+[y=2778 fs=106px] Let’s
+[y=2778 fs=106px] shoot.
+[y=2931 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=3032 fs=13px] Start a project
+[y=3032 fs=14px] hello@maravoss.design
+[y=3021 fs=12px] Copy
+[y=3063 fs=12px] Copied
+[y=2748 fs=60.48px] ON AIR
+[y=2860 fs=12px] Studio 1 · Rec
+[y=2932 fs=12px] Booking now for
+[y=2952 fs=24.48px] Available for work · Nov 2026
+[y=3003 fs=12px] Next start dates
+[y=3084 fs=12px] Start
+[y=3101 fs=12px] No.
+[y=3101 fs=12px] 01
+[y=3089 fs=28.8px] Nov 17
+[y=3094 fs=12px] Admit one project
+[y=3158 fs=12px] Start
+[y=3175 fs=12px] No.
+[y=3175 fs=12px] 02
+[y=3163 fs=28.8px] Dec 1
+[y=3167 fs=12px] Admit one project
+[y=3232 fs=12px] Start
+[y=3249 fs=12px] No.
+[y=3249 fs=12px] 03
+[y=3237 fs=28.8px] Jan 12
+[y=3242 fs=12px] Admit one project
+[y=3521 fs=12px] Prod.
+[y=3544 fs=26px] Portfolio 2026
+[y=3597 fs=12px] Scene
+[y=3620 fs=26px] Footer
+[y=3597 fs=12px] Take
+[y=3620 fs=26px] 7
+[y=3597 fs=12px] Roll
+[y=3620 fs=26px] A-09
+[y=3673 fs=12px] Director
+[y=3696 fs=26px] Mara Voss
+[y=3749 fs=12px] Date
+[y=3772 fs=26px] 26.11.26
+[y=3749 fs=12px] Build
+[y=3772 fs=12px] main · 9f3c1a
+[y=3523 fs=64px] That’s a
+[y=3508 fs=64px] wrap.
+[y=3601 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=3646 fs=12px] Write to me
+[y=3675 fs=40px] hello@maravoss.design →
+[y=3957 fs=12px] Work
+[y=3998 fs=18px] Sole
+[y=4003 fs=12px] Brand · Campaign
+[y=4045 fs=18px] Rouge
+[y=4050 fs=12px] Brand · Packaging
+[y=4092 fs=18px] Nord
+[y=4097 fs=12px] Brand · Identity
+[y=4139 fs=18px] Atlas
+[y=4144 fs=12px] Web · Front-end
+[y=4186 fs=18px] Chroma
+[y=4191 fs=12px] Brand · Colour system
+[y=3957 fs=12px] Pages
+[y=3998 fs=18px] About
+[y=3999 fs=17px] →
+[y=4045 fs=18px] Résumé
+[y=4046 fs=17px] →
+[y=4092 fs=18px] Lab
+[y=4093 fs=17px] →
+[y=4139 fs=18px] Writing
+[y=4140 fs=17px] →
+[y=4186 fs=18px] Contact
+[y=4187 fs=17px] →
+[y=3957 fs=12px] Elsewhere
+[y=3998 fs=18px] Dribbble
+[y=3999 fs=17px] ↗
+[y=4045 fs=18px] GitHub
+[y=4046 fs=17px] ↗
+[y=4092 fs=18px] LinkedIn
+[y=4093 fs=17px] ↗
+[y=4139 fs=18px] Read.cv
+[y=4140 fs=17px] ↗
+[y=4319 fs=12px] © 2026 Mara Voss
+[y=4320 fs=12px] Privacy
+[y=4320 fs=12px] Terms
+[y=4319 fs=12px] Local time
+[y=4319 fs=12px] 18:23
+[y=4319 fs=12px] · Berlin
+[y=4319 fs=12px] Back to top
+[y=4315 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

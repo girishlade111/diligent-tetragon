@@ -1,0 +1,116 @@
+TITLE: Contact — hire Mara Voss for product design and development
+URL: https://diligent-tetragon-837366.framer.app/contact
+HEIGHT: 2597
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=165 fs=12px] Contact — Take 1
+[y=212 fs=106px] Let’s make something good.
+[y=212 fs=106px] Let’s
+[y=212 fs=106px] make
+[y=308 fs=106px] something
+[y=308 fs=106px] good.
+[y=429 fs=19px] Tell me about the product, the people and the deadline. I read every brief myself and reply within one working day.
+[y=586 fs=12px] Booking sheet
+[y=586 fs=12px] No. 0142
+[y=586 fs=12px] * required
+[y=640 fs=12px] 01 Your name *
+[y=640 fs=12px] 02 Email *
+[y=735 fs=12px] 03 Company
+[y=735 fs=12px] 04 Website
+[y=830 fs=12px] 05 Budget
+[y=830 fs=12px] 06 Timeline
+[y=926 fs=12px] 07 What do you need?
+[y=961 fs=16px] Product design
+[y=961 fs=16px] Design systems
+[y=961 fs=16px] Front-end development
+[y=961 fs=16px] Brand & web
+[y=1020 fs=12px] 08 The brief *
+[y=1219 fs=12px] Used only to reply to you.
+[y=1220 fs=12px] Privacy ↗
+[y=1220 fs=13px] Send the brief
+[y=591 fs=12px] Status
+[y=628 fs=18px] ON AIR
+[y=617 fs=12px] Booking now for
+[y=635 fs=18px] Available for work · Nov 2026
+[y=748 fs=12px] Email
+[y=774 fs=21.6px] hello@maravoss.design
+[y=814 fs=12px] Copy
+[y=851 fs=12px] Copied
+[y=918 fs=12px] Local time
+[y=918 fs=12px] · Berlin
+[y=946 fs=34.56px] 18:23:47
+[y=966 fs=12px] CET
+[y=995 fs=12px] Off set · I reply in the morning
+[y=1077 fs=12px] Elsewhere
+[y=1113 fs=17px] Dribbble
+[y=1158 fs=17px] GitHub
+[y=1203 fs=17px] LinkedIn
+[y=1248 fs=17px] Read.cv
+[y=1354 fs=15px] Rather talk? Pick a slot, no prep needed.
+[y=1410 fs=13px] Book a 20-min intro call
+[y=1426 fs=13px] Book a 20-min intro call
+[y=1741 fs=12px] Prod.
+[y=1764 fs=26px] Portfolio 2026
+[y=1817 fs=12px] Scene
+[y=1840 fs=26px] Footer
+[y=1817 fs=12px] Take
+[y=1840 fs=26px] 8
+[y=1817 fs=12px] Roll
+[y=1840 fs=26px] A-09
+[y=1893 fs=12px] Director
+[y=1916 fs=26px] Mara Voss
+[y=1969 fs=12px] Date
+[y=1992 fs=26px] 26.11.26
+[y=1969 fs=12px] Build
+[y=1992 fs=12px] main · 9f3c1a
+[y=1743 fs=64px] That’s a
+[y=1728 fs=64px] wrap.
+[y=1822 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=1867 fs=12px] Write to me
+[y=1895 fs=40px] hello@maravoss.design →
+[y=2177 fs=12px] Work
+[y=2218 fs=18px] Sole
+[y=2223 fs=12px] Brand · Campaign
+[y=2265 fs=18px] Rouge
+[y=2270 fs=12px] Brand · Packaging
+[y=2312 fs=18px] Nord
+[y=2317 fs=12px] Brand · Identity
+[y=2359 fs=18px] Atlas
+[y=2364 fs=12px] Web · Front-end
+[y=2406 fs=18px] Chroma
+[y=2411 fs=12px] Brand · Colour system
+[y=2177 fs=12px] Pages
+[y=2218 fs=18px] About
+[y=2219 fs=17px] →
+[y=2265 fs=18px] Résumé
+[y=2266 fs=17px] →
+[y=2312 fs=18px] Lab
+[y=2313 fs=17px] →
+[y=2359 fs=18px] Writing
+[y=2360 fs=17px] →
+[y=2406 fs=18px] Contact
+[y=2407 fs=17px] →
+[y=2177 fs=12px] Elsewhere
+[y=2218 fs=18px] Dribbble
+[y=2219 fs=17px] ↗
+[y=2265 fs=18px] GitHub
+[y=2266 fs=17px] ↗
+[y=2312 fs=18px] LinkedIn
+[y=2313 fs=17px] ↗
+[y=2359 fs=18px] Read.cv
+[y=2360 fs=17px] ↗
+[y=2540 fs=12px] © 2026 Mara Voss
+[y=2541 fs=12px] Privacy
+[y=2541 fs=12px] Terms
+[y=2540 fs=12px] Local time
+[y=2540 fs=12px] 18:23
+[y=2540 fs=12px] · Berlin
+[y=2540 fs=12px] Back to top
+[y=2535 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

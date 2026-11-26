@@ -1,0 +1,145 @@
+TITLE: Motion that means something | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/writing/motion-that-means-something
+HEIGHT: 4688
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=151 fs=12px] ← Writing
+[y=150 fs=12px] /
+[y=150 fs=12px] Craft
+[y=196 fs=12px] Craft
+[y=196 fs=12px] Jan 2026
+[y=196 fs=12px] 6 min
+[y=243 fs=89px] Motion that means something
+[y=440 fs=19px] Three questions I ask before anything moves on screen.
+[y=443 fs=12px] Words by
+[y=439 fs=16px] Mara Voss
+[y=1245 fs=12px] Share
+[y=1456 fs=12px] Writing
+[y=1245 fs=32px] Three questions
+[y=1321 fs=17px] Before anything moves on screen, I ask three things:
+[y=1351 fs=17px] What changed, and does the person need to notice?
+[y=1390 fs=17px] Where did it come from, and where is it going?
+[y=1429 fs=17px] Would it be clearer if it did not move at all?
+[y=1519 fs=32px] Motion as explanation
+[y=1595 fs=17px] Good motion answers a question the person was about to ask: where did that panel go, what did I just delete, is it still loading. Motion that answers nothing is decoration, and decoration gets tiring by the third visit.
+[y=1706 fs=31.68px] If you can't say why it moves, it shouldn't.
+[y=1828 fs=32px] Keep it short
+[y=1904 fs=17px] Most interface motion should finish in under 300 milliseconds. Anything longer makes people wait for the interface instead of the other way round.
+[y=2047 fs=12px] Call sheet · Open
+[y=2078 fs=40px] Need this for your product?
+[y=2136 fs=16px] I design and build digital products end to end — from the first sketch to production code. Tell me what you’re making.
+[y=2219 fs=13px] Let's talk
+[y=2399 fs=52px] More notes
+[y=2413 fs=13px] All writing
+[y=2496 fs=12px] Sep 2026
+[y=2492 fs=22px] Why I design in the browser now
+[y=2496 fs=12px] Process
+[y=2496 fs=12px] 6 min
+[y=2492 fs=16px] →
+[y=2565 fs=12px] Jul 2026
+[y=2561 fs=22px] A design system that people actually use
+[y=2565 fs=12px] Systems
+[y=2565 fs=12px] 8 min
+[y=2562 fs=16px] →
+[y=2634 fs=12px] May 2026
+[y=2631 fs=22px] Year three as an independent
+[y=2634 fs=12px] Notes
+[y=2634 fs=12px] 5 min
+[y=2631 fs=16px] →
+[y=2945 fs=12px] FRAME 10 — Contact
+[y=2994 fs=106px] Have a project? Let’s shoot.
+[y=2994 fs=106px] Have
+[y=2994 fs=106px] a
+[y=2994 fs=106px] project?
+[y=3090 fs=106px] Let’s
+[y=3090 fs=106px] shoot.
+[y=3243 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=3344 fs=13px] Start a project
+[y=3344 fs=14px] hello@maravoss.design
+[y=3333 fs=12px] Copy
+[y=3375 fs=12px] Copied
+[y=3060 fs=60.48px] ON AIR
+[y=3172 fs=12px] Studio 1 · Rec
+[y=3244 fs=12px] Booking now for
+[y=3264 fs=24.48px] Available for work · Nov 2026
+[y=3315 fs=12px] Next start dates
+[y=3396 fs=12px] Start
+[y=3413 fs=12px] No.
+[y=3413 fs=12px] 01
+[y=3401 fs=28.8px] Nov 17
+[y=3406 fs=12px] Admit one project
+[y=3470 fs=12px] Start
+[y=3487 fs=12px] No.
+[y=3487 fs=12px] 02
+[y=3475 fs=28.8px] Dec 1
+[y=3479 fs=12px] Admit one project
+[y=3544 fs=12px] Start
+[y=3561 fs=12px] No.
+[y=3561 fs=12px] 03
+[y=3549 fs=28.8px] Jan 12
+[y=3554 fs=12px] Admit one project
+[y=3833 fs=12px] Prod.
+[y=3856 fs=26px] Portfolio 2026
+[y=3909 fs=12px] Scene
+[y=3932 fs=26px] Footer
+[y=3909 fs=12px] Take
+[y=3932 fs=26px] 31
+[y=3909 fs=12px] Roll
+[y=3932 fs=26px] A-09
+[y=3985 fs=12px] Director
+[y=4008 fs=26px] Mara Voss
+[y=4061 fs=12px] Date
+[y=4084 fs=26px] 26.11.26
+[y=4061 fs=12px] Build
+[y=4084 fs=12px] main · 9f3c1a
+[y=3835 fs=64px] That’s a
+[y=3820 fs=64px] wrap.
+[y=3913 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=3958 fs=12px] Write to me
+[y=3987 fs=40px] hello@maravoss.design →
+[y=4269 fs=12px] Work
+[y=4310 fs=18px] Sole
+[y=4315 fs=12px] Brand · Campaign
+[y=4357 fs=18px] Rouge
+[y=4362 fs=12px] Brand · Packaging
+[y=4404 fs=18px] Nord
+[y=4409 fs=12px] Brand · Identity
+[y=4451 fs=18px] Atlas
+[y=4456 fs=12px] Web · Front-end
+[y=4498 fs=18px] Chroma
+[y=4503 fs=12px] Brand · Colour system
+[y=4269 fs=12px] Pages
+[y=4310 fs=18px] About
+[y=4311 fs=17px] →
+[y=4357 fs=18px] Résumé
+[y=4358 fs=17px] →
+[y=4404 fs=18px] Lab
+[y=4405 fs=17px] →
+[y=4451 fs=18px] Writing
+[y=4452 fs=17px] →
+[y=4498 fs=18px] Contact
+[y=4499 fs=17px] →
+[y=4269 fs=12px] Elsewhere
+[y=4310 fs=18px] Dribbble
+[y=4311 fs=17px] ↗
+[y=4357 fs=18px] GitHub
+[y=4358 fs=17px] ↗
+[y=4404 fs=18px] LinkedIn
+[y=4405 fs=17px] ↗
+[y=4451 fs=18px] Read.cv
+[y=4452 fs=17px] ↗
+[y=4631 fs=12px] © 2026 Mara Voss
+[y=4632 fs=12px] Privacy
+[y=4632 fs=12px] Terms
+[y=4631 fs=12px] Local time
+[y=4631 fs=12px] 18:27
+[y=4631 fs=12px] · Berlin
+[y=4631 fs=12px] Back to top
+[y=4627 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

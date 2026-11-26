@@ -1,0 +1,245 @@
+TITLE: UI sound kit — lab | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/lab/ui-sound-kit
+HEIGHT: 4753
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=151 fs=12px] ← Lab
+[y=150 fs=12px] /
+[y=150 fs=12px] Side project
+[y=190 fs=12px] Side project
+[y=190 fs=12px] 2025
+[y=190 fs=12px] Web Audio
+[y=231 fs=89px] UI sound kit
+[y=213 fs=19px] 48 tiny sounds for interfaces.
+[y=279 fs=13px] Live demo
+[y=279 fs=13px] Source
+[y=1082 fs=12px] Camera report
+[y=1109 fs=12px] Scene
+[y=1109 fs=12px] Side project
+[y=1147 fs=12px] Year
+[y=1147 fs=12px] 2025
+[y=1184 fs=12px] Tools
+[y=1184 fs=12px] Web Audio
+[y=1066 fs=32px] The idea
+[y=1136 fs=17px] Interfaces are almost always silent, so the few sounds they do make tend to be loud and generic. I wanted a set that sits under the interaction instead of on top of it.
+[y=1210 fs=17px] The brief to myself: 48 sounds, none longer than 120 ms, all of them pleasant on the hundredth play.
+[y=1309 fs=32px] How it's built
+[y=1380 fs=17px] Every sound is synthesised in the browser with the Web Audio API, so the kit has no audio files at all and each sound can be tuned with three numbers.
+[y=1438 fs=17px] Oscillator, filter and envelope per sound, nothing else
+[y=1475 fs=17px] Pitch follows the size of the element you touch
+[y=1511 fs=17px] Respects reduced-motion and a global mute
+[y=1548 fs=17px] Exported as a 2 kB module with a tiny play() function
+[y=1652 fs=16px] const
+[y=1652 fs=16px] ctx
+[y=1650 fs=16px] =
+[y=1652 fs=16px] new
+[y=1652 fs=16px] AudioContext
+[y=1652 fs=16px] (
+[y=1652 fs=16px] )
+[y=1676 fs=16px] export
+[y=1676 fs=16px] function
+[y=1676 fs=16px] tap
+[y=1676 fs=16px] (
+[y=1676 fs=16px] pitch
+[y=1674 fs=16px] =
+[y=1676 fs=16px] 660
+[y=1676 fs=16px] )
+[y=1676 fs=16px] {
+[y=1700 fs=16px] const
+[y=1700 fs=16px] o
+[y=1698 fs=16px] =
+[y=1700 fs=16px] ctx
+[y=1698 fs=16px] .
+[y=1700 fs=16px] createOscillator
+[y=1700 fs=16px] (
+[y=1700 fs=16px] )
+[y=1700 fs=16px] ,
+[y=1700 fs=16px] g
+[y=1698 fs=16px] =
+[y=1700 fs=16px] ctx
+[y=1698 fs=16px] .
+[y=1700 fs=16px] createGain
+[y=1700 fs=16px] (
+[y=1700 fs=16px] )
+[y=1724 fs=16px] o
+[y=1722 fs=16px] .
+[y=1724 fs=16px] frequency
+[y=1722 fs=16px] .
+[y=1724 fs=16px] value
+[y=1722 fs=16px] =
+[y=1724 fs=16px] pitch
+[y=1748 fs=16px] g
+[y=1746 fs=16px] .
+[y=1748 fs=16px] gain
+[y=1746 fs=16px] .
+[y=1748 fs=16px] setValueAtTime
+[y=1748 fs=16px] (
+[y=1748 fs=16px] 0.18
+[y=1748 fs=16px] ,
+[y=1748 fs=16px] ctx
+[y=1746 fs=16px] .
+[y=1748 fs=16px] currentTime
+[y=1748 fs=16px] )
+[y=1772 fs=16px] g
+[y=1770 fs=16px] .
+[y=1772 fs=16px] gain
+[y=1770 fs=16px] .
+[y=1772 fs=16px] exponentialRampToValueAtTime
+[y=1772 fs=16px] (
+[y=1772 fs=16px] 0.001
+[y=1772 fs=16px] ,
+[y=1772 fs=16px] ctx
+[y=1770 fs=16px] .
+[y=1772 fs=16px] currentTime
+[y=1770 fs=16px] +
+[y=1772 fs=16px] 0.09
+[y=1772 fs=16px] )
+[y=1796 fs=16px] o
+[y=1794 fs=16px] .
+[y=1796 fs=16px] connect
+[y=1796 fs=16px] (
+[y=1796 fs=16px] g
+[y=1796 fs=16px] )
+[y=1794 fs=16px] .
+[y=1796 fs=16px] connect
+[y=1796 fs=16px] (
+[y=1796 fs=16px] ctx
+[y=1794 fs=16px] .
+[y=1796 fs=16px] destination
+[y=1796 fs=16px] )
+[y=1820 fs=16px] o
+[y=1818 fs=16px] .
+[y=1820 fs=16px] start
+[y=1820 fs=16px] (
+[y=1820 fs=16px] )
+[y=1820 fs=16px] ;
+[y=1820 fs=16px] o
+[y=1818 fs=16px] .
+[y=1820 fs=16px] stop
+[y=1820 fs=16px] (
+[y=1820 fs=16px] ctx
+[y=1818 fs=16px] .
+[y=1820 fs=16px] currentTime
+[y=1818 fs=16px] +
+[y=1820 fs=16px] 0.1
+[y=1820 fs=16px] )
+[y=1844 fs=16px] }
+[y=1990 fs=32px] What I learned
+[y=2060 fs=17px] Quiet beats clever. The sounds people kept were the ones they stopped noticing after a day.
+[y=2089 fs=17px] Short decays feel faster than short attacks
+[y=2126 fs=17px] Always ship a mute that remembers itself
+[y=2214 fs=24px] A good UI sound is one you only miss when it's gone.
+[y=2412 fs=52px] More from the lab
+[y=2427 fs=13px] All experiments
+[y=2700 fs=12px] Experiment
+[y=2700 fs=12px] 2026
+[y=2728 fs=22px] Variable type toy
+[y=2700 fs=12px] Experiment
+[y=2700 fs=12px] 2025
+[y=2728 fs=22px] Shader gradients
+[y=2700 fs=12px] Open source
+[y=2700 fs=12px] 2024
+[y=2728 fs=22px] Token sync plugin
+[y=2700 fs=12px] Concept
+[y=2700 fs=12px] 2024
+[y=2728 fs=22px] Film camera app
+[y=2700 fs=12px] Resource
+[y=2700 fs=12px] 2023
+[y=2728 fs=22px] Motion cheatsheet
+[y=3010 fs=12px] FRAME 10 — Contact
+[y=3059 fs=106px] Have a project? Let’s shoot.
+[y=3059 fs=106px] Have
+[y=3059 fs=106px] a
+[y=3059 fs=106px] project?
+[y=3155 fs=106px] Let’s
+[y=3155 fs=106px] shoot.
+[y=3308 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=3409 fs=13px] Start a project
+[y=3409 fs=14px] hello@maravoss.design
+[y=3398 fs=12px] Copy
+[y=3440 fs=12px] Copied
+[y=3125 fs=60.48px] ON AIR
+[y=3237 fs=12px] Studio 1 · Rec
+[y=3309 fs=12px] Booking now for
+[y=3329 fs=24.48px] Available for work · Nov 2026
+[y=3380 fs=12px] Next start dates
+[y=3461 fs=12px] Start
+[y=3478 fs=12px] No.
+[y=3478 fs=12px] 01
+[y=3466 fs=28.8px] Nov 17
+[y=3471 fs=12px] Admit one project
+[y=3535 fs=12px] Start
+[y=3552 fs=12px] No.
+[y=3552 fs=12px] 02
+[y=3540 fs=28.8px] Dec 1
+[y=3544 fs=12px] Admit one project
+[y=3609 fs=12px] Start
+[y=3626 fs=12px] No.
+[y=3626 fs=12px] 03
+[y=3614 fs=28.8px] Jan 12
+[y=3619 fs=12px] Admit one project
+[y=3898 fs=12px] Prod.
+[y=3921 fs=26px] Portfolio 2026
+[y=3974 fs=12px] Scene
+[y=3997 fs=26px] Footer
+[y=3974 fs=12px] Take
+[y=3997 fs=26px] 22
+[y=3974 fs=12px] Roll
+[y=3997 fs=26px] A-09
+[y=4050 fs=12px] Director
+[y=4073 fs=26px] Mara Voss
+[y=4126 fs=12px] Date
+[y=4149 fs=26px] 26.11.26
+[y=4126 fs=12px] Build
+[y=4149 fs=12px] main · 9f3c1a
+[y=3900 fs=64px] That’s a
+[y=3885 fs=64px] wrap.
+[y=3978 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=4023 fs=12px] Write to me
+[y=4052 fs=40px] hello@maravoss.design →
+[y=4334 fs=12px] Work
+[y=4375 fs=18px] Sole
+[y=4380 fs=12px] Brand · Campaign
+[y=4422 fs=18px] Rouge
+[y=4427 fs=12px] Brand · Packaging
+[y=4469 fs=18px] Nord
+[y=4474 fs=12px] Brand · Identity
+[y=4516 fs=18px] Atlas
+[y=4521 fs=12px] Web · Front-end
+[y=4563 fs=18px] Chroma
+[y=4568 fs=12px] Brand · Colour system
+[y=4334 fs=12px] Pages
+[y=4375 fs=18px] About
+[y=4376 fs=17px] →
+[y=4422 fs=18px] Résumé
+[y=4423 fs=17px] →
+[y=4469 fs=18px] Lab
+[y=4470 fs=17px] →
+[y=4516 fs=18px] Writing
+[y=4517 fs=17px] →
+[y=4563 fs=18px] Contact
+[y=4564 fs=17px] →
+[y=4334 fs=12px] Elsewhere
+[y=4375 fs=18px] Dribbble
+[y=4376 fs=17px] ↗
+[y=4422 fs=18px] GitHub
+[y=4423 fs=17px] ↗
+[y=4469 fs=18px] LinkedIn
+[y=4470 fs=17px] ↗
+[y=4516 fs=18px] Read.cv
+[y=4517 fs=17px] ↗
+[y=4696 fs=12px] © 2026 Mara Voss
+[y=4697 fs=12px] Privacy
+[y=4697 fs=12px] Terms
+[y=4696 fs=12px] Local time
+[y=4696 fs=12px] 18:25
+[y=4696 fs=12px] · Berlin
+[y=4696 fs=12px] Back to top
+[y=4692 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

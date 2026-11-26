@@ -1,0 +1,222 @@
+TITLE: Atlas — case study | Mara Voss, product designer & developer
+URL: https://diligent-tetragon-837366.framer.app/work/atlas-dev-platform
+HEIGHT: 6410
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=145 fs=12px] ← All work
+[y=144 fs=12px] Shipped
+[y=144 fs=12px] 2024
+[y=320 fs=12px] Web · Front-end
+[y=358 fs=101px] Atlas
+[y=216 fs=12px] Call sheet
+[y=225 fs=12px] Prod.
+[y=251 fs=12px] Production
+[y=254 fs=12px] Atlas
+[y=282 fs=12px] Client
+[y=286 fs=12px] Atlas Cloud
+[y=313 fs=12px] Category
+[y=317 fs=12px] Web · Front-end
+[y=345 fs=12px] Year
+[y=348 fs=12px] 2024
+[y=376 fs=12px] Role
+[y=380 fs=12px] Front-end lead
+[y=407 fs=12px] Team
+[y=411 fs=12px] 5 people
+[y=1210 fs=12px] The short version
+[y=1239 fs=40px] Marketing site and docs built in Next.js with a live code playground.
+[y=1210 fs=12px] Outcome
+[y=1239 fs=62px] Docs load 3× faster
+[y=1469 fs=12px] SC 01
+[y=1498 fs=52px] The
+[y=1485 fs=52px] brief
+[y=1469 fs=17px] Atlas Cloud's developer docs took six seconds to load and nobody on the team owned the front end. Developers left before they found the page they needed.
+[y=1544 fs=17px] I joined as front-end lead for a quarter to rebuild the docs site, set up a design system for it and hand it to the team in good shape.
+[y=1715 fs=12px] SC 02
+[y=1744 fs=52px] What I
+[y=1731 fs=52px] did
+[y=1734 fs=17px] Measured where time went: fonts, a heavy search bundle and client-side rendering
+[y=1800 fs=17px] Moved the docs to static pages with Next.js and on-demand search
+[y=1866 fs=17px] Designed a small set of components for code blocks, callouts and API tables
+[y=1932 fs=17px] Paired with two engineers so they could run the system after I left
+[y=1999 fs=17px] Set up performance budgets that fail the build when a page gets slow
+[y=2160 fs=12px] SC 03
+[y=2189 fs=52px] Design →
+[y=2176 fs=52px] code
+[y=2160 fs=17px] Same hands on both sides. The frame on the left is the design file, the panel on the right is what shipped — type, spacing and colour come straight across.
+[y=2250 fs=12px] Hero / Desktop
+[y=2273 fs=16px] // Atlas — docs page
+[y=2297 fs=16px] export
+[y=2297 fs=16px] async
+[y=2297 fs=16px] function
+[y=2297 fs=16px] generateStaticParams
+[y=2297 fs=16px] (
+[y=2297 fs=16px] )
+[y=2297 fs=16px] {
+[y=2321 fs=16px] return
+[y=2321 fs=16px] (
+[y=2321 fs=16px] await
+[y=2321 fs=16px] getDocs
+[y=2321 fs=16px] (
+[y=2321 fs=16px] )
+[y=2321 fs=16px] )
+[y=2319 fs=16px] .
+[y=2321 fs=16px] map
+[y=2321 fs=16px] (
+[y=2321 fs=16px] (
+[y=2321 fs=16px] d
+[y=2321 fs=16px] )
+[y=2321 fs=16px] =>
+[y=2321 fs=16px] (
+[y=2321 fs=16px] {
+[y=2321 fs=16px] slug
+[y=2321 fs=16px] :
+[y=2321 fs=16px] d
+[y=2319 fs=16px] .
+[y=2321 fs=16px] slug
+[y=2321 fs=16px] }
+[y=2321 fs=16px] )
+[y=2321 fs=16px] )
+[y=2345 fs=16px] }
+[y=2369 fs=16px] export
+[y=2369 fs=16px] default
+[y=2369 fs=16px] function
+[y=2369 fs=16px] Doc
+[y=2369 fs=16px] (
+[y=2369 fs=16px] {
+[y=2369 fs=16px] params
+[y=2369 fs=16px] }
+[y=2369 fs=16px] )
+[y=2369 fs=16px] {
+[y=2393 fs=16px] return
+[y=2393 fs=16px] <
+[y=2393 fs=16px] Article
+[y=2393 fs=16px] doc
+[y=2391 fs=16px] =
+[y=2393 fs=16px] {
+[y=2393 fs=16px] getDoc
+[y=2393 fs=16px] (
+[y=2393 fs=16px] params
+[y=2391 fs=16px] .
+[y=2393 fs=16px] slug
+[y=2393 fs=16px] )
+[y=2393 fs=16px] }
+[y=2393 fs=16px] />
+[y=2417 fs=16px] }
+[y=2647 fs=12px] SC 04
+[y=2676 fs=52px] The
+[y=2663 fs=52px] result
+[y=2647 fs=17px] Docs now load three times faster on a mid-range phone, search results appear while you type, and the team ships doc changes without me.
+[y=2741 fs=62px] 3×
+[y=2806 fs=12px] Faster docs
+[y=2741 fs=62px] 98
+[y=2806 fs=12px] Lighthouse score
+[y=2741 fs=62px] 1 qtr
+[y=2806 fs=12px] From audit to handover
+[y=2935 fs=52px] More
+[y=2922 fs=52px] frames
+[y=3496 fs=12px] The client
+[y=3521 fs=40px] The rare designer who reads a pull request. Our docs finally feel fast.
+[y=3677 fs=22px] Amira Said
+[y=3706 fs=12px] CTO · Atlas Cloud
+[y=4090 fs=12px] Next project
+[y=4123 fs=101px] Chroma
+[y=4230 fs=12px] Brand · Colour system
+[y=4264 fs=18px] A colour system that works on screen and on paper.
+[y=4307 fs=12px] Open case →
+[y=4666 fs=12px] FRAME 10 — Contact
+[y=4715 fs=106px] Have a project? Let’s shoot.
+[y=4715 fs=106px] Have
+[y=4715 fs=106px] a
+[y=4715 fs=106px] project?
+[y=4811 fs=106px] Let’s
+[y=4811 fs=106px] shoot.
+[y=4964 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=5065 fs=13px] Start a project
+[y=5065 fs=14px] hello@maravoss.design
+[y=5054 fs=12px] Copy
+[y=5096 fs=12px] Copied
+[y=4781 fs=60.48px] ON AIR
+[y=4893 fs=12px] Studio 1 · Rec
+[y=4965 fs=12px] Booking now for
+[y=4985 fs=24.48px] Available for work · Nov 2026
+[y=5036 fs=12px] Next start dates
+[y=5117 fs=12px] Start
+[y=5134 fs=12px] No.
+[y=5134 fs=12px] 01
+[y=5122 fs=28.8px] Nov 17
+[y=5127 fs=12px] Admit one project
+[y=5191 fs=12px] Start
+[y=5208 fs=12px] No.
+[y=5208 fs=12px] 02
+[y=5196 fs=28.8px] Dec 1
+[y=5200 fs=12px] Admit one project
+[y=5265 fs=12px] Start
+[y=5282 fs=12px] No.
+[y=5282 fs=12px] 03
+[y=5270 fs=28.8px] Jan 12
+[y=5275 fs=12px] Admit one project
+[y=5554 fs=12px] Prod.
+[y=5577 fs=26px] Portfolio 2026
+[y=5630 fs=12px] Scene
+[y=5653 fs=26px] Footer
+[y=5630 fs=12px] Take
+[y=5653 fs=26px] 12
+[y=5630 fs=12px] Roll
+[y=5653 fs=26px] A-09
+[y=5706 fs=12px] Director
+[y=5729 fs=26px] Mara Voss
+[y=5782 fs=12px] Date
+[y=5805 fs=26px] 26.11.26
+[y=5782 fs=12px] Build
+[y=5805 fs=12px] main · 9f3c1a
+[y=5556 fs=64px] That’s a
+[y=5541 fs=64px] wrap.
+[y=5634 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=5679 fs=12px] Write to me
+[y=5708 fs=40px] hello@maravoss.design →
+[y=5990 fs=12px] Work
+[y=6031 fs=18px] Sole
+[y=6036 fs=12px] Brand · Campaign
+[y=6078 fs=18px] Rouge
+[y=6083 fs=12px] Brand · Packaging
+[y=6125 fs=18px] Nord
+[y=6130 fs=12px] Brand · Identity
+[y=6172 fs=18px] Atlas
+[y=6177 fs=12px] Web · Front-end
+[y=6219 fs=18px] Chroma
+[y=6224 fs=12px] Brand · Colour system
+[y=5990 fs=12px] Pages
+[y=6031 fs=18px] About
+[y=6032 fs=17px] →
+[y=6078 fs=18px] Résumé
+[y=6079 fs=17px] →
+[y=6125 fs=18px] Lab
+[y=6126 fs=17px] →
+[y=6172 fs=18px] Writing
+[y=6173 fs=17px] →
+[y=6219 fs=18px] Contact
+[y=6220 fs=17px] →
+[y=5990 fs=12px] Elsewhere
+[y=6031 fs=18px] Dribbble
+[y=6032 fs=17px] ↗
+[y=6078 fs=18px] GitHub
+[y=6079 fs=17px] ↗
+[y=6125 fs=18px] LinkedIn
+[y=6126 fs=17px] ↗
+[y=6172 fs=18px] Read.cv
+[y=6173 fs=17px] ↗
+[y=6352 fs=12px] © 2026 Mara Voss
+[y=6353 fs=12px] Privacy
+[y=6353 fs=12px] Terms
+[y=6352 fs=12px] Local time
+[y=6352 fs=12px] 18:24
+[y=6352 fs=12px] · Berlin
+[y=6352 fs=12px] Back to top
+[y=6348 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

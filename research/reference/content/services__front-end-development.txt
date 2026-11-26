@@ -1,0 +1,150 @@
+TITLE: Services — product design, design systems, front-end | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/services/front-end-development
+HEIGHT: 4628
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=173 fs=12px] ← Services
+[y=172 fs=12px] /
+[y=172 fs=12px] Front-end development
+[y=211 fs=89px] Front-end development
+[y=399 fs=40px] I build what I design, in React, Next.js and Framer.
+[y=509 fs=18px] Fast, accessible front-ends with the motion and detail the design promised, shipped to production and handed over clean.
+[y=612 fs=13px] Start a project
+[y=612 fs=13px] All services
+[y=169 fs=12px] Gel ·
+[y=169 fs=12px] #3DDC97
+[y=811 fs=12px] What you get
+[y=851 fs=62px] Everything
+[y=851 fs=62px] you
+[y=895 fs=62px] keep.
+[y=989 fs=17px] Production code, not a prototype: typed, tested, accessible and handed over in your repository.
+[y=828 fs=28.8px] React / Next.js
+[y=904 fs=28.8px] Framer sites
+[y=981 fs=28.8px] Animations
+[y=1058 fs=28.8px] Accessibility
+[y=1134 fs=28.8px] Performance
+[y=1430 fs=52px] Projects with this
+[y=1462 fs=12px] Frames from jobs where this was the work.
+[y=1816 fs=22px] Sole
+[y=1854 fs=12px] Sole Supply
+[y=1854 fs=12px] 2026
+[y=1816 fs=22px] Atlas
+[y=1854 fs=12px] Atlas Cloud
+[y=1854 fs=12px] 2024
+[y=1800 fs=22px] Your project
+[y=1834 fs=12px] Next frame · unexposed
+[y=1899 fs=52px] Other services
+[y=2005 fs=22px] Product design
+[y=2005 fs=17px] →
+[y=2005 fs=22px] Design systems
+[y=2005 fs=17px] →
+[y=2005 fs=22px] Brand & web
+[y=2005 fs=17px] →
+[y=2295 fs=12px] Before you ask
+[y=2337 fs=62px] Questions
+[y=2454 fs=12px] Q.
+[y=2481 fs=22px] Which stack do you use?
+[y=2517 fs=16px] React and Next.js for products, Framer for marketing sites. If you already have a stack, I work in yours.
+[y=2454 fs=12px] Q.
+[y=2481 fs=22px] Do you work with our developers?
+[y=2517 fs=16px] Yes. I open pull requests in your repo, follow your review process and pair with your team when it helps.
+[y=2454 fs=12px] Q.
+[y=2481 fs=22px] What about speed and accessibility?
+[y=2542 fs=16px] Every page is checked against Core Web Vitals and WCAG 2.2 AA before it ships, not after.
+[y=2884 fs=12px] FRAME 10 — Contact
+[y=2934 fs=106px] Have a project? Let’s shoot.
+[y=2934 fs=106px] Have
+[y=2934 fs=106px] a
+[y=2934 fs=106px] project?
+[y=3029 fs=106px] Let’s
+[y=3029 fs=106px] shoot.
+[y=3183 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=3284 fs=13px] Start a project
+[y=3283 fs=14px] hello@maravoss.design
+[y=3273 fs=12px] Copy
+[y=3314 fs=12px] Copied
+[y=3000 fs=60.48px] ON AIR
+[y=3112 fs=12px] Studio 1 · Rec
+[y=3183 fs=12px] Booking now for
+[y=3203 fs=24.48px] Available for work · Nov 2026
+[y=3254 fs=12px] Next start dates
+[y=3335 fs=12px] Start
+[y=3352 fs=12px] No.
+[y=3352 fs=12px] 01
+[y=3341 fs=28.8px] Nov 17
+[y=3346 fs=12px] Admit one project
+[y=3409 fs=12px] Start
+[y=3426 fs=12px] No.
+[y=3426 fs=12px] 02
+[y=3415 fs=28.8px] Dec 1
+[y=3419 fs=12px] Admit one project
+[y=3483 fs=12px] Start
+[y=3500 fs=12px] No.
+[y=3500 fs=12px] 03
+[y=3489 fs=28.8px] Jan 12
+[y=3493 fs=12px] Admit one project
+[y=3772 fs=12px] Prod.
+[y=3796 fs=26px] Portfolio 2026
+[y=3848 fs=12px] Scene
+[y=3872 fs=26px] Footer
+[y=3848 fs=12px] Take
+[y=3872 fs=26px] 19
+[y=3848 fs=12px] Roll
+[y=3872 fs=26px] A-09
+[y=3924 fs=12px] Director
+[y=3948 fs=26px] Mara Voss
+[y=4000 fs=12px] Date
+[y=4024 fs=26px] 26.11.26
+[y=4000 fs=12px] Build
+[y=4024 fs=12px] main · 9f3c1a
+[y=3774 fs=64px] That’s a
+[y=3759 fs=64px] wrap.
+[y=3853 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=3898 fs=12px] Write to me
+[y=3926 fs=40px] hello@maravoss.design →
+[y=4208 fs=12px] Work
+[y=4250 fs=18px] Sole
+[y=4254 fs=12px] Brand · Campaign
+[y=4297 fs=18px] Rouge
+[y=4301 fs=12px] Brand · Packaging
+[y=4344 fs=18px] Nord
+[y=4348 fs=12px] Brand · Identity
+[y=4391 fs=18px] Atlas
+[y=4395 fs=12px] Web · Front-end
+[y=4438 fs=18px] Chroma
+[y=4442 fs=12px] Brand · Colour system
+[y=4208 fs=12px] Pages
+[y=4250 fs=18px] About
+[y=4250 fs=17px] →
+[y=4297 fs=18px] Résumé
+[y=4297 fs=17px] →
+[y=4344 fs=18px] Lab
+[y=4344 fs=17px] →
+[y=4391 fs=18px] Writing
+[y=4391 fs=17px] →
+[y=4438 fs=18px] Contact
+[y=4438 fs=17px] →
+[y=4208 fs=12px] Elsewhere
+[y=4250 fs=18px] Dribbble
+[y=4250 fs=17px] ↗
+[y=4297 fs=18px] GitHub
+[y=4297 fs=17px] ↗
+[y=4344 fs=18px] LinkedIn
+[y=4344 fs=17px] ↗
+[y=4391 fs=18px] Read.cv
+[y=4391 fs=17px] ↗
+[y=4571 fs=12px] © 2026 Mara Voss
+[y=4572 fs=12px] Privacy
+[y=4572 fs=12px] Terms
+[y=4571 fs=12px] Local time
+[y=4571 fs=12px] 18:25
+[y=4571 fs=12px] · Berlin
+[y=4571 fs=12px] Back to top
+[y=4567 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

@@ -1,0 +1,311 @@
+TITLE: Work — case studies in product design, brand and front-end | Mara Voss, designer portfolio
+URL: https://diligent-tetragon-837366.framer.app/work
+HEIGHT: 7365
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=175 fs=12px] FRAME 02 — Work
+[y=220 fs=89px] Work
+[y=220 fs=89px] I’m
+[y=303 fs=89px] proud
+[y=303 fs=89px] of.
+[y=410 fs=18px] Eight projects from the last few years, from the first sketch to the shipped release, with the role I played and what changed.
+[y=513 fs=13px] Start a project
+[y=513 fs=13px] Download résumé
+[y=524 fs=12px] MV 400TX
+[y=524 fs=12px] 01
+[y=524 fs=12px] A
+[y=494 fs=12px] MV 400TX
+[y=494 fs=12px] 02
+[y=494 fs=12px] A
+[y=465 fs=12px] MV 400TX
+[y=465 fs=12px] 03
+[y=465 fs=12px] A
+[y=435 fs=12px] MV 400TX
+[y=435 fs=12px] 04
+[y=435 fs=12px] A
+[y=405 fs=12px] MV 400TX
+[y=405 fs=12px] 05
+[y=405 fs=12px] A
+[y=375 fs=12px] MV 400TX
+[y=375 fs=12px] 06
+[y=375 fs=12px] A
+[y=345 fs=12px] MV 400TX
+[y=345 fs=12px] 01
+[y=345 fs=12px] A
+[y=315 fs=12px] MV 400TX
+[y=315 fs=12px] 02
+[y=315 fs=12px] A
+[y=286 fs=12px] MV 400TX
+[y=286 fs=12px] 03
+[y=286 fs=12px] A
+[y=256 fs=12px] MV 400TX
+[y=256 fs=12px] 04
+[y=256 fs=12px] A
+[y=226 fs=12px] MV 400TX
+[y=226 fs=12px] 05
+[y=226 fs=12px] A
+[y=196 fs=12px] MV 400TX
+[y=196 fs=12px] 06
+[y=196 fs=12px] A
+[y=609 fs=12px] MV 400TX · Int. studio — day
+[y=609 fs=12px] Scroll ↓
+[y=763 fs=12px] ROLL 07 — 8 projects
+[y=807 fs=52px] Every
+[y=807 fs=52px] frame
+[y=807 fs=52px] ,
+[y=856 fs=52px] in
+[y=856 fs=52px] order.
+[y=856 fs=16px] Filter by the kind of work, or switch to the list if you know what you’re looking for.
+[y=981 fs=12px] Show
+[y=969 fs=12px] All
+[y=978 fs=12px] 08
+[y=969 fs=12px] Brand
+[y=978 fs=12px] 04
+[y=969 fs=12px] Web
+[y=978 fs=12px] 01
+[y=969 fs=12px] Editorial
+[y=978 fs=12px] 01
+[y=969 fs=12px] Product
+[y=978 fs=12px] 02
+[y=972 fs=12px] Sheet
+[y=972 fs=12px] List
+[y=1072 fs=12px] Exposed
+[y=1072 fs=12px] 00
+[y=1072 fs=12px] /
+[y=1072 fs=12px] 08
+[y=1123 fs=12.5px] Light table · Roll 07
+[y=1151 fs=12px] 8 exposures · Mara Voss
+[y=1091 fs=12px] 01
+[y=1091 fs=12px] A ▸
+[y=1091 fs=12px] MV 400TX
+[y=1091 fs=12px] 1
+[y=1123 fs=12px] 01
+[y=1123 fs=12px] A
+[y=1633 fs=33.12px] Sole
+[y=1672 fs=12px] Sole Supply · 2026
+[y=1633 fs=12px] Role
+[y=1633 fs=13.5px] Art direction, web
+[y=1676 fs=12px] +64% launch-week sales
+[y=1723 fs=12px] 03
+[y=1723 fs=12px] A ▸
+[y=1723 fs=12px] MV 400TX
+[y=1723 fs=12px] 3
+[y=1755 fs=12px] 03
+[y=1755 fs=12px] A
+[y=2430 fs=33.12px] Nord
+[y=2470 fs=12px] Nord Coffee · 2025
+[y=2430 fs=12px] Role
+[y=2430 fs=13.5px] Identity, packaging, type
+[y=2473 fs=12px] Stocked in 40 cafés in year one
+[y=2520 fs=12px] 05
+[y=2520 fs=12px] A ▸
+[y=2520 fs=12px] MV 400TX
+[y=2520 fs=12px] 5
+[y=2552 fs=12px] 05
+[y=2552 fs=12px] A
+[y=3062 fs=33.12px] Chroma
+[y=3102 fs=12px] Studio Chroma · 2024
+[y=3062 fs=12px] Role
+[y=3062 fs=13.5px] Colour system
+[y=3105 fs=12px] One palette for screen and print
+[y=3152 fs=12px] 07
+[y=3152 fs=12px] A ▸
+[y=3152 fs=12px] MV 400TX
+[y=3152 fs=12px] 7
+[y=3184 fs=12px] 07
+[y=3184 fs=12px] A
+[y=3860 fs=33.12px] Loop
+[y=3899 fs=12px] Loop Bank · 2023
+[y=3860 fs=12px] Role
+[y=3860 fs=13.5px] Product design, prototyping
+[y=3903 fs=12px] 4.7★ on the App Store
+[y=4072 fs=12px] 07
+[y=4072 fs=12px] A ◂
+[y=4072 fs=12px] MV 400TX
+[y=1249 fs=12px] 02
+[y=1249 fs=12px] A ▸
+[y=1249 fs=12px] MV 400TX
+[y=1249 fs=12px] 2
+[y=1281 fs=12px] 02
+[y=1281 fs=12px] A
+[y=1861 fs=33.12px] Rouge
+[y=1901 fs=12px] Maison Rouge · 2025
+[y=1928 fs=12px] Role
+[y=1928 fs=13.5px] Packaging, 3D configurator
+[y=1971 fs=12px] 1 in 5 visitors used the configurator
+[y=2018 fs=12px] 04
+[y=2018 fs=12px] A ▸
+[y=2018 fs=12px] MV 400TX
+[y=2018 fs=12px] 4
+[y=2050 fs=12px] 04
+[y=2050 fs=12px] A
+[y=2517 fs=33.12px] Atlas
+[y=2557 fs=12px] Atlas Cloud · 2024
+[y=2584 fs=12px] Role
+[y=2584 fs=13.5px] Front-end lead
+[y=2627 fs=12px] Docs load 3× faster
+[y=2675 fs=12px] 06
+[y=2675 fs=12px] A ▸
+[y=2675 fs=12px] MV 400TX
+[y=2675 fs=12px] 6
+[y=2707 fs=12px] 06
+[y=2707 fs=12px] A
+[y=3287 fs=33.12px] Violet
+[y=3326 fs=12px] Violet Magazine · 2024
+[y=3354 fs=12px] Role
+[y=3354 fs=13.5px] Art direction, layout
+[y=3397 fs=12px] Issue 12 sold out
+[y=3444 fs=12px] 08
+[y=3444 fs=12px] A ▸
+[y=3444 fs=12px] MV 400TX
+[y=3444 fs=12px] 8
+[y=3476 fs=12px] 08
+[y=3476 fs=12px] A
+[y=3943 fs=33.12px] Pulse
+[y=3982 fs=12px] Pulse Analytics · 2020
+[y=4010 fs=12px] Role
+[y=4010 fs=13.5px] Design system, React
+[y=4053 fs=12px] 140 components, 1 source
+[y=4072 fs=12px] 08
+[y=4072 fs=12px] A ◂
+[y=4072 fs=12px] MV 400TX
+[y=4420 fs=12px] FRAME 07 — Kind words
+[y=4458 fs=62px] What clients say.
+[y=4458 fs=62px] What
+[y=4458 fs=62px] clients
+[y=4517 fs=62px] say.
+[y=4474 fs=16px] Cut out and kept. A few words from the people I’ve designed and shipped with.
+[y=4558 fs=12px] Clippings filed
+[y=4558 fs=12px] 05 / 05
+[y=4627 fs=12px] No.
+[y=4627 fs=12px] 01
+[y=4547 fs=12px] Loop Bank · Re: Loop
+[y=4594 fs=57.96px] “
+[y=4594 fs=25.2px] Mara designed it and then built half of it. We shipped two months early.
+[y=4816 fs=15px] Lena Hart
+[y=4841 fs=12px] CEO · Loop Bank
+[y=4506 fs=12px] No.
+[y=4506 fs=12px] 02
+[y=4550 fs=12px] Nord Coffee · Re: Nord
+[y=4553 fs=57.96px] “
+[y=4554 fs=25.2px] The brand looked like us from the first round. Customers ask who made our bags.
+[y=4746 fs=15px] Jonas Berg
+[y=4771 fs=12px] Founder · Nord Coffee
+[y=4635 fs=12px] No.
+[y=4635 fs=12px] 03
+[y=4563 fs=12px] Atlas Cloud · Re: Atlas
+[y=4610 fs=57.96px] “
+[y=4610 fs=25.2px] The rare designer who reads a pull request. Our docs finally feel fast.
+[y=4825 fs=15px] Amira Said
+[y=4851 fs=12px] CTO · Atlas Cloud
+[y=4865 fs=12px] No.
+[y=4865 fs=12px] 04
+[y=4918 fs=12px] Pulse Analytics · Re: Pulse
+[y=4912 fs=57.96px] “
+[y=4913 fs=25.2px] She gave us one system our designers and engineers both trust.
+[y=5075 fs=15px] Chris Owen
+[y=5101 fs=12px] Head of Product · Pulse Analytics
+[y=4970 fs=12px] No.
+[y=4970 fs=12px] 05
+[y=4863 fs=12px] Sole Supply · Re: Sole
+[y=4911 fs=57.96px] “
+[y=4911 fs=25.2px] Fast, calm and very, very good with detail.
+[y=5092 fs=15px] Sofia Marin
+[y=5117 fs=12px] Creative Director · Sole Supply
+[y=5621 fs=12px] FRAME 10 — Contact
+[y=5671 fs=106px] Have a project? Let’s shoot.
+[y=5671 fs=106px] Have
+[y=5671 fs=106px] a
+[y=5671 fs=106px] project?
+[y=5766 fs=106px] Let’s
+[y=5766 fs=106px] shoot.
+[y=5919 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=6021 fs=13px] Start a project
+[y=6020 fs=14px] hello@maravoss.design
+[y=6009 fs=12px] Copy
+[y=6051 fs=12px] Copied
+[y=5737 fs=60.48px] ON AIR
+[y=5848 fs=12px] Studio 1 · Rec
+[y=5920 fs=12px] Booking now for
+[y=5940 fs=24.48px] Available for work · Nov 2026
+[y=5991 fs=12px] Next start dates
+[y=6072 fs=12px] Start
+[y=6089 fs=12px] No.
+[y=6089 fs=12px] 01
+[y=6078 fs=28.8px] Nov 17
+[y=6082 fs=12px] Admit one project
+[y=6146 fs=12px] Start
+[y=6163 fs=12px] No.
+[y=6163 fs=12px] 02
+[y=6152 fs=28.8px] Dec 1
+[y=6156 fs=12px] Admit one project
+[y=6220 fs=12px] Start
+[y=6237 fs=12px] No.
+[y=6237 fs=12px] 03
+[y=6226 fs=28.8px] Jan 12
+[y=6230 fs=12px] Admit one project
+[y=6509 fs=12px] Prod.
+[y=6532 fs=26px] Portfolio 2026
+[y=6585 fs=12px] Scene
+[y=6608 fs=26px] Footer
+[y=6585 fs=12px] Take
+[y=6608 fs=26px] 2
+[y=6585 fs=12px] Roll
+[y=6608 fs=26px] A-09
+[y=6661 fs=12px] Director
+[y=6684 fs=26px] Mara Voss
+[y=6737 fs=12px] Date
+[y=6760 fs=26px] 26.11.26
+[y=6737 fs=12px] Build
+[y=6760 fs=12px] main · 9f3c1a
+[y=6511 fs=64px] That’s a
+[y=6496 fs=64px] wrap.
+[y=6590 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=6635 fs=12px] Write to me
+[y=6663 fs=40px] hello@maravoss.design →
+[y=6945 fs=12px] Work
+[y=6986 fs=18px] Sole
+[y=6991 fs=12px] Brand · Campaign
+[y=7033 fs=18px] Rouge
+[y=7038 fs=12px] Brand · Packaging
+[y=7080 fs=18px] Nord
+[y=7085 fs=12px] Brand · Identity
+[y=7127 fs=18px] Atlas
+[y=7132 fs=12px] Web · Front-end
+[y=7174 fs=18px] Chroma
+[y=7179 fs=12px] Brand · Colour system
+[y=6945 fs=12px] Pages
+[y=6986 fs=18px] About
+[y=6987 fs=17px] →
+[y=7033 fs=18px] Résumé
+[y=7034 fs=17px] →
+[y=7080 fs=18px] Lab
+[y=7081 fs=17px] →
+[y=7127 fs=18px] Writing
+[y=7128 fs=17px] →
+[y=7174 fs=18px] Contact
+[y=7175 fs=17px] →
+[y=6945 fs=12px] Elsewhere
+[y=6986 fs=18px] Dribbble
+[y=6987 fs=17px] ↗
+[y=7033 fs=18px] GitHub
+[y=7034 fs=17px] ↗
+[y=7080 fs=18px] LinkedIn
+[y=7081 fs=17px] ↗
+[y=7127 fs=18px] Read.cv
+[y=7128 fs=17px] ↗
+[y=7307 fs=12px] © 2026 Mara Voss
+[y=7308 fs=12px] Privacy
+[y=7308 fs=12px] Terms
+[y=7307 fs=12px] Local time
+[y=7307 fs=12px] 18:22
+[y=7307 fs=12px] · Berlin
+[y=7307 fs=12px] Back to top
+[y=7303 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

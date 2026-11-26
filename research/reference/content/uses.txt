@@ -1,0 +1,277 @@
+TITLE: Uses — the hardware, software and tools I work with | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/uses
+HEIGHT: 4136
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=175 fs=12px] FRAME 05 — Uses
+[y=220 fs=89px] The kit on my desk.
+[y=220 fs=89px] The
+[y=220 fs=89px] kit
+[y=220 fs=89px] on
+[y=303 fs=89px] my
+[y=303 fs=89px] desk.
+[y=410 fs=18px] Hardware, design apps, the code stack and the desk. Updated when something earns its place.
+[y=513 fs=13px] Start a project
+[y=513 fs=13px] Download résumé
+[y=318 fs=12px] Prod.
+[y=338 fs=25.92px] Portfolio 2026
+[y=407 fs=12px] Scene
+[y=427 fs=33.12px] Work
+[y=400 fs=12px] Take
+[y=416 fs=33.12px] 03
+[y=392 fs=12px] Roll
+[y=412 fs=33.12px] A-01
+[y=485 fs=12px] Director
+[y=505 fs=25.92px] Mara Voss
+[y=474 fs=12px] Date
+[y=494 fs=25.92px] 26.11.26
+[y=609 fs=12px] MV 400TX · Int. studio — day
+[y=609 fs=12px] Scroll ↓
+[y=784 fs=12px] FRAME 01 — The kit list
+[y=822 fs=62px] Everything on the desk.
+[y=822 fs=62px] Everything
+[y=822 fs=62px] on
+[y=881 fs=62px] the
+[y=881 fs=62px] desk.
+[y=842 fs=17px] The hardware, apps and small things I use every day to design and build products. No sponsors — just what earned its place.
+[y=926 fs=12px] 04
+[y=926 fs=12px] Hardware
+[y=926 fs=12px] 04
+[y=926 fs=12px] Design
+[y=926 fs=12px] 05
+[y=926 fs=12px] Code
+[y=926 fs=12px] 03
+[y=926 fs=12px] Desk
+[y=926 fs=12px] Updated Sep 2026
+[y=1001 fs=12px] 1
+[y=1001 fs=12px] 2
+[y=1001 fs=12px] 3
+[y=1001 fs=12px] 4
+[y=1001 fs=12px] 5
+[y=1001 fs=12px] 6
+[y=1001 fs=12px] 7
+[y=1001 fs=12px] 8
+[y=1001 fs=12px] 9
+[y=1001 fs=12px] 10
+[y=1001 fs=12px] 11
+[y=1001 fs=12px] 12
+[y=1001 fs=12px] 13
+[y=1001 fs=12px] 14
+[y=1001 fs=12px] 15
+[y=1001 fs=12px] 16
+[y=1001 fs=12px] 17
+[y=1001 fs=12px] 18
+[y=1001 fs=12px] 19
+[y=1001 fs=12px] 20
+[y=1001 fs=12px] 21
+[y=1001 fs=12px] 22
+[y=1001 fs=12px] 23
+[y=1001 fs=12px] 24
+[y=1042 fs=12px] 1
+[y=1095 fs=12px] 2
+[y=1149 fs=12px] 3
+[y=1202 fs=12px] 4
+[y=1255 fs=12px] 5
+[y=1308 fs=12px] 6
+[y=1361 fs=12px] 7
+[y=1414 fs=12px] 8
+[y=1467 fs=12px] 9
+[y=1520 fs=12px] 10
+[y=1574 fs=12px] 11
+[y=1627 fs=12px] 12
+[y=1680 fs=12px] 13
+[y=1733 fs=12px] 14
+[y=1786 fs=12px] 15
+[y=1839 fs=12px] 16
+[y=1892 fs=12px] 17
+[y=1945 fs=12px] 18
+[y=1998 fs=12px] 19
+[y=2079 fs=12px] MV · A2 · Self-healing · 1 square = 1 cm
+[y=1058 fs=12px] Hardware
+[y=1064 fs=12px] 04
+[y=1069 fs=12px] 01
+[y=1069 fs=12px] .
+[y=1069 fs=12px] 01
+[y=1130 fs=18px] MacBook Pro 14 M4
+[y=1160 fs=13.5px] Figma, Blender and a dev server at once — the fans stay quiet.
+[y=1381 fs=12px] 01
+[y=1381 fs=12px] .
+[y=1381 fs=12px] 02
+[y=1357 fs=18px] Studio Display
+[y=1384 fs=13.5px] 5K for pixel checks, and the colour matches the phones I test on.
+[y=1367 fs=12px] 01
+[y=1367 fs=12px] .
+[y=1367 fs=12px] 03
+[y=1425 fs=18px] Keychron Q1
+[y=1453 fs=13.5px] Heavy, quiet and remapped for Figma shortcuts.
+[y=1511 fs=12px] 01
+[y=1511 fs=12px] .
+[y=1511 fs=12px] 04
+[y=1490 fs=18px] MX Master 3S
+[y=1517 fs=13.5px] The side wheel scrubs timelines in Rive and Framer.
+[y=1058 fs=12px] Design
+[y=1064 fs=12px] 04
+[y=1338 fs=12px] 02
+[y=1338 fs=12px] .
+[y=1338 fs=12px] 01
+[y=1320 fs=18px] Figma
+[y=1347 fs=13.5px] Flows, UI and the design system's source of truth.
+[y=1006 fs=12px] 02
+[y=1006 fs=12px] .
+[y=1006 fs=12px] 02
+[y=1067 fs=18px] Framer
+[y=1098 fs=13.5px] Marketing sites that clients can edit on their own.
+[y=1414 fs=12px] 02
+[y=1414 fs=12px] .
+[y=1414 fs=12px] 03
+[y=1409 fs=18px] Rive
+[y=1438 fs=13.5px] Interactive motion that ships as a tiny runtime.
+[y=1456 fs=12px] 02
+[y=1456 fs=12px] .
+[y=1456 fs=12px] 04
+[y=1512 fs=18px] Blender
+[y=1539 fs=13.5px] 3D product shots and hero renders.
+[y=1483 fs=12px] Code
+[y=1489 fs=12px] 05
+[y=1487 fs=12px] 03
+[y=1487 fs=12px] .
+[y=1487 fs=12px] 01
+[y=1547 fs=18px] VS Code
+[y=1578 fs=13.5px] Prettier, ESLint and one calm theme.
+[y=1734 fs=12px] 03
+[y=1734 fs=12px] .
+[y=1734 fs=12px] 02
+[y=1720 fs=18px] React
+[y=1748 fs=13.5px] Every product UI I build ends up here.
+[y=1628 fs=12px] 03
+[y=1628 fs=12px] .
+[y=1628 fs=12px] 03
+[y=1689 fs=18px] Next.js
+[y=1719 fs=13.5px] App router and server components — fast by default.
+[y=1957 fs=12px] 03
+[y=1957 fs=12px] .
+[y=1957 fs=12px] 04
+[y=1932 fs=18px] Tailwind
+[y=1959 fs=13.5px] Tokens from Figma, straight into utility classes.
+[y=1796 fs=12px] 03
+[y=1796 fs=12px] .
+[y=1796 fs=12px] 05
+[y=1857 fs=18px] Vercel
+[y=1887 fs=13.5px] A preview link on every pull request for client review.
+[y=1483 fs=12px] Desk
+[y=1489 fs=12px] 03
+[y=1571 fs=12px] 04
+[y=1571 fs=12px] .
+[y=1571 fs=12px] 01
+[y=1584 fs=18px] Herman Miller Aeron
+[y=1614 fs=13.5px] Bought used in 2019. Best money I've spent.
+[y=1602 fs=12px] 04
+[y=1602 fs=12px] .
+[y=1602 fs=12px] 02
+[y=1660 fs=18px] Anglepoise lamp
+[y=1689 fs=13.5px] Warm light for sketching after dark.
+[y=1763 fs=12px] 04
+[y=1763 fs=12px] .
+[y=1763 fs=12px] 03
+[y=1769 fs=18px] Leuchtturm notebook
+[y=1799 fs=13.5px] Dot grid. Every project starts on paper.
+[y=2082 fs=12px] Measured
+[y=2082 fs=12px] 0.0
+[y=2082 fs=12px] cm
+[y=2393 fs=12px] FRAME 10 — Contact
+[y=2442 fs=106px] Have a project? Let’s shoot.
+[y=2442 fs=106px] Have
+[y=2442 fs=106px] a
+[y=2442 fs=106px] project?
+[y=2538 fs=106px] Let’s
+[y=2538 fs=106px] shoot.
+[y=2691 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=2792 fs=13px] Start a project
+[y=2791 fs=14px] hello@maravoss.design
+[y=2781 fs=12px] Copy
+[y=2823 fs=12px] Copied
+[y=2508 fs=60.48px] ON AIR
+[y=2620 fs=12px] Studio 1 · Rec
+[y=2692 fs=12px] Booking now for
+[y=2712 fs=24.48px] Available for work · Nov 2026
+[y=2762 fs=12px] Next start dates
+[y=2844 fs=12px] Start
+[y=2861 fs=12px] No.
+[y=2861 fs=12px] 01
+[y=2849 fs=28.8px] Nov 17
+[y=2854 fs=12px] Admit one project
+[y=2918 fs=12px] Start
+[y=2935 fs=12px] No.
+[y=2935 fs=12px] 02
+[y=2923 fs=28.8px] Dec 1
+[y=2927 fs=12px] Admit one project
+[y=2992 fs=12px] Start
+[y=3009 fs=12px] No.
+[y=3009 fs=12px] 03
+[y=2997 fs=28.8px] Jan 12
+[y=3002 fs=12px] Admit one project
+[y=3280 fs=12px] Prod.
+[y=3304 fs=26px] Portfolio 2026
+[y=3356 fs=12px] Scene
+[y=3380 fs=26px] Footer
+[y=3356 fs=12px] Take
+[y=3380 fs=26px] 35
+[y=3356 fs=12px] Roll
+[y=3380 fs=26px] A-09
+[y=3432 fs=12px] Director
+[y=3456 fs=26px] Mara Voss
+[y=3508 fs=12px] Date
+[y=3532 fs=26px] 26.11.26
+[y=3508 fs=12px] Build
+[y=3532 fs=12px] main · 9f3c1a
+[y=3282 fs=64px] That’s a
+[y=3267 fs=64px] wrap.
+[y=3361 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=3406 fs=12px] Write to me
+[y=3435 fs=40px] hello@maravoss.design →
+[y=3716 fs=12px] Work
+[y=3758 fs=18px] Sole
+[y=3763 fs=12px] Brand · Campaign
+[y=3805 fs=18px] Rouge
+[y=3810 fs=12px] Brand · Packaging
+[y=3852 fs=18px] Nord
+[y=3857 fs=12px] Brand · Identity
+[y=3899 fs=18px] Atlas
+[y=3904 fs=12px] Web · Front-end
+[y=3946 fs=18px] Chroma
+[y=3951 fs=12px] Brand · Colour system
+[y=3716 fs=12px] Pages
+[y=3758 fs=18px] About
+[y=3759 fs=17px] →
+[y=3805 fs=18px] Résumé
+[y=3806 fs=17px] →
+[y=3852 fs=18px] Lab
+[y=3853 fs=17px] →
+[y=3899 fs=18px] Writing
+[y=3900 fs=17px] →
+[y=3946 fs=18px] Contact
+[y=3947 fs=17px] →
+[y=3716 fs=12px] Elsewhere
+[y=3758 fs=18px] Dribbble
+[y=3759 fs=17px] ↗
+[y=3805 fs=18px] GitHub
+[y=3806 fs=17px] ↗
+[y=3852 fs=18px] LinkedIn
+[y=3853 fs=17px] ↗
+[y=3899 fs=18px] Read.cv
+[y=3900 fs=17px] ↗
+[y=4079 fs=12px] © 2026 Mara Voss
+[y=4080 fs=12px] Privacy
+[y=4080 fs=12px] Terms
+[y=4079 fs=12px] Local time
+[y=4079 fs=12px] 18:28
+[y=4079 fs=12px] · Berlin
+[y=4079 fs=12px] Back to top
+[y=4075 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

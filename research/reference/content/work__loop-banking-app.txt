@@ -1,0 +1,208 @@
+TITLE: Loop — case study | Mara Voss, product designer & developer
+URL: https://diligent-tetragon-837366.framer.app/work/loop-banking-app
+HEIGHT: 6427
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=145 fs=12px] ← All work
+[y=144 fs=12px] Shipped
+[y=144 fs=12px] 2023
+[y=337 fs=12px] Product · Mobile app
+[y=376 fs=101px] Loop
+[y=216 fs=12px] Call sheet
+[y=225 fs=12px] Prod.
+[y=251 fs=12px] Production
+[y=254 fs=12px] Loop
+[y=282 fs=12px] Client
+[y=286 fs=12px] Loop Bank
+[y=313 fs=12px] Category
+[y=317 fs=12px] Product · Mobile app
+[y=345 fs=12px] Year
+[y=348 fs=12px] 2023
+[y=376 fs=12px] Role
+[y=380 fs=12px] Product design, prototyping
+[y=425 fs=12px] Team
+[y=429 fs=12px] 6 people
+[y=1227 fs=12px] The short version
+[y=1256 fs=40px] A banking app that turns spending into a weekly story.
+[y=1227 fs=12px] Outcome
+[y=1256 fs=62px] 4.7★ on the App Store
+[y=1486 fs=12px] SC 01
+[y=1516 fs=52px] The
+[y=1503 fs=52px] brief
+[y=1486 fs=17px] Loop Bank had a licence, a backend and a beta app that people opened once. Signing up took eleven screens and most people stopped at the ID check.
+[y=1562 fs=17px] I led product design for the app from private beta to public launch, and built the prototype the team tested every week.
+[y=1732 fs=12px] SC 02
+[y=1762 fs=52px] What I
+[y=1749 fs=52px] did
+[y=1751 fs=17px] Mapped every step of sign-up and cut it from eleven screens to five
+[y=1817 fs=17px] Rebuilt the ID check so it explains what happens and why, in plain words
+[y=1884 fs=17px] Designed the home screen around the one number people actually check
+[y=1950 fs=17px] Prototyped in code so we could test real flows with real people every week
+[y=2016 fs=17px] Led a team of four designers and ran a weekly critique with engineering
+[y=2177 fs=12px] SC 03
+[y=2207 fs=52px] Design →
+[y=2194 fs=52px] code
+[y=2177 fs=17px] Same hands on both sides. The frame on the left is the design file, the panel on the right is what shipped — type, spacing and colour come straight across.
+[y=2268 fs=12px] Hero / Desktop
+[y=2291 fs=16px] // Loop — onboarding step
+[y=2315 fs=16px] export
+[y=2315 fs=16px] function
+[y=2315 fs=16px] IdCheck
+[y=2315 fs=16px] (
+[y=2315 fs=16px] {
+[y=2315 fs=16px] next
+[y=2315 fs=16px] }
+[y=2315 fs=16px] )
+[y=2315 fs=16px] {
+[y=2339 fs=16px] const
+[y=2339 fs=16px] scan
+[y=2337 fs=16px] =
+[y=2339 fs=16px] useDocumentScan
+[y=2339 fs=16px] (
+[y=2339 fs=16px] )
+[y=2363 fs=16px] return
+[y=2363 fs=16px] scan
+[y=2361 fs=16px] .
+[y=2363 fs=16px] done
+[y=2385 fs=16px] ?
+[y=2387 fs=16px] <
+[y=2387 fs=16px] Success
+[y=2387 fs=16px] onContinue
+[y=2385 fs=16px] =
+[y=2387 fs=16px] {
+[y=2387 fs=16px] next
+[y=2387 fs=16px] }
+[y=2387 fs=16px] />
+[y=2409 fs=16px] :
+[y=2411 fs=16px] <
+[y=2411 fs=16px] Camera
+[y=2411 fs=16px] hint
+[y=2409 fs=16px] =
+[y=2411 fs=16px] "Hold your ID inside the frame"
+[y=2411 fs=16px] onScan
+[y=2409 fs=16px] =
+[y=2411 fs=16px] {
+[y=2411 fs=16px] scan
+[y=2409 fs=16px] .
+[y=2411 fs=16px] start
+[y=2411 fs=16px] }
+[y=2411 fs=16px] />
+[y=2435 fs=16px] }
+[y=2664 fs=12px] SC 04
+[y=2693 fs=52px] The
+[y=2680 fs=52px] result
+[y=2664 fs=17px] Sign-up completion went from 31% to 68%, the app reached 1.2 million users and holds a 4.7 rating on the App Store.
+[y=2759 fs=62px] 4.7★
+[y=2823 fs=12px] App Store rating
+[y=2759 fs=62px] 1.2M
+[y=2823 fs=12px] Users after launch
+[y=2759 fs=62px] +37 pts
+[y=2823 fs=12px] Sign-up completion
+[y=2953 fs=52px] More
+[y=2940 fs=52px] frames
+[y=3514 fs=12px] The client
+[y=3539 fs=40px] Mara designed it and then built half of it. We shipped two months early.
+[y=3695 fs=22px] Lena Hart
+[y=3724 fs=12px] CEO · Loop Bank
+[y=4094 fs=12px] Next project
+[y=4127 fs=101px] Pulse
+[y=4234 fs=12px] Product · Design system
+[y=4268 fs=18px] A dashboard and 140-component design system in Figma and React.
+[y=4338 fs=12px] Open case →
+[y=4683 fs=12px] FRAME 10 — Contact
+[y=4733 fs=106px] Have a project? Let’s shoot.
+[y=4733 fs=106px] Have
+[y=4733 fs=106px] a
+[y=4733 fs=106px] project?
+[y=4828 fs=106px] Let’s
+[y=4828 fs=106px] shoot.
+[y=4982 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=5083 fs=13px] Start a project
+[y=5082 fs=14px] hello@maravoss.design
+[y=5072 fs=12px] Copy
+[y=5113 fs=12px] Copied
+[y=4799 fs=60.48px] ON AIR
+[y=4911 fs=12px] Studio 1 · Rec
+[y=4982 fs=12px] Booking now for
+[y=5002 fs=24.48px] Available for work · Nov 2026
+[y=5053 fs=12px] Next start dates
+[y=5134 fs=12px] Start
+[y=5151 fs=12px] No.
+[y=5151 fs=12px] 01
+[y=5140 fs=28.8px] Nov 17
+[y=5145 fs=12px] Admit one project
+[y=5208 fs=12px] Start
+[y=5225 fs=12px] No.
+[y=5225 fs=12px] 02
+[y=5214 fs=28.8px] Dec 1
+[y=5218 fs=12px] Admit one project
+[y=5282 fs=12px] Start
+[y=5299 fs=12px] No.
+[y=5299 fs=12px] 03
+[y=5288 fs=28.8px] Jan 12
+[y=5292 fs=12px] Admit one project
+[y=5571 fs=12px] Prod.
+[y=5594 fs=26px] Portfolio 2026
+[y=5647 fs=12px] Scene
+[y=5670 fs=26px] Footer
+[y=5647 fs=12px] Take
+[y=5670 fs=26px] 15
+[y=5647 fs=12px] Roll
+[y=5670 fs=26px] A-09
+[y=5723 fs=12px] Director
+[y=5746 fs=26px] Mara Voss
+[y=5799 fs=12px] Date
+[y=5822 fs=26px] 26.11.26
+[y=5799 fs=12px] Build
+[y=5822 fs=12px] main · 9f3c1a
+[y=5573 fs=64px] That’s a
+[y=5558 fs=64px] wrap.
+[y=5652 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=5697 fs=12px] Write to me
+[y=5725 fs=40px] hello@maravoss.design →
+[y=6007 fs=12px] Work
+[y=6048 fs=18px] Sole
+[y=6053 fs=12px] Brand · Campaign
+[y=6095 fs=18px] Rouge
+[y=6100 fs=12px] Brand · Packaging
+[y=6142 fs=18px] Nord
+[y=6147 fs=12px] Brand · Identity
+[y=6189 fs=18px] Atlas
+[y=6194 fs=12px] Web · Front-end
+[y=6236 fs=18px] Chroma
+[y=6241 fs=12px] Brand · Colour system
+[y=6007 fs=12px] Pages
+[y=6048 fs=18px] About
+[y=6049 fs=17px] →
+[y=6095 fs=18px] Résumé
+[y=6096 fs=17px] →
+[y=6142 fs=18px] Lab
+[y=6143 fs=17px] →
+[y=6189 fs=18px] Writing
+[y=6190 fs=17px] →
+[y=6236 fs=18px] Contact
+[y=6237 fs=17px] →
+[y=6007 fs=12px] Elsewhere
+[y=6048 fs=18px] Dribbble
+[y=6049 fs=17px] ↗
+[y=6095 fs=18px] GitHub
+[y=6096 fs=17px] ↗
+[y=6142 fs=18px] LinkedIn
+[y=6143 fs=17px] ↗
+[y=6189 fs=18px] Read.cv
+[y=6190 fs=17px] ↗
+[y=6370 fs=12px] © 2026 Mara Voss
+[y=6371 fs=12px] Privacy
+[y=6371 fs=12px] Terms
+[y=6370 fs=12px] Local time
+[y=6370 fs=12px] 18:24
+[y=6370 fs=12px] · Berlin
+[y=6370 fs=12px] Back to top
+[y=6365 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

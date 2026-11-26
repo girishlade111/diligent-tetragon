@@ -1,0 +1,127 @@
+TITLE: Terms of use | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/terms
+HEIGHT: 4479
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=142 fs=12px] The small print
+[y=187 fs=92px] Terms
+[y=187 fs=92px] of
+[y=187 fs=92px] use
+[y=296 fs=12px] Last updated 30 September 2026
+[y=450 fs=12px] Contents
+[y=450 fs=12px] Read
+[y=450 fs=12px] 0
+[y=450 fs=12px] %
+[y=488 fs=12px] 01
+[y=484 fs=14.5px] About these terms
+[y=524 fs=12px] 02
+[y=520 fs=14.5px] Project work
+[y=560 fs=12px] 03
+[y=556 fs=14.5px] Enquiries and availability
+[y=595 fs=12px] 04
+[y=591 fs=14.5px] Portfolio work
+[y=631 fs=12px] 05
+[y=627 fs=14.5px] Using this site
+[y=666 fs=12px] 06
+[y=662 fs=14.5px] Intellectual property
+[y=702 fs=12px] 07
+[y=698 fs=14.5px] Links to other sites
+[y=737 fs=12px] 08
+[y=733 fs=14.5px] Liability
+[y=773 fs=12px] 09
+[y=769 fs=14.5px] Changes
+[y=809 fs=12px] 10
+[y=805 fs=14.5px] Governing law
+[y=450 fs=32px] About these terms
+[y=526 fs=17px] These terms apply to your use of this website, the online portfolio of Mara Voss, an independent product designer and developer based in Berlin. By browsing the site you agree to them. If you do not agree, please do not use the site.
+[y=690 fs=32px] Project work
+[y=765 fs=17px] Nothing on this website is an offer to enter into a contract. Every design or development project is agreed in a separate written proposal and contract that sets out the scope, timeline, price, payment terms, intellectual property and confidentiality. If those documents and these terms ever disagree, the project contract wins.
+[y=959 fs=32px] Enquiries and availability
+[y=1034 fs=17px] Sending a message through the contact form does not create any obligation for either of us. Availability, start dates and prices mentioned on the site are a guide only and are confirmed in writing in each proposal.
+[y=1199 fs=32px] Portfolio work
+[y=1274 fs=17px] The projects shown here are real work, published with the permission of the clients involved. Some details, names and numbers have been changed or left out to protect confidential information. Client names, logos and trademarks belong to their owners and appear only to describe the work; showing them does not mean the client endorses this site. Results and figures describe past projects and are not a promise of future results.
+[y=1497 fs=32px] Using this site
+[y=1572 fs=17px] You are welcome to browse, share links and quote short passages with credit. Please do not:
+[y=1618 fs=17px] copy, republish or sell the designs, case studies, images or text as your own;
+[y=1658 fs=17px] use the site in a way that could damage it or interrupt its availability;
+[y=1697 fs=17px] try to reach parts of the site or its systems that are not meant to be public;
+[y=1736 fs=17px] use automated tools to scrape its content in bulk.
+[y=1862 fs=32px] Intellectual property
+[y=1938 fs=17px] Unless stated otherwise, the text, design, code, graphics and photographs on this website belong to Mara Voss or are used under licence. Articles and lab experiments may carry their own licence, noted on the page, and short code snippets in articles may be used freely in your own projects. Client work shown here remains subject to the rights agreed with each client.
+[y=2131 fs=32px] Links to other sites
+[y=2207 fs=17px] The site links to other websites, such as social profiles, client products and tools. I am not responsible for their content or their privacy practices, and a link is not an endorsement.
+[y=2342 fs=32px] Liability
+[y=2417 fs=17px] I take care to keep this website accurate and available, but it is provided as it is, without a guarantee that it is always complete, current or free of errors. As far as the law allows, I am not liable for any loss that comes from using the site or relying on its content. Nothing in these terms limits liability that cannot be limited by law, such as for intent or gross negligence.
+[y=2611 fs=32px] Changes
+[y=2686 fs=17px] I may update these terms from time to time. The date at the top shows the latest version, and using the site after a change means you accept the updated terms.
+[y=2821 fs=32px] Governing law
+[y=2896 fs=17px] These terms are governed by the laws of Germany. The courts of Berlin have jurisdiction, as far as the law allows.
+[y=3063 fs=12px] Questions?
+[y=3096 fs=40px] Write to me and I’ll answer within a day, in plain words.
+[y=3200 fs=19px] hello@maravoss.design →
+[y=3264 fs=13px] Email me
+[y=3623 fs=12px] Prod.
+[y=3646 fs=26px] Portfolio 2026
+[y=3699 fs=12px] Scene
+[y=3722 fs=26px] Footer
+[y=3699 fs=12px] Take
+[y=3722 fs=26px] 34
+[y=3699 fs=12px] Roll
+[y=3722 fs=26px] A-09
+[y=3775 fs=12px] Director
+[y=3798 fs=26px] Mara Voss
+[y=3851 fs=12px] Date
+[y=3874 fs=26px] 26.11.26
+[y=3851 fs=12px] Build
+[y=3874 fs=12px] main · 9f3c1a
+[y=3625 fs=64px] That’s a
+[y=3610 fs=64px] wrap.
+[y=3704 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=3749 fs=12px] Write to me
+[y=3777 fs=40px] hello@maravoss.design →
+[y=4059 fs=12px] Work
+[y=4100 fs=18px] Sole
+[y=4105 fs=12px] Brand · Campaign
+[y=4147 fs=18px] Rouge
+[y=4152 fs=12px] Brand · Packaging
+[y=4194 fs=18px] Nord
+[y=4199 fs=12px] Brand · Identity
+[y=4241 fs=18px] Atlas
+[y=4246 fs=12px] Web · Front-end
+[y=4288 fs=18px] Chroma
+[y=4293 fs=12px] Brand · Colour system
+[y=4059 fs=12px] Pages
+[y=4100 fs=18px] About
+[y=4101 fs=17px] →
+[y=4147 fs=18px] Résumé
+[y=4148 fs=17px] →
+[y=4194 fs=18px] Lab
+[y=4195 fs=17px] →
+[y=4241 fs=18px] Writing
+[y=4242 fs=17px] →
+[y=4288 fs=18px] Contact
+[y=4289 fs=17px] →
+[y=4059 fs=12px] Elsewhere
+[y=4100 fs=18px] Dribbble
+[y=4101 fs=17px] ↗
+[y=4147 fs=18px] GitHub
+[y=4148 fs=17px] ↗
+[y=4194 fs=18px] LinkedIn
+[y=4195 fs=17px] ↗
+[y=4241 fs=18px] Read.cv
+[y=4242 fs=17px] ↗
+[y=4421 fs=12px] © 2026 Mara Voss
+[y=4422 fs=12px] Privacy
+[y=4422 fs=12px] Terms
+[y=4421 fs=12px] Local time
+[y=4421 fs=12px] 18:27
+[y=4421 fs=12px] · Berlin
+[y=4421 fs=12px] Back to top
+[y=4417 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

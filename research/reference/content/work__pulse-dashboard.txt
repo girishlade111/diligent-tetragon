@@ -1,0 +1,216 @@
+TITLE: Pulse — case study | Mara Voss, product designer & developer
+URL: https://diligent-tetragon-837366.framer.app/work/pulse-dashboard
+HEIGHT: 6468
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=145 fs=12px] ← All work
+[y=144 fs=12px] Shipped
+[y=144 fs=12px] 2020
+[y=320 fs=12px] Product · Design system
+[y=358 fs=101px] Pulse
+[y=216 fs=12px] Call sheet
+[y=225 fs=12px] Prod.
+[y=251 fs=12px] Production
+[y=254 fs=12px] Pulse
+[y=282 fs=12px] Client
+[y=286 fs=12px] Pulse Analytics
+[y=313 fs=12px] Category
+[y=317 fs=12px] Product · Design system
+[y=345 fs=12px] Year
+[y=348 fs=12px] 2020
+[y=376 fs=12px] Role
+[y=380 fs=12px] Design system, React
+[y=407 fs=12px] Team
+[y=411 fs=12px] 4 people
+[y=1210 fs=12px] The short version
+[y=1239 fs=40px] A dashboard and 140-component design system in Figma and React.
+[y=1210 fs=12px] Outcome
+[y=1239 fs=62px] 140 components, 1 source
+[y=1528 fs=12px] SC 01
+[y=1557 fs=52px] The
+[y=1544 fs=52px] brief
+[y=1528 fs=17px] Pulse Analytics had three product teams and three versions of every button. Each new feature looked slightly different from the last.
+[y=1603 fs=17px] They needed one design system that designers and engineers would both use, not a library that sits in a drawer.
+[y=1774 fs=12px] SC 02
+[y=1803 fs=52px] What I
+[y=1790 fs=52px] did
+[y=1793 fs=17px] Printed every component in the product to see the real mess
+[y=1859 fs=17px] Defined tokens for colour, type and spacing before drawing any component
+[y=1925 fs=17px] Built 140 React components with Storybook docs and visual tests
+[y=1991 fs=17px] Ran office hours every Tuesday so teams could ask instead of fork
+[y=2058 fs=17px] Redesigned the main dashboard as the first product built only from the system
+[y=2219 fs=12px] SC 03
+[y=2248 fs=52px] Design →
+[y=2235 fs=52px] code
+[y=2219 fs=17px] Same hands on both sides. The frame on the left is the design file, the panel on the right is what shipped — type, spacing and colour come straight across.
+[y=2309 fs=12px] Hero / Desktop
+[y=2332 fs=16px] // Pulse — chart card
+[y=2356 fs=16px] export
+[y=2356 fs=16px] function
+[y=2356 fs=16px] MetricCard
+[y=2356 fs=16px] (
+[y=2356 fs=16px] {
+[y=2356 fs=16px] label
+[y=2356 fs=16px] ,
+[y=2356 fs=16px] value
+[y=2356 fs=16px] ,
+[y=2356 fs=16px] trend
+[y=2356 fs=16px] }
+[y=2356 fs=16px] )
+[y=2356 fs=16px] {
+[y=2380 fs=16px] return
+[y=2380 fs=16px] (
+[y=2404 fs=16px] <
+[y=2404 fs=16px] Card
+[y=2404 fs=16px] padding
+[y=2402 fs=16px] =
+[y=2404 fs=16px] "md"
+[y=2404 fs=16px] >
+[y=2428 fs=16px] <
+[y=2428 fs=16px] Text
+[y=2428 fs=16px] tone
+[y=2426 fs=16px] =
+[y=2428 fs=16px] "muted"
+[y=2428 fs=16px] >
+[y=2428 fs=16px] {
+[y=2428 fs=16px] label
+[y=2428 fs=16px] }
+[y=2428 fs=16px] </
+[y=2428 fs=16px] Text
+[y=2428 fs=16px] >
+[y=2452 fs=16px] <
+[y=2452 fs=16px] Stat
+[y=2452 fs=16px] value
+[y=2450 fs=16px] =
+[y=2452 fs=16px] {
+[y=2452 fs=16px] value
+[y=2452 fs=16px] }
+[y=2452 fs=16px] trend
+[y=2450 fs=16px] =
+[y=2452 fs=16px] {
+[y=2452 fs=16px] trend
+[y=2452 fs=16px] }
+[y=2452 fs=16px] />
+[y=2476 fs=16px] </
+[y=2476 fs=16px] Card
+[y=2476 fs=16px] >
+[y=2500 fs=16px] )
+[y=2524 fs=16px] }
+[y=2706 fs=12px] SC 04
+[y=2735 fs=52px] The
+[y=2722 fs=52px] result
+[y=2706 fs=17px] All three teams build from the same 140 components, and the redesigned dashboard is used by 3,000 companies every day.
+[y=2800 fs=62px] 140
+[y=2865 fs=12px] Components, one source
+[y=2800 fs=62px] 3
+[y=2865 fs=12px] Teams on one system
+[y=2800 fs=62px] 3,000
+[y=2865 fs=12px] Companies on the dashboard
+[y=2994 fs=52px] More
+[y=2981 fs=52px] frames
+[y=3555 fs=12px] The client
+[y=3580 fs=40px] She gave us one system our designers and engineers both trust.
+[y=3736 fs=22px] Chris Owen
+[y=3763 fs=12px] Head of Product · Pulse Analytics
+[y=4135 fs=12px] Next project
+[y=4169 fs=101px] Sole
+[y=4276 fs=12px] Brand · Campaign
+[y=4309 fs=18px] Launch campaign and product pages for a sneaker drop.
+[y=4379 fs=12px] Open case →
+[y=4725 fs=12px] FRAME 10 — Contact
+[y=4774 fs=106px] Have a project? Let’s shoot.
+[y=4774 fs=106px] Have
+[y=4774 fs=106px] a
+[y=4774 fs=106px] project?
+[y=4870 fs=106px] Let’s
+[y=4870 fs=106px] shoot.
+[y=5023 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=5124 fs=13px] Start a project
+[y=5124 fs=14px] hello@maravoss.design
+[y=5113 fs=12px] Copy
+[y=5155 fs=12px] Copied
+[y=4840 fs=60.48px] ON AIR
+[y=4952 fs=12px] Studio 1 · Rec
+[y=5024 fs=12px] Booking now for
+[y=5044 fs=24.48px] Available for work · Nov 2026
+[y=5095 fs=12px] Next start dates
+[y=5176 fs=12px] Start
+[y=5193 fs=12px] No.
+[y=5193 fs=12px] 01
+[y=5181 fs=28.8px] Nov 17
+[y=5186 fs=12px] Admit one project
+[y=5250 fs=12px] Start
+[y=5267 fs=12px] No.
+[y=5267 fs=12px] 02
+[y=5255 fs=28.8px] Dec 1
+[y=5259 fs=12px] Admit one project
+[y=5324 fs=12px] Start
+[y=5341 fs=12px] No.
+[y=5341 fs=12px] 03
+[y=5329 fs=28.8px] Jan 12
+[y=5334 fs=12px] Admit one project
+[y=5613 fs=12px] Prod.
+[y=5636 fs=26px] Portfolio 2026
+[y=5689 fs=12px] Scene
+[y=5712 fs=26px] Footer
+[y=5689 fs=12px] Take
+[y=5712 fs=26px] 16
+[y=5689 fs=12px] Roll
+[y=5712 fs=26px] A-09
+[y=5765 fs=12px] Director
+[y=5788 fs=26px] Mara Voss
+[y=5841 fs=12px] Date
+[y=5864 fs=26px] 26.11.26
+[y=5841 fs=12px] Build
+[y=5864 fs=12px] main · 9f3c1a
+[y=5615 fs=64px] That’s a
+[y=5600 fs=64px] wrap.
+[y=5693 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=5738 fs=12px] Write to me
+[y=5767 fs=40px] hello@maravoss.design →
+[y=6049 fs=12px] Work
+[y=6090 fs=18px] Sole
+[y=6095 fs=12px] Brand · Campaign
+[y=6137 fs=18px] Rouge
+[y=6142 fs=12px] Brand · Packaging
+[y=6184 fs=18px] Nord
+[y=6189 fs=12px] Brand · Identity
+[y=6231 fs=18px] Atlas
+[y=6236 fs=12px] Web · Front-end
+[y=6278 fs=18px] Chroma
+[y=6283 fs=12px] Brand · Colour system
+[y=6049 fs=12px] Pages
+[y=6090 fs=18px] About
+[y=6091 fs=17px] →
+[y=6137 fs=18px] Résumé
+[y=6138 fs=17px] →
+[y=6184 fs=18px] Lab
+[y=6185 fs=17px] →
+[y=6231 fs=18px] Writing
+[y=6232 fs=17px] →
+[y=6278 fs=18px] Contact
+[y=6279 fs=17px] →
+[y=6049 fs=12px] Elsewhere
+[y=6090 fs=18px] Dribbble
+[y=6091 fs=17px] ↗
+[y=6137 fs=18px] GitHub
+[y=6138 fs=17px] ↗
+[y=6184 fs=18px] LinkedIn
+[y=6185 fs=17px] ↗
+[y=6231 fs=18px] Read.cv
+[y=6232 fs=17px] ↗
+[y=6411 fs=12px] © 2026 Mara Voss
+[y=6412 fs=12px] Privacy
+[y=6412 fs=12px] Terms
+[y=6411 fs=12px] Local time
+[y=6411 fs=12px] 18:25
+[y=6411 fs=12px] · Berlin
+[y=6411 fs=12px] Back to top
+[y=6407 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

@@ -1,0 +1,145 @@
+TITLE: Why I design in the browser now | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/writing/design-in-the-browser
+HEIGHT: 4756
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=151 fs=12px] ← Writing
+[y=150 fs=12px] /
+[y=150 fs=12px] Process
+[y=196 fs=12px] Process
+[y=196 fs=12px] Sep 2026
+[y=196 fs=12px] 6 min
+[y=243 fs=89px] Why I design in the browser now
+[y=440 fs=19px] Figma is where I think. The browser is where I decide.
+[y=443 fs=12px] Words by
+[y=439 fs=16px] Mara Voss
+[y=1245 fs=12px] Share
+[y=1456 fs=12px] Writing
+[y=1245 fs=32px] Figma is for thinking
+[y=1321 fs=17px] I still start every project in Figma. It is the fastest place to try ten layouts and throw nine away. But a layout is a guess about behaviour, and Figma is bad at behaviour.
+[y=1441 fs=32px] The browser is for deciding
+[y=1517 fs=17px] Loading states, long names, a slow network, a keyboard user — none of that shows up in a frame. So once a flow feels right on paper, I build a rough version in the browser and make the real decisions there.
+[y=1605 fs=17px] Build the ugly version first, with real data
+[y=1644 fs=17px] Decide spacing and motion where they will live
+[y=1683 fs=17px] Bring the finished details back into the design file
+[y=1736 fs=31.68px] A frame shows how it looks. A build shows how it feels.
+[y=1896 fs=32px] What changed
+[y=1972 fs=17px] Reviews got shorter. Instead of arguing over a static screen, the team clicks through the thing and points at what is wrong. Fewer opinions, more fixes.
+[y=2114 fs=12px] Call sheet · Open
+[y=2146 fs=40px] Need this for your product?
+[y=2204 fs=16px] I design and build digital products end to end — from the first sketch to production code. Tell me what you’re making.
+[y=2286 fs=13px] Let's talk
+[y=2466 fs=52px] More notes
+[y=2480 fs=13px] All writing
+[y=2563 fs=12px] Jul 2026
+[y=2559 fs=22px] A design system that people actually use
+[y=2563 fs=12px] Systems
+[y=2563 fs=12px] 8 min
+[y=2559 fs=16px] →
+[y=2632 fs=12px] May 2026
+[y=2629 fs=22px] Year three as an independent
+[y=2632 fs=12px] Notes
+[y=2632 fs=12px] 5 min
+[y=2629 fs=16px] →
+[y=2702 fs=12px] Mar 2026
+[y=2698 fs=22px] Prototype in code, not in slides
+[y=2702 fs=12px] Process
+[y=2702 fs=12px] 7 min
+[y=2698 fs=16px] →
+[y=3012 fs=12px] FRAME 10 — Contact
+[y=3062 fs=106px] Have a project? Let’s shoot.
+[y=3062 fs=106px] Have
+[y=3062 fs=106px] a
+[y=3062 fs=106px] project?
+[y=3157 fs=106px] Let’s
+[y=3157 fs=106px] shoot.
+[y=3310 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=3412 fs=13px] Start a project
+[y=3411 fs=14px] hello@maravoss.design
+[y=3400 fs=12px] Copy
+[y=3442 fs=12px] Copied
+[y=3127 fs=60.48px] ON AIR
+[y=3239 fs=12px] Studio 1 · Rec
+[y=3311 fs=12px] Booking now for
+[y=3331 fs=24.48px] Available for work · Nov 2026
+[y=3382 fs=12px] Next start dates
+[y=3463 fs=12px] Start
+[y=3480 fs=12px] No.
+[y=3480 fs=12px] 01
+[y=3468 fs=28.8px] Nov 17
+[y=3473 fs=12px] Admit one project
+[y=3537 fs=12px] Start
+[y=3554 fs=12px] No.
+[y=3554 fs=12px] 02
+[y=3542 fs=28.8px] Dec 1
+[y=3546 fs=12px] Admit one project
+[y=3611 fs=12px] Start
+[y=3628 fs=12px] No.
+[y=3628 fs=12px] 03
+[y=3616 fs=28.8px] Jan 12
+[y=3621 fs=12px] Admit one project
+[y=3900 fs=12px] Prod.
+[y=3923 fs=26px] Portfolio 2026
+[y=3976 fs=12px] Scene
+[y=3999 fs=26px] Footer
+[y=3976 fs=12px] Take
+[y=3999 fs=26px] 27
+[y=3976 fs=12px] Roll
+[y=3999 fs=26px] A-09
+[y=4052 fs=12px] Director
+[y=4075 fs=26px] Mara Voss
+[y=4128 fs=12px] Date
+[y=4151 fs=26px] 26.11.26
+[y=4128 fs=12px] Build
+[y=4151 fs=12px] main · 9f3c1a
+[y=3902 fs=64px] That’s a
+[y=3887 fs=64px] wrap.
+[y=3981 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=4026 fs=12px] Write to me
+[y=4054 fs=40px] hello@maravoss.design →
+[y=4336 fs=12px] Work
+[y=4377 fs=18px] Sole
+[y=4382 fs=12px] Brand · Campaign
+[y=4424 fs=18px] Rouge
+[y=4429 fs=12px] Brand · Packaging
+[y=4471 fs=18px] Nord
+[y=4476 fs=12px] Brand · Identity
+[y=4518 fs=18px] Atlas
+[y=4523 fs=12px] Web · Front-end
+[y=4565 fs=18px] Chroma
+[y=4570 fs=12px] Brand · Colour system
+[y=4336 fs=12px] Pages
+[y=4377 fs=18px] About
+[y=4378 fs=17px] →
+[y=4424 fs=18px] Résumé
+[y=4425 fs=17px] →
+[y=4471 fs=18px] Lab
+[y=4472 fs=17px] →
+[y=4518 fs=18px] Writing
+[y=4519 fs=17px] →
+[y=4565 fs=18px] Contact
+[y=4566 fs=17px] →
+[y=4336 fs=12px] Elsewhere
+[y=4377 fs=18px] Dribbble
+[y=4378 fs=17px] ↗
+[y=4424 fs=18px] GitHub
+[y=4425 fs=17px] ↗
+[y=4471 fs=18px] LinkedIn
+[y=4472 fs=17px] ↗
+[y=4518 fs=18px] Read.cv
+[y=4519 fs=17px] ↗
+[y=4698 fs=12px] © 2026 Mara Voss
+[y=4699 fs=12px] Privacy
+[y=4699 fs=12px] Terms
+[y=4698 fs=12px] Local time
+[y=4698 fs=12px] 18:26
+[y=4698 fs=12px] · Berlin
+[y=4698 fs=12px] Back to top
+[y=4694 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

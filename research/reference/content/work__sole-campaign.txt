@@ -1,0 +1,224 @@
+TITLE: Sole — case study | Mara Voss, product designer & developer
+URL: https://diligent-tetragon-837366.framer.app/work/sole-campaign
+HEIGHT: 6403
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=145 fs=12px] ← All work
+[y=144 fs=12px] Shipped
+[y=144 fs=12px] 2026
+[y=320 fs=12px] Brand · Campaign
+[y=358 fs=101px] Sole
+[y=216 fs=12px] Call sheet
+[y=225 fs=12px] Prod.
+[y=251 fs=12px] Production
+[y=254 fs=12px] Sole
+[y=282 fs=12px] Client
+[y=286 fs=12px] Sole Supply
+[y=313 fs=12px] Category
+[y=317 fs=12px] Brand · Campaign
+[y=345 fs=12px] Year
+[y=348 fs=12px] 2026
+[y=376 fs=12px] Role
+[y=380 fs=12px] Art direction, web
+[y=407 fs=12px] Team
+[y=411 fs=12px] 3 people
+[y=1210 fs=12px] The short version
+[y=1239 fs=40px] Launch campaign and product pages for a sneaker drop.
+[y=1210 fs=12px] Outcome
+[y=1239 fs=62px] +64% launch-week sales
+[y=1469 fs=12px] SC 01
+[y=1498 fs=52px] The
+[y=1485 fs=52px] brief
+[y=1469 fs=17px] Sole Supply had a sneaker drop in six weeks and a website that still looked like a reseller's catalogue. They needed a launch that felt like a brand, not a sale.
+[y=1544 fs=17px] We built one campaign page, one product template and a checkout that never leaves the story, then tested every step with real buyers before the drop.
+[y=1715 fs=12px] SC 02
+[y=1744 fs=52px] What I
+[y=1731 fs=52px] did
+[y=1734 fs=17px] Ran a two-day kick-off with the Sole Supply team to agree the one thing launch week had to prove
+[y=1829 fs=17px] Art-directed a two-day shoot around a single red sneaker and a yellow wall
+[y=1895 fs=17px] Designed the campaign page and product template in Figma as one system
+[y=1962 fs=17px] Built the front end in React with the in-house developer, reviewed every Friday
+[y=2028 fs=17px] Stayed on for launch week to watch the numbers and fix what slowed people down
+[y=2189 fs=12px] SC 03
+[y=2219 fs=52px] Design →
+[y=2206 fs=52px] code
+[y=2189 fs=17px] Same hands on both sides. The frame on the left is the design file, the panel on the right is what shipped — type, spacing and colour come straight across.
+[y=2280 fs=12px] Hero / Desktop
+[y=2303 fs=16px] // Sole — launch campaign
+[y=2327 fs=16px] export
+[y=2327 fs=16px] function
+[y=2327 fs=16px] Hero
+[y=2327 fs=16px] (
+[y=2327 fs=16px] {
+[y=2327 fs=16px] drop
+[y=2327 fs=16px] }
+[y=2327 fs=16px] )
+[y=2327 fs=16px] {
+[y=2351 fs=16px] return
+[y=2351 fs=16px] (
+[y=2375 fs=16px] <
+[y=2375 fs=16px] Frame
+[y=2375 fs=16px] tone
+[y=2373 fs=16px] =
+[y=2375 fs=16px] "sun"
+[y=2375 fs=16px] >
+[y=2399 fs=16px] <
+[y=2399 fs=16px] Cover
+[y=2399 fs=16px] src
+[y=2397 fs=16px] =
+[y=2399 fs=16px] {
+[y=2399 fs=16px] drop
+[y=2397 fs=16px] .
+[y=2399 fs=16px] image
+[y=2399 fs=16px] }
+[y=2399 fs=16px] grade
+[y=2397 fs=16px] =
+[y=2399 fs=16px] "studio"
+[y=2399 fs=16px] />
+[y=2423 fs=16px] <
+[y=2423 fs=16px] Title
+[y=2423 fs=16px] size
+[y=2421 fs=16px] =
+[y=2423 fs=16px] "xl"
+[y=2423 fs=16px] >
+[y=2423 fs=16px] {
+[y=2423 fs=16px] drop
+[y=2421 fs=16px] .
+[y=2423 fs=16px] name
+[y=2423 fs=16px] }
+[y=2423 fs=16px] </
+[y=2423 fs=16px] Title
+[y=2423 fs=16px] >
+[y=2447 fs=16px] <
+[y=2447 fs=16px] Countdown
+[y=2447 fs=16px] to
+[y=2445 fs=16px] =
+[y=2447 fs=16px] {
+[y=2447 fs=16px] drop
+[y=2445 fs=16px] .
+[y=2447 fs=16px] date
+[y=2447 fs=16px] }
+[y=2447 fs=16px] />
+[y=2471 fs=16px] </
+[y=2471 fs=16px] Frame
+[y=2471 fs=16px] >
+[y=2495 fs=16px] )
+[y=2519 fs=16px] }
+[y=2684 fs=12px] SC 04
+[y=2713 fs=52px] The
+[y=2700 fs=52px] result
+[y=2684 fs=17px] Launched on the planned day with the full stock sold in four days. Launch-week revenue was 64% above the previous drop, with half the paid ads.
+[y=2778 fs=62px] +64%
+[y=2843 fs=12px] Launch-week sales
+[y=2778 fs=62px] 4 days
+[y=2843 fs=12px] To sell out
+[y=2778 fs=62px] 6 wks
+[y=2843 fs=12px] Brief to launch
+[y=2972 fs=52px] More
+[y=2959 fs=52px] frames
+[y=3533 fs=12px] The client
+[y=3558 fs=40px] Fast, calm and very, very good with detail.
+[y=3670 fs=22px] Sofia Marin
+[y=3697 fs=12px] Creative Director · Sole Supply
+[y=4069 fs=12px] Next project
+[y=4103 fs=101px] Rouge
+[y=4210 fs=12px] Brand · Packaging
+[y=4243 fs=18px] Packaging and a product configurator for a lipstick line.
+[y=4313 fs=12px] Open case →
+[y=4659 fs=12px] FRAME 10 — Contact
+[y=4708 fs=106px] Have a project? Let’s shoot.
+[y=4708 fs=106px] Have
+[y=4708 fs=106px] a
+[y=4708 fs=106px] project?
+[y=4804 fs=106px] Let’s
+[y=4804 fs=106px] shoot.
+[y=4957 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=5058 fs=13px] Start a project
+[y=5058 fs=14px] hello@maravoss.design
+[y=5047 fs=12px] Copy
+[y=5089 fs=12px] Copied
+[y=4774 fs=60.48px] ON AIR
+[y=4886 fs=12px] Studio 1 · Rec
+[y=4958 fs=12px] Booking now for
+[y=4978 fs=24.48px] Available for work · Nov 2026
+[y=5029 fs=12px] Next start dates
+[y=5110 fs=12px] Start
+[y=5127 fs=12px] No.
+[y=5127 fs=12px] 01
+[y=5115 fs=28.8px] Nov 17
+[y=5120 fs=12px] Admit one project
+[y=5184 fs=12px] Start
+[y=5201 fs=12px] No.
+[y=5201 fs=12px] 02
+[y=5189 fs=28.8px] Dec 1
+[y=5193 fs=12px] Admit one project
+[y=5258 fs=12px] Start
+[y=5275 fs=12px] No.
+[y=5275 fs=12px] 03
+[y=5263 fs=28.8px] Jan 12
+[y=5268 fs=12px] Admit one project
+[y=5547 fs=12px] Prod.
+[y=5570 fs=26px] Portfolio 2026
+[y=5623 fs=12px] Scene
+[y=5646 fs=26px] Footer
+[y=5623 fs=12px] Take
+[y=5646 fs=26px] 9
+[y=5623 fs=12px] Roll
+[y=5646 fs=26px] A-09
+[y=5699 fs=12px] Director
+[y=5722 fs=26px] Mara Voss
+[y=5775 fs=12px] Date
+[y=5798 fs=26px] 26.11.26
+[y=5775 fs=12px] Build
+[y=5798 fs=12px] main · 9f3c1a
+[y=5549 fs=64px] That’s a
+[y=5534 fs=64px] wrap.
+[y=5627 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=5672 fs=12px] Write to me
+[y=5701 fs=40px] hello@maravoss.design →
+[y=5983 fs=12px] Work
+[y=6024 fs=18px] Sole
+[y=6029 fs=12px] Brand · Campaign
+[y=6071 fs=18px] Rouge
+[y=6076 fs=12px] Brand · Packaging
+[y=6118 fs=18px] Nord
+[y=6123 fs=12px] Brand · Identity
+[y=6165 fs=18px] Atlas
+[y=6170 fs=12px] Web · Front-end
+[y=6212 fs=18px] Chroma
+[y=6217 fs=12px] Brand · Colour system
+[y=5983 fs=12px] Pages
+[y=6024 fs=18px] About
+[y=6025 fs=17px] →
+[y=6071 fs=18px] Résumé
+[y=6072 fs=17px] →
+[y=6118 fs=18px] Lab
+[y=6119 fs=17px] →
+[y=6165 fs=18px] Writing
+[y=6166 fs=17px] →
+[y=6212 fs=18px] Contact
+[y=6213 fs=17px] →
+[y=5983 fs=12px] Elsewhere
+[y=6024 fs=18px] Dribbble
+[y=6025 fs=17px] ↗
+[y=6071 fs=18px] GitHub
+[y=6072 fs=17px] ↗
+[y=6118 fs=18px] LinkedIn
+[y=6119 fs=17px] ↗
+[y=6165 fs=18px] Read.cv
+[y=6166 fs=17px] ↗
+[y=6345 fs=12px] © 2026 Mara Voss
+[y=6346 fs=12px] Privacy
+[y=6346 fs=12px] Terms
+[y=6345 fs=12px] Local time
+[y=6345 fs=12px] 18:23
+[y=6345 fs=12px] · Berlin
+[y=6345 fs=12px] Back to top
+[y=6341 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

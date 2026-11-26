@@ -1,0 +1,149 @@
+TITLE: A design system that people actually use | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/writing/design-system-that-sticks
+HEIGHT: 4719
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=151 fs=12px] ← Writing
+[y=150 fs=12px] /
+[y=150 fs=12px] Systems
+[y=196 fs=12px] Systems
+[y=196 fs=12px] Jul 2026
+[y=196 fs=12px] 8 min
+[y=243 fs=89px] A design system that people actually use
+[y=440 fs=19px] Four rules from building one for 40 engineers.
+[y=443 fs=12px] Words by
+[y=439 fs=16px] Mara Voss
+[y=1245 fs=12px] Share
+[y=1456 fs=12px] Writing
+[y=1245 fs=32px] Start with what already exists
+[y=1321 fs=17px] The system I built for a team of 40 engineers began as an audit, not a library. We printed every button in the product. There were 31 of them.
+[y=1441 fs=32px] Four rules
+[y=1502 fs=17px] Tokens before components.
+[y=1500 fs=17px] Colour, type and spacing first, so everything else has something to stand on.
+[y=1570 fs=17px] Only what is used twice.
+[y=1568 fs=17px] A component joins the system when two teams need it, not before.
+[y=1610 fs=17px] Names a developer can guess.
+[y=1608 fs=17px] If you have to look a token up, it has the wrong name.
+[y=1649 fs=17px] One owner.
+[y=1647 fs=17px] Someone answers for the system every week, or nobody does.
+[y=1699 fs=31.68px] A design system is a product. Its users are your own team.
+[y=1859 fs=32px] What it took
+[y=1936 fs=17px] Six months, one designer and one engineer part-time. The button count went from 31 to four, and new screens now take days instead of weeks.
+[y=2078 fs=12px] Call sheet · Open
+[y=2109 fs=40px] Need this for your product?
+[y=2167 fs=16px] I design and build digital products end to end — from the first sketch to production code. Tell me what you’re making.
+[y=2250 fs=13px] Let's talk
+[y=2430 fs=52px] More notes
+[y=2444 fs=13px] All writing
+[y=2527 fs=12px] Sep 2026
+[y=2523 fs=22px] Why I design in the browser now
+[y=2527 fs=12px] Process
+[y=2527 fs=12px] 6 min
+[y=2523 fs=16px] →
+[y=2596 fs=12px] May 2026
+[y=2592 fs=22px] Year three as an independent
+[y=2596 fs=12px] Notes
+[y=2596 fs=12px] 5 min
+[y=2593 fs=16px] →
+[y=2666 fs=12px] Mar 2026
+[y=2662 fs=22px] Prototype in code, not in slides
+[y=2666 fs=12px] Process
+[y=2666 fs=12px] 7 min
+[y=2662 fs=16px] →
+[y=2976 fs=12px] FRAME 10 — Contact
+[y=3025 fs=106px] Have a project? Let’s shoot.
+[y=3025 fs=106px] Have
+[y=3025 fs=106px] a
+[y=3025 fs=106px] project?
+[y=3121 fs=106px] Let’s
+[y=3121 fs=106px] shoot.
+[y=3274 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=3375 fs=13px] Start a project
+[y=3375 fs=14px] hello@maravoss.design
+[y=3364 fs=12px] Copy
+[y=3406 fs=12px] Copied
+[y=3091 fs=60.48px] ON AIR
+[y=3203 fs=12px] Studio 1 · Rec
+[y=3275 fs=12px] Booking now for
+[y=3295 fs=24.48px] Available for work · Nov 2026
+[y=3346 fs=12px] Next start dates
+[y=3427 fs=12px] Start
+[y=3444 fs=12px] No.
+[y=3444 fs=12px] 01
+[y=3432 fs=28.8px] Nov 17
+[y=3437 fs=12px] Admit one project
+[y=3501 fs=12px] Start
+[y=3518 fs=12px] No.
+[y=3518 fs=12px] 02
+[y=3506 fs=28.8px] Dec 1
+[y=3510 fs=12px] Admit one project
+[y=3575 fs=12px] Start
+[y=3592 fs=12px] No.
+[y=3592 fs=12px] 03
+[y=3580 fs=28.8px] Jan 12
+[y=3585 fs=12px] Admit one project
+[y=3864 fs=12px] Prod.
+[y=3887 fs=26px] Portfolio 2026
+[y=3940 fs=12px] Scene
+[y=3963 fs=26px] Footer
+[y=3940 fs=12px] Take
+[y=3963 fs=26px] 28
+[y=3940 fs=12px] Roll
+[y=3963 fs=26px] A-09
+[y=4016 fs=12px] Director
+[y=4039 fs=26px] Mara Voss
+[y=4092 fs=12px] Date
+[y=4115 fs=26px] 26.11.26
+[y=4092 fs=12px] Build
+[y=4115 fs=12px] main · 9f3c1a
+[y=3866 fs=64px] That’s a
+[y=3851 fs=64px] wrap.
+[y=3944 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=3989 fs=12px] Write to me
+[y=4018 fs=40px] hello@maravoss.design →
+[y=4300 fs=12px] Work
+[y=4341 fs=18px] Sole
+[y=4346 fs=12px] Brand · Campaign
+[y=4388 fs=18px] Rouge
+[y=4393 fs=12px] Brand · Packaging
+[y=4435 fs=18px] Nord
+[y=4440 fs=12px] Brand · Identity
+[y=4482 fs=18px] Atlas
+[y=4487 fs=12px] Web · Front-end
+[y=4529 fs=18px] Chroma
+[y=4534 fs=12px] Brand · Colour system
+[y=4300 fs=12px] Pages
+[y=4341 fs=18px] About
+[y=4342 fs=17px] →
+[y=4388 fs=18px] Résumé
+[y=4389 fs=17px] →
+[y=4435 fs=18px] Lab
+[y=4436 fs=17px] →
+[y=4482 fs=18px] Writing
+[y=4483 fs=17px] →
+[y=4529 fs=18px] Contact
+[y=4530 fs=17px] →
+[y=4300 fs=12px] Elsewhere
+[y=4341 fs=18px] Dribbble
+[y=4342 fs=17px] ↗
+[y=4388 fs=18px] GitHub
+[y=4389 fs=17px] ↗
+[y=4435 fs=18px] LinkedIn
+[y=4436 fs=17px] ↗
+[y=4482 fs=18px] Read.cv
+[y=4483 fs=17px] ↗
+[y=4662 fs=12px] © 2026 Mara Voss
+[y=4663 fs=12px] Privacy
+[y=4663 fs=12px] Terms
+[y=4662 fs=12px] Local time
+[y=4662 fs=12px] 18:26
+[y=4662 fs=12px] · Berlin
+[y=4662 fs=12px] Back to top
+[y=4658 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

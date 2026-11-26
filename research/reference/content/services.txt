@@ -1,0 +1,287 @@
+TITLE: Services — product design, design systems, front-end development | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/services
+HEIGHT: 6112
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=263 fs=12px] FRAME 03 — Services
+[y=309 fs=89px] What I can do for you.
+[y=309 fs=89px] What
+[y=309 fs=89px] I
+[y=309 fs=89px] can
+[y=391 fs=89px] do
+[y=391 fs=89px] for
+[y=391 fs=89px] you.
+[y=498 fs=18px] Four ways to work together, from a one-week sprint to a full product built and shipped.
+[y=601 fs=13px] Start a project
+[y=601 fs=13px] Download résumé
+[y=610 fs=12px] Gel
+[y=610 fs=12px] 01
+[y=610 fs=12px] ·
+[y=610 fs=12px] #FF5A3C
+[y=610 fs=12px] Gel
+[y=610 fs=12px] 02
+[y=610 fs=12px] ·
+[y=610 fs=12px] #FFC94A
+[y=630 fs=12px] Gel
+[y=630 fs=12px] 03
+[y=630 fs=12px] ·
+[y=630 fs=12px] #3DDC97
+[y=697 fs=12px] MV 400TX · Int. studio — day
+[y=697 fs=12px] Scroll ↓
+[y=858 fs=12px] FRAME 01 — The gel pack
+[y=851 fs=18px] Four ways I can help. Each one is scoped, priced and planned before we start, and every one ends with something shipped.
+[y=851 fs=12px] 4 gels · 1 lens
+[y=1365 fs=12px] Gel
+[y=1365 fs=12px] 01
+[y=1365 fs=12px] ·
+[y=1365 fs=12px] #FF5A3C
+[y=1431 fs=12px] 01
+[y=1431 fs=12px] /
+[y=1431 fs=12px] 04
+[y=1431 fs=12px] 5
+[y=1431 fs=12px] deliverables
+[y=1451 fs=46.08px] Product design
+[y=1522 fs=18px] Apps and web products from first sketch to shipped release.
+[y=1558 fs=16px] I map the problem with you, sketch the flows, test them with real people and design every screen down to the empty states.
+[y=1630 fs=12px] User flows
+[y=1630 fs=12px] Wireframes
+[y=1630 fs=12px] Hi-fi screens
+[y=1630 fs=12px] Clickable prototype
+[y=1662 fs=12px] Usability tests
+[y=1735 fs=13px] Details
+[y=1751 fs=13px] Details
+[y=1365 fs=12px] Gel
+[y=1365 fs=12px] 02
+[y=1365 fs=12px] ·
+[y=1365 fs=12px] #FFC94A
+[y=1431 fs=12px] 02
+[y=1431 fs=12px] /
+[y=1431 fs=12px] 04
+[y=1431 fs=12px] 5
+[y=1431 fs=12px] deliverables
+[y=1451 fs=46.08px] Design systems
+[y=1522 fs=18px] One set of components your team designs and builds with.
+[y=1558 fs=16px] Tokens, components and documentation that live in Figma and in code, so design and engineering stop drifting apart.
+[y=1630 fs=12px] Tokens
+[y=1630 fs=12px] Figma library
+[y=1630 fs=12px] React components
+[y=1630 fs=12px] Docs site
+[y=1630 fs=12px] Handover
+[y=1703 fs=13px] Details
+[y=1719 fs=13px] Details
+[y=2231 fs=12px] Gel
+[y=2231 fs=12px] 03
+[y=2231 fs=12px] ·
+[y=2231 fs=12px] #3DDC97
+[y=2297 fs=12px] 03
+[y=2297 fs=12px] /
+[y=2297 fs=12px] 04
+[y=2297 fs=12px] 5
+[y=2297 fs=12px] deliverables
+[y=2317 fs=46.08px] Front-end development
+[y=2388 fs=18px] I build what I design, in React, Next.js and Framer.
+[y=2424 fs=16px] Fast, accessible front-ends with the motion and detail the design promised, shipped to production and handed over clean.
+[y=2496 fs=12px] React / Next.js
+[y=2496 fs=12px] Framer sites
+[y=2496 fs=12px] Animations
+[y=2496 fs=12px] Accessibility
+[y=2496 fs=12px] Performance
+[y=2569 fs=13px] Details
+[y=2585 fs=13px] Details
+[y=2231 fs=12px] Gel
+[y=2231 fs=12px] 04
+[y=2231 fs=12px] ·
+[y=2231 fs=12px] #6C8CFF
+[y=2297 fs=12px] 04
+[y=2297 fs=12px] /
+[y=2297 fs=12px] 04
+[y=2297 fs=12px] 5
+[y=2297 fs=12px] deliverables
+[y=2317 fs=46.08px] Brand & web
+[y=2388 fs=18px] Identity and a website that launches with it.
+[y=2424 fs=16px] Logo, type, colour and a launch site that carries them, for founders who need to look ready on day one.
+[y=2496 fs=12px] Logo
+[y=2496 fs=12px] Type & colour
+[y=2496 fs=12px] Brand guide
+[y=2496 fs=12px] Launch website
+[y=2496 fs=12px] Social kit
+[y=2569 fs=13px] Details
+[y=2585 fs=13px] Details
+[y=2731 fs=12px] Rate card
+[y=2751 fs=22px] Three ways to work together
+[y=2740 fs=12px] 01
+[y=2740 fs=21px] Project
+[y=2768 fs=15px] Fixed scope and price
+[y=2740 fs=12px] 02
+[y=2740 fs=21px] Retainer
+[y=2768 fs=15px] 2–4 days a month
+[y=2740 fs=12px] 03
+[y=2740 fs=21px] Sprint
+[y=2768 fs=15px] One week, one problem
+[y=2757 fs=13px] Ask about rates
+[y=2773 fs=13px] Ask about rates
+[y=3106 fs=12px] FRAME 04 — How I work
+[y=3149 fs=62px] One
+[y=3149 fs=62px] project,
+[y=3208 fs=62px] four
+[y=3208 fs=62px] days
+[y=3208 fs=62px] that
+[y=3208 fs=62px] matter.
+[y=3407 fs=40.32px] Call sheet
+[y=3453 fs=12px] New project
+[y=3391 fs=12px] No. 026
+[y=3502 fs=12px] Director
+[y=3520 fs=14px] Mara Voss
+[y=3495 fs=12px] Location
+[y=3513 fs=14px] Berlin + remote
+[y=3488 fs=12px] Crew call
+[y=3506 fs=14px] Mondays, 09:00
+[y=3569 fs=12px] Scene
+[y=3565 fs=12px] When
+[y=3555 fs=12px] What happens
+[y=3638 fs=12px] 01
+[y=3618 fs=30px] Brief
+[y=3626 fs=13px] D
+[y=3625 fs=13px] a
+[y=3625 fs=13px] y
+[y=3624 fs=13px] 1
+[y=3613 fs=15.5px] We talk goals, users and constraints. You get a one-page plan.
+[y=3743 fs=12px] 02
+[y=3722 fs=30px] Explore
+[y=3730 fs=13px] W
+[y=3730 fs=13px] e
+[y=3729 fs=13px] e
+[y=3729 fs=13px] k
+[y=3728 fs=13px] 1
+[y=3728 fs=13px] –
+[y=3727 fs=13px] 2
+[y=3718 fs=15.5px] Flows, sketches and a clickable direction you can test.
+[y=3847 fs=12px] 03
+[y=3827 fs=30px] Build
+[y=3834 fs=13px] W
+[y=3834 fs=13px] e
+[y=3834 fs=13px] e
+[y=3833 fs=13px] k
+[y=3832 fs=13px] 3
+[y=3832 fs=13px] –
+[y=3832 fs=13px] 6
+[y=3822 fs=15.5px] Final design and production code, reviewed every Friday.
+[y=3952 fs=12px] 04
+[y=3931 fs=30px] Ship
+[y=3939 fs=13px] W
+[y=3938 fs=13px] e
+[y=3938 fs=13px] e
+[y=3938 fs=13px] k
+[y=3937 fs=13px] 7
+[y=3927 fs=15.5px] Launch, handover docs and two weeks of fixes.
+[y=4038 fs=12px] Call times move. The Friday review does not.
+[y=3997 fs=26px] M. Voss
+[y=3375 fs=12px] On set
+[y=3375 fs=12px] 04
+[y=3375 fs=12px] /
+[y=3375 fs=12px] 04
+[y=3411 fs=26px] Scene
+[y=3411 fs=26px] 4
+[y=3411 fs=26px] /
+[y=3411 fs=26px] 4
+[y=3411 fs=26px] ·
+[y=3411 fs=26px] Ship
+[y=3446 fs=12px] Week 7
+[y=3510 fs=12px] That's a wrap
+[y=4368 fs=12px] FRAME 10 — Contact
+[y=4418 fs=106px] Have a project? Let’s shoot.
+[y=4418 fs=106px] Have
+[y=4418 fs=106px] a
+[y=4418 fs=106px] project?
+[y=4513 fs=106px] Let’s
+[y=4513 fs=106px] shoot.
+[y=4666 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=4768 fs=13px] Start a project
+[y=4767 fs=14px] hello@maravoss.design
+[y=4756 fs=12px] Copy
+[y=4798 fs=12px] Copied
+[y=4484 fs=60.48px] ON AIR
+[y=4595 fs=12px] Studio 1 · Rec
+[y=4667 fs=12px] Booking now for
+[y=4687 fs=24.48px] Available for work · Nov 2026
+[y=4738 fs=12px] Next start dates
+[y=4819 fs=12px] Start
+[y=4836 fs=12px] No.
+[y=4836 fs=12px] 01
+[y=4825 fs=28.8px] Nov 17
+[y=4829 fs=12px] Admit one project
+[y=4893 fs=12px] Start
+[y=4910 fs=12px] No.
+[y=4910 fs=12px] 02
+[y=4899 fs=28.8px] Dec 1
+[y=4903 fs=12px] Admit one project
+[y=4967 fs=12px] Start
+[y=4984 fs=12px] No.
+[y=4984 fs=12px] 03
+[y=4973 fs=28.8px] Jan 12
+[y=4977 fs=12px] Admit one project
+[y=5256 fs=12px] Prod.
+[y=5279 fs=26px] Portfolio 2026
+[y=5332 fs=12px] Scene
+[y=5355 fs=26px] Footer
+[y=5332 fs=12px] Take
+[y=5355 fs=26px] 5
+[y=5332 fs=12px] Roll
+[y=5355 fs=26px] A-09
+[y=5408 fs=12px] Director
+[y=5431 fs=26px] Mara Voss
+[y=5484 fs=12px] Date
+[y=5507 fs=26px] 26.11.26
+[y=5484 fs=12px] Build
+[y=5507 fs=12px] main · 9f3c1a
+[y=5258 fs=64px] That’s a
+[y=5243 fs=64px] wrap.
+[y=5337 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=5382 fs=12px] Write to me
+[y=5410 fs=40px] hello@maravoss.design →
+[y=5692 fs=12px] Work
+[y=5733 fs=18px] Sole
+[y=5738 fs=12px] Brand · Campaign
+[y=5780 fs=18px] Rouge
+[y=5785 fs=12px] Brand · Packaging
+[y=5827 fs=18px] Nord
+[y=5832 fs=12px] Brand · Identity
+[y=5874 fs=18px] Atlas
+[y=5879 fs=12px] Web · Front-end
+[y=5921 fs=18px] Chroma
+[y=5926 fs=12px] Brand · Colour system
+[y=5692 fs=12px] Pages
+[y=5733 fs=18px] About
+[y=5734 fs=17px] →
+[y=5780 fs=18px] Résumé
+[y=5781 fs=17px] →
+[y=5827 fs=18px] Lab
+[y=5828 fs=17px] →
+[y=5874 fs=18px] Writing
+[y=5875 fs=17px] →
+[y=5921 fs=18px] Contact
+[y=5922 fs=17px] →
+[y=5692 fs=12px] Elsewhere
+[y=5733 fs=18px] Dribbble
+[y=5734 fs=17px] ↗
+[y=5780 fs=18px] GitHub
+[y=5781 fs=17px] ↗
+[y=5827 fs=18px] LinkedIn
+[y=5828 fs=17px] ↗
+[y=5874 fs=18px] Read.cv
+[y=5875 fs=17px] ↗
+[y=6054 fs=12px] © 2026 Mara Voss
+[y=6055 fs=12px] Privacy
+[y=6055 fs=12px] Terms
+[y=6054 fs=12px] Local time
+[y=6054 fs=12px] 18:23
+[y=6054 fs=12px] · Berlin
+[y=6054 fs=12px] Back to top
+[y=6050 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

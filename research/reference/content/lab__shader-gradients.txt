@@ -1,0 +1,253 @@
+TITLE: Shader gradients — lab | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/lab/shader-gradients
+HEIGHT: 4758
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=151 fs=12px] ← Lab
+[y=150 fs=12px] /
+[y=150 fs=12px] Experiment
+[y=190 fs=12px] Experiment
+[y=190 fs=12px] 2025
+[y=190 fs=12px] WebGL, GLSL
+[y=231 fs=89px] Shader gradients
+[y=213 fs=19px] Mesh gradients you can paint.
+[y=279 fs=13px] Live demo
+[y=279 fs=13px] Source
+[y=1082 fs=12px] Camera report
+[y=1109 fs=12px] Scene
+[y=1109 fs=12px] Experiment
+[y=1147 fs=12px] Year
+[y=1147 fs=12px] 2025
+[y=1184 fs=12px] Tools
+[y=1184 fs=12px] WebGL, GLSL
+[y=1066 fs=32px] The idea
+[y=1136 fs=17px] Mesh gradients look great in a design file and terrible as exported PNGs. I wanted gradients that stay sharp at any size and can be painted, not just picked.
+[y=1210 fs=17px] Four colour points you can drag, a little grain, and a slow drift so the page never looks frozen.
+[y=1309 fs=32px] How it's built
+[y=1380 fs=17px] A single fragment shader in WebGL. The colour points are uniforms, the blend is a weighted distance field, and the grain is a cheap hash so it costs nothing to animate.
+[y=1438 fs=17px] One full-screen triangle, one shader, no library
+[y=1475 fs=17px] Colour points dragged straight on the canvas
+[y=1511 fs=17px] Grain added in the shader to hide banding
+[y=1548 fs=17px] Falls back to a CSS gradient when WebGL is off
+[y=1652 fs=16px] precision
+[y=1652 fs=16px] mediump
+[y=1652 fs=16px] float
+[y=1652 fs=16px] ;
+[y=1676 fs=16px] uniform
+[y=1676 fs=16px] vec2
+[y=1676 fs=16px] p
+[y=1676 fs=16px] [
+[y=1676 fs=16px] 4
+[y=1676 fs=16px] ]
+[y=1676 fs=16px] ;
+[y=1676 fs=16px] uniform
+[y=1676 fs=16px] vec3
+[y=1676 fs=16px] c
+[y=1676 fs=16px] [
+[y=1676 fs=16px] 4
+[y=1676 fs=16px] ]
+[y=1676 fs=16px] ;
+[y=1700 fs=16px] varying
+[y=1700 fs=16px] vec2
+[y=1700 fs=16px] uv
+[y=1700 fs=16px] ;
+[y=1724 fs=16px] void
+[y=1724 fs=16px] main
+[y=1724 fs=16px] (
+[y=1724 fs=16px] )
+[y=1724 fs=16px] {
+[y=1748 fs=16px] vec3
+[y=1748 fs=16px] col
+[y=1746 fs=16px] =
+[y=1748 fs=16px] vec3
+[y=1748 fs=16px] (
+[y=1748 fs=16px] 0.0
+[y=1748 fs=16px] )
+[y=1748 fs=16px] ;
+[y=1748 fs=16px] float
+[y=1748 fs=16px] t
+[y=1746 fs=16px] =
+[y=1748 fs=16px] 0.0
+[y=1748 fs=16px] ;
+[y=1772 fs=16px] for
+[y=1772 fs=16px] (
+[y=1772 fs=16px] int
+[y=1772 fs=16px] i
+[y=1770 fs=16px] =
+[y=1772 fs=16px] 0
+[y=1772 fs=16px] ;
+[y=1772 fs=16px] i
+[y=1770 fs=16px] <
+[y=1772 fs=16px] 4
+[y=1772 fs=16px] ;
+[y=1772 fs=16px] i
+[y=1770 fs=16px] ++
+[y=1772 fs=16px] )
+[y=1772 fs=16px] {
+[y=1772 fs=16px] float
+[y=1772 fs=16px] w
+[y=1770 fs=16px] =
+[y=1772 fs=16px] 1.0
+[y=1770 fs=16px] /
+[y=1772 fs=16px] pow
+[y=1772 fs=16px] (
+[y=1772 fs=16px] distance
+[y=1772 fs=16px] (
+[y=1772 fs=16px] uv
+[y=1772 fs=16px] ,
+[y=1772 fs=16px] p
+[y=1772 fs=16px] [
+[y=1772 fs=16px] i
+[y=1772 fs=16px] ]
+[y=1772 fs=16px] )
+[y=1770 fs=16px] +
+[y=1772 fs=16px] 0.05
+[y=1772 fs=16px] ,
+[y=1772 fs=16px] 2.0
+[y=1772 fs=16px] )
+[y=1772 fs=16px] ;
+[y=1772 fs=16px] col
+[y=1770 fs=16px] +=
+[y=1772 fs=16px] c
+[y=1772 fs=16px] [
+[y=1772 fs=16px] i
+[y=1772 fs=16px] ]
+[y=1770 fs=16px] *
+[y=1772 fs=16px] w
+[y=1772 fs=16px] ;
+[y=1772 fs=16px] t
+[y=1770 fs=16px] +=
+[y=1772 fs=16px] w
+[y=1772 fs=16px] ;
+[y=1772 fs=16px] }
+[y=1796 fs=16px] gl_FragColor
+[y=1794 fs=16px] =
+[y=1796 fs=16px] vec4
+[y=1796 fs=16px] (
+[y=1796 fs=16px] col
+[y=1794 fs=16px] /
+[y=1796 fs=16px] t
+[y=1796 fs=16px] ,
+[y=1796 fs=16px] 1.0
+[y=1796 fs=16px] )
+[y=1796 fs=16px] ;
+[y=1820 fs=16px] }
+[y=1966 fs=32px] What I learned
+[y=2036 fs=17px] Banding is the real enemy of gradients. A tiny amount of noise does more for quality than any extra colour stop.
+[y=2094 fs=17px] Add grain before you add colours
+[y=2131 fs=17px] Keep a CSS fallback that looks intentional
+[y=2219 fs=24px] The best gradient is the one nobody calls a gradient.
+[y=2417 fs=52px] More from the lab
+[y=2431 fs=13px] All experiments
+[y=2705 fs=12px] Experiment
+[y=2705 fs=12px] 2026
+[y=2732 fs=22px] Variable type toy
+[y=2705 fs=12px] Side project
+[y=2705 fs=12px] 2025
+[y=2732 fs=22px] UI sound kit
+[y=2705 fs=12px] Open source
+[y=2705 fs=12px] 2024
+[y=2732 fs=22px] Token sync plugin
+[y=2705 fs=12px] Concept
+[y=2705 fs=12px] 2024
+[y=2732 fs=22px] Film camera app
+[y=2705 fs=12px] Resource
+[y=2705 fs=12px] 2023
+[y=2732 fs=22px] Motion cheatsheet
+[y=3015 fs=12px] FRAME 10 — Contact
+[y=3064 fs=106px] Have a project? Let’s shoot.
+[y=3064 fs=106px] Have
+[y=3064 fs=106px] a
+[y=3064 fs=106px] project?
+[y=3160 fs=106px] Let’s
+[y=3160 fs=106px] shoot.
+[y=3313 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=3414 fs=13px] Start a project
+[y=3413 fs=14px] hello@maravoss.design
+[y=3403 fs=12px] Copy
+[y=3445 fs=12px] Copied
+[y=3130 fs=60.48px] ON AIR
+[y=3242 fs=12px] Studio 1 · Rec
+[y=3314 fs=12px] Booking now for
+[y=3334 fs=24.48px] Available for work · Nov 2026
+[y=3384 fs=12px] Next start dates
+[y=3466 fs=12px] Start
+[y=3483 fs=12px] No.
+[y=3483 fs=12px] 01
+[y=3471 fs=28.8px] Nov 17
+[y=3476 fs=12px] Admit one project
+[y=3540 fs=12px] Start
+[y=3557 fs=12px] No.
+[y=3557 fs=12px] 02
+[y=3545 fs=28.8px] Dec 1
+[y=3549 fs=12px] Admit one project
+[y=3614 fs=12px] Start
+[y=3631 fs=12px] No.
+[y=3631 fs=12px] 03
+[y=3619 fs=28.8px] Jan 12
+[y=3624 fs=12px] Admit one project
+[y=3902 fs=12px] Prod.
+[y=3926 fs=26px] Portfolio 2026
+[y=3978 fs=12px] Scene
+[y=4002 fs=26px] Footer
+[y=3978 fs=12px] Take
+[y=4002 fs=26px] 23
+[y=3978 fs=12px] Roll
+[y=4002 fs=26px] A-09
+[y=4054 fs=12px] Director
+[y=4078 fs=26px] Mara Voss
+[y=4130 fs=12px] Date
+[y=4154 fs=26px] 26.11.26
+[y=4130 fs=12px] Build
+[y=4154 fs=12px] main · 9f3c1a
+[y=3904 fs=64px] That’s a
+[y=3889 fs=64px] wrap.
+[y=3983 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=4028 fs=12px] Write to me
+[y=4057 fs=40px] hello@maravoss.design →
+[y=4338 fs=12px] Work
+[y=4380 fs=18px] Sole
+[y=4385 fs=12px] Brand · Campaign
+[y=4427 fs=18px] Rouge
+[y=4432 fs=12px] Brand · Packaging
+[y=4474 fs=18px] Nord
+[y=4479 fs=12px] Brand · Identity
+[y=4521 fs=18px] Atlas
+[y=4526 fs=12px] Web · Front-end
+[y=4568 fs=18px] Chroma
+[y=4573 fs=12px] Brand · Colour system
+[y=4338 fs=12px] Pages
+[y=4380 fs=18px] About
+[y=4381 fs=17px] →
+[y=4427 fs=18px] Résumé
+[y=4428 fs=17px] →
+[y=4474 fs=18px] Lab
+[y=4475 fs=17px] →
+[y=4521 fs=18px] Writing
+[y=4522 fs=17px] →
+[y=4568 fs=18px] Contact
+[y=4569 fs=17px] →
+[y=4338 fs=12px] Elsewhere
+[y=4380 fs=18px] Dribbble
+[y=4381 fs=17px] ↗
+[y=4427 fs=18px] GitHub
+[y=4428 fs=17px] ↗
+[y=4474 fs=18px] LinkedIn
+[y=4475 fs=17px] ↗
+[y=4521 fs=18px] Read.cv
+[y=4522 fs=17px] ↗
+[y=4701 fs=12px] © 2026 Mara Voss
+[y=4702 fs=12px] Privacy
+[y=4702 fs=12px] Terms
+[y=4701 fs=12px] Local time
+[y=4701 fs=12px] 18:25
+[y=4701 fs=12px] · Berlin
+[y=4701 fs=12px] Back to top
+[y=4697 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

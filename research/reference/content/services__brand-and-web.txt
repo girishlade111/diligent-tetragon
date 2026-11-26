@@ -1,0 +1,150 @@
+TITLE: Services — product design, design systems, front-end | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/services/brand-and-web
+HEIGHT: 4603
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=214 fs=12px] ← Services
+[y=213 fs=12px] /
+[y=213 fs=12px] Brand & web
+[y=253 fs=89px] Brand & web
+[y=357 fs=40px] Identity and a website that launches with it.
+[y=467 fs=18px] Logo, type, colour and a launch site that carries them, for founders who need to look ready on day one.
+[y=571 fs=13px] Start a project
+[y=571 fs=13px] All services
+[y=169 fs=12px] Gel ·
+[y=169 fs=12px] #6C8CFF
+[y=811 fs=12px] What you get
+[y=851 fs=62px] Everything
+[y=851 fs=62px] you
+[y=895 fs=62px] keep.
+[y=989 fs=17px] A brand you can use from day one and a site that launches with it, all in files you own.
+[y=828 fs=28.8px] Logo
+[y=904 fs=28.8px] Type & colour
+[y=981 fs=28.8px] Brand guide
+[y=1058 fs=28.8px] Launch website
+[y=1134 fs=28.8px] Social kit
+[y=1430 fs=52px] Projects with this
+[y=1462 fs=12px] Frames from jobs where this was the work.
+[y=1816 fs=22px] Nord
+[y=1854 fs=12px] Nord Coffee
+[y=1854 fs=12px] 2025
+[y=1816 fs=22px] Violet
+[y=1854 fs=12px] Violet Magazine
+[y=1854 fs=12px] 2024
+[y=1800 fs=22px] Your project
+[y=1834 fs=12px] Next frame · unexposed
+[y=1899 fs=52px] Other services
+[y=2005 fs=22px] Product design
+[y=2005 fs=17px] →
+[y=2005 fs=22px] Design systems
+[y=2005 fs=17px] →
+[y=2005 fs=22px] Front-end development
+[y=2005 fs=17px] →
+[y=2295 fs=12px] Before you ask
+[y=2337 fs=62px] Questions
+[y=2454 fs=12px] Q.
+[y=2481 fs=22px] How many logo routes do I see?
+[y=2517 fs=16px] Three directions in week one. We pick one and refine it together until it feels right.
+[y=2454 fs=12px] Q.
+[y=2481 fs=22px] Can I edit the website myself?
+[y=2517 fs=16px] Yes. The site is built in Framer, so you change text, images and pages without a developer.
+[y=2454 fs=12px] Q.
+[y=2481 fs=22px] What if I only need a logo?
+[y=2517 fs=16px] Then we run the identity sprint on its own: logo, type, colour and a one-page guide, in two weeks.
+[y=2859 fs=12px] FRAME 10 — Contact
+[y=2909 fs=106px] Have a project? Let’s shoot.
+[y=2909 fs=106px] Have
+[y=2909 fs=106px] a
+[y=2909 fs=106px] project?
+[y=3004 fs=106px] Let’s
+[y=3004 fs=106px] shoot.
+[y=3157 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=3259 fs=13px] Start a project
+[y=3258 fs=14px] hello@maravoss.design
+[y=3247 fs=12px] Copy
+[y=3289 fs=12px] Copied
+[y=2974 fs=60.48px] ON AIR
+[y=3086 fs=12px] Studio 1 · Rec
+[y=3158 fs=12px] Booking now for
+[y=3178 fs=24.48px] Available for work · Nov 2026
+[y=3229 fs=12px] Next start dates
+[y=3310 fs=12px] Start
+[y=3327 fs=12px] No.
+[y=3327 fs=12px] 01
+[y=3316 fs=28.8px] Nov 17
+[y=3320 fs=12px] Admit one project
+[y=3384 fs=12px] Start
+[y=3401 fs=12px] No.
+[y=3401 fs=12px] 02
+[y=3390 fs=28.8px] Dec 1
+[y=3394 fs=12px] Admit one project
+[y=3458 fs=12px] Start
+[y=3475 fs=12px] No.
+[y=3475 fs=12px] 03
+[y=3464 fs=28.8px] Jan 12
+[y=3468 fs=12px] Admit one project
+[y=3747 fs=12px] Prod.
+[y=3770 fs=26px] Portfolio 2026
+[y=3823 fs=12px] Scene
+[y=3846 fs=26px] Footer
+[y=3823 fs=12px] Take
+[y=3846 fs=26px] 20
+[y=3823 fs=12px] Roll
+[y=3846 fs=26px] A-09
+[y=3899 fs=12px] Director
+[y=3922 fs=26px] Mara Voss
+[y=3975 fs=12px] Date
+[y=3998 fs=26px] 26.11.26
+[y=3975 fs=12px] Build
+[y=3998 fs=12px] main · 9f3c1a
+[y=3749 fs=64px] That’s a
+[y=3734 fs=64px] wrap.
+[y=3828 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=3873 fs=12px] Write to me
+[y=3901 fs=40px] hello@maravoss.design →
+[y=4183 fs=12px] Work
+[y=4224 fs=18px] Sole
+[y=4229 fs=12px] Brand · Campaign
+[y=4271 fs=18px] Rouge
+[y=4276 fs=12px] Brand · Packaging
+[y=4318 fs=18px] Nord
+[y=4323 fs=12px] Brand · Identity
+[y=4365 fs=18px] Atlas
+[y=4370 fs=12px] Web · Front-end
+[y=4412 fs=18px] Chroma
+[y=4417 fs=12px] Brand · Colour system
+[y=4183 fs=12px] Pages
+[y=4224 fs=18px] About
+[y=4225 fs=17px] →
+[y=4271 fs=18px] Résumé
+[y=4272 fs=17px] →
+[y=4318 fs=18px] Lab
+[y=4319 fs=17px] →
+[y=4365 fs=18px] Writing
+[y=4366 fs=17px] →
+[y=4412 fs=18px] Contact
+[y=4413 fs=17px] →
+[y=4183 fs=12px] Elsewhere
+[y=4224 fs=18px] Dribbble
+[y=4225 fs=17px] ↗
+[y=4271 fs=18px] GitHub
+[y=4272 fs=17px] ↗
+[y=4318 fs=18px] LinkedIn
+[y=4319 fs=17px] ↗
+[y=4365 fs=18px] Read.cv
+[y=4366 fs=17px] ↗
+[y=4545 fs=12px] © 2026 Mara Voss
+[y=4546 fs=12px] Privacy
+[y=4546 fs=12px] Terms
+[y=4545 fs=12px] Local time
+[y=4545 fs=12px] 18:25
+[y=4545 fs=12px] · Berlin
+[y=4545 fs=12px] Back to top
+[y=4541 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

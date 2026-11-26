@@ -1,0 +1,145 @@
+TITLE: How I price design and build work | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/writing/pricing-design-work
+HEIGHT: 4749
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=151 fs=12px] ← Writing
+[y=150 fs=12px] /
+[y=150 fs=12px] Notes
+[y=196 fs=12px] Notes
+[y=196 fs=12px] Nov 2025
+[y=196 fs=12px] 9 min
+[y=243 fs=89px] How I price design and build work
+[y=434 fs=19px] Day rates, fixed scopes and why I stopped quoting by the screen.
+[y=466 fs=12px] Words by
+[y=462 fs=16px] Mara Voss
+[y=1268 fs=12px] Share
+[y=1479 fs=12px] Writing
+[y=1268 fs=32px] Why not by the day
+[y=1344 fs=17px] Day rates reward slow work and punish clear thinking. Clients also hate them, because the number they care about — the total — is the one nobody can tell them.
+[y=1464 fs=32px] Fixed scope, fixed price
+[y=1540 fs=17px] After a first call I write a one-page proposal: what we will make, what we will not, how long it takes and what it costs. If the scope changes, the price changes, in writing, before the work.
+[y=1598 fs=17px] A one-week sprint to start, priced on its own
+[y=1638 fs=17px] Then a fixed quote for the build
+[y=1677 fs=17px] Payment in three parts, the last one on launch
+[y=1767 fs=32px] Why not by the screen
+[y=1843 fs=17px] Screens are a bad unit. A settings page and an onboarding flow are both 'one screen' and differ by weeks of work.
+[y=1925 fs=31.68px] Price the result, not the hours and not the pixels.
+[y=2108 fs=12px] Call sheet · Open
+[y=2139 fs=40px] Need this for your product?
+[y=2197 fs=16px] I design and build digital products end to end — from the first sketch to production code. Tell me what you’re making.
+[y=2280 fs=13px] Let's talk
+[y=2460 fs=52px] More notes
+[y=2474 fs=13px] All writing
+[y=2557 fs=12px] Sep 2026
+[y=2553 fs=22px] Why I design in the browser now
+[y=2557 fs=12px] Process
+[y=2557 fs=12px] 6 min
+[y=2553 fs=16px] →
+[y=2626 fs=12px] Jul 2026
+[y=2622 fs=22px] A design system that people actually use
+[y=2626 fs=12px] Systems
+[y=2626 fs=12px] 8 min
+[y=2623 fs=16px] →
+[y=2696 fs=12px] May 2026
+[y=2692 fs=22px] Year three as an independent
+[y=2696 fs=12px] Notes
+[y=2696 fs=12px] 5 min
+[y=2692 fs=16px] →
+[y=3006 fs=12px] FRAME 10 — Contact
+[y=3055 fs=106px] Have a project? Let’s shoot.
+[y=3055 fs=106px] Have
+[y=3055 fs=106px] a
+[y=3055 fs=106px] project?
+[y=3151 fs=106px] Let’s
+[y=3151 fs=106px] shoot.
+[y=3304 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=3405 fs=13px] Start a project
+[y=3405 fs=14px] hello@maravoss.design
+[y=3394 fs=12px] Copy
+[y=3436 fs=12px] Copied
+[y=3121 fs=60.48px] ON AIR
+[y=3233 fs=12px] Studio 1 · Rec
+[y=3305 fs=12px] Booking now for
+[y=3325 fs=24.48px] Available for work · Nov 2026
+[y=3376 fs=12px] Next start dates
+[y=3457 fs=12px] Start
+[y=3474 fs=12px] No.
+[y=3474 fs=12px] 01
+[y=3462 fs=28.8px] Nov 17
+[y=3467 fs=12px] Admit one project
+[y=3531 fs=12px] Start
+[y=3548 fs=12px] No.
+[y=3548 fs=12px] 02
+[y=3536 fs=28.8px] Dec 1
+[y=3540 fs=12px] Admit one project
+[y=3605 fs=12px] Start
+[y=3622 fs=12px] No.
+[y=3622 fs=12px] 03
+[y=3610 fs=28.8px] Jan 12
+[y=3615 fs=12px] Admit one project
+[y=3894 fs=12px] Prod.
+[y=3917 fs=26px] Portfolio 2026
+[y=3970 fs=12px] Scene
+[y=3993 fs=26px] Footer
+[y=3970 fs=12px] Take
+[y=3993 fs=26px] 32
+[y=3970 fs=12px] Roll
+[y=3993 fs=26px] A-09
+[y=4046 fs=12px] Director
+[y=4069 fs=26px] Mara Voss
+[y=4122 fs=12px] Date
+[y=4145 fs=26px] 26.11.26
+[y=4122 fs=12px] Build
+[y=4145 fs=12px] main · 9f3c1a
+[y=3896 fs=64px] That’s a
+[y=3881 fs=64px] wrap.
+[y=3974 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=4019 fs=12px] Write to me
+[y=4048 fs=40px] hello@maravoss.design →
+[y=4330 fs=12px] Work
+[y=4371 fs=18px] Sole
+[y=4376 fs=12px] Brand · Campaign
+[y=4418 fs=18px] Rouge
+[y=4423 fs=12px] Brand · Packaging
+[y=4465 fs=18px] Nord
+[y=4470 fs=12px] Brand · Identity
+[y=4512 fs=18px] Atlas
+[y=4517 fs=12px] Web · Front-end
+[y=4559 fs=18px] Chroma
+[y=4564 fs=12px] Brand · Colour system
+[y=4330 fs=12px] Pages
+[y=4371 fs=18px] About
+[y=4372 fs=17px] →
+[y=4418 fs=18px] Résumé
+[y=4419 fs=17px] →
+[y=4465 fs=18px] Lab
+[y=4466 fs=17px] →
+[y=4512 fs=18px] Writing
+[y=4513 fs=17px] →
+[y=4559 fs=18px] Contact
+[y=4560 fs=17px] →
+[y=4330 fs=12px] Elsewhere
+[y=4371 fs=18px] Dribbble
+[y=4372 fs=17px] ↗
+[y=4418 fs=18px] GitHub
+[y=4419 fs=17px] ↗
+[y=4465 fs=18px] LinkedIn
+[y=4466 fs=17px] ↗
+[y=4512 fs=18px] Read.cv
+[y=4513 fs=17px] ↗
+[y=4692 fs=12px] © 2026 Mara Voss
+[y=4693 fs=12px] Privacy
+[y=4693 fs=12px] Terms
+[y=4692 fs=12px] Local time
+[y=4692 fs=12px] 18:27
+[y=4692 fs=12px] · Berlin
+[y=4692 fs=12px] Back to top
+[y=4688 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

@@ -1,0 +1,204 @@
+TITLE: Motion cheatsheet — lab | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/lab/motion-cheatsheet
+HEIGHT: 4713
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=151 fs=12px] ← Lab
+[y=150 fs=12px] /
+[y=150 fs=12px] Resource
+[y=190 fs=12px] Resource
+[y=190 fs=12px] 2023
+[y=190 fs=12px] Framer
+[y=231 fs=89px] Motion cheatsheet
+[y=213 fs=19px] Easing curves you can copy.
+[y=279 fs=13px] Live demo
+[y=279 fs=13px] Source
+[y=1082 fs=12px] Camera report
+[y=1109 fs=12px] Scene
+[y=1109 fs=12px] Resource
+[y=1147 fs=12px] Year
+[y=1147 fs=12px] 2023
+[y=1184 fs=12px] Tools
+[y=1184 fs=12px] Framer
+[y=1066 fs=32px] The idea
+[y=1136 fs=17px] I kept rewriting the same easing curves from memory on every project. So I put the ones I trust on one page.
+[y=1210 fs=17px] Every curve plays on a small card, with the exact values ready to copy for CSS, Framer and Swift.
+[y=1309 fs=32px] How it's built
+[y=1380 fs=17px] A Framer site with one component per curve. The cards are driven by a single data list, so adding a new curve is one line, and the copy button formats it for the tool you pick.
+[y=1438 fs=17px] Twelve curves, each with a use case
+[y=1475 fs=17px] Copy as CSS, Framer Motion or SwiftUI
+[y=1511 fs=17px] Cards replay on hover so you can compare
+[y=1548 fs=17px] Built and hosted in Framer
+[y=1652 fs=16px] export
+[y=1652 fs=16px] const
+[y=1652 fs=16px] curves
+[y=1650 fs=16px] =
+[y=1652 fs=16px] {
+[y=1676 fs=16px] enter
+[y=1676 fs=16px] :
+[y=1676 fs=16px] [
+[y=1676 fs=16px] 0.2
+[y=1676 fs=16px] ,
+[y=1676 fs=16px] 0.8
+[y=1676 fs=16px] ,
+[y=1676 fs=16px] 0.2
+[y=1676 fs=16px] ,
+[y=1676 fs=16px] 1
+[y=1676 fs=16px] ]
+[y=1676 fs=16px] ,
+[y=1700 fs=16px] exit
+[y=1700 fs=16px] :
+[y=1700 fs=16px] [
+[y=1700 fs=16px] 0.4
+[y=1700 fs=16px] ,
+[y=1700 fs=16px] 0
+[y=1700 fs=16px] ,
+[y=1700 fs=16px] 1
+[y=1700 fs=16px] ,
+[y=1700 fs=16px] 1
+[y=1700 fs=16px] ]
+[y=1700 fs=16px] ,
+[y=1724 fs=16px] move
+[y=1724 fs=16px] :
+[y=1724 fs=16px] [
+[y=1724 fs=16px] 0.65
+[y=1724 fs=16px] ,
+[y=1724 fs=16px] 0
+[y=1724 fs=16px] ,
+[y=1724 fs=16px] 0.35
+[y=1724 fs=16px] ,
+[y=1724 fs=16px] 1
+[y=1724 fs=16px] ]
+[y=1724 fs=16px] ,
+[y=1748 fs=16px] spring
+[y=1748 fs=16px] :
+[y=1748 fs=16px] {
+[y=1748 fs=16px] stiffness
+[y=1748 fs=16px] :
+[y=1748 fs=16px] 380
+[y=1748 fs=16px] ,
+[y=1748 fs=16px] damping
+[y=1748 fs=16px] :
+[y=1748 fs=16px] 30
+[y=1748 fs=16px] }
+[y=1748 fs=16px] ,
+[y=1772 fs=16px] }
+[y=1918 fs=32px] What I learned
+[y=1988 fs=17px] Most motion problems are timing problems. The right duration fixes more than the perfect curve.
+[y=2017 fs=17px] Enter slower than you exit
+[y=2054 fs=17px] Name curves after what they do, not their numbers
+[y=2142 fs=24px] A shared cheatsheet ended more design-dev arguments than any spec I wrote.
+[y=2371 fs=52px] More from the lab
+[y=2386 fs=13px] All experiments
+[y=2659 fs=12px] Experiment
+[y=2659 fs=12px] 2026
+[y=2687 fs=22px] Variable type toy
+[y=2659 fs=12px] Side project
+[y=2659 fs=12px] 2025
+[y=2687 fs=22px] UI sound kit
+[y=2659 fs=12px] Experiment
+[y=2659 fs=12px] 2025
+[y=2687 fs=22px] Shader gradients
+[y=2659 fs=12px] Open source
+[y=2659 fs=12px] 2024
+[y=2687 fs=22px] Token sync plugin
+[y=2659 fs=12px] Concept
+[y=2659 fs=12px] 2024
+[y=2687 fs=22px] Film camera app
+[y=2969 fs=12px] FRAME 10 — Contact
+[y=3018 fs=106px] Have a project? Let’s shoot.
+[y=3018 fs=106px] Have
+[y=3018 fs=106px] a
+[y=3018 fs=106px] project?
+[y=3114 fs=106px] Let’s
+[y=3114 fs=106px] shoot.
+[y=3267 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=3368 fs=13px] Start a project
+[y=3368 fs=14px] hello@maravoss.design
+[y=3357 fs=12px] Copy
+[y=3399 fs=12px] Copied
+[y=3084 fs=60.48px] ON AIR
+[y=3196 fs=12px] Studio 1 · Rec
+[y=3268 fs=12px] Booking now for
+[y=3288 fs=24.48px] Available for work · Nov 2026
+[y=3339 fs=12px] Next start dates
+[y=3420 fs=12px] Start
+[y=3437 fs=12px] No.
+[y=3437 fs=12px] 01
+[y=3425 fs=28.8px] Nov 17
+[y=3430 fs=12px] Admit one project
+[y=3494 fs=12px] Start
+[y=3511 fs=12px] No.
+[y=3511 fs=12px] 02
+[y=3499 fs=28.8px] Dec 1
+[y=3503 fs=12px] Admit one project
+[y=3568 fs=12px] Start
+[y=3585 fs=12px] No.
+[y=3585 fs=12px] 03
+[y=3573 fs=28.8px] Jan 12
+[y=3578 fs=12px] Admit one project
+[y=3857 fs=12px] Prod.
+[y=3880 fs=26px] Portfolio 2026
+[y=3933 fs=12px] Scene
+[y=3956 fs=26px] Footer
+[y=3933 fs=12px] Take
+[y=3956 fs=26px] 26
+[y=3933 fs=12px] Roll
+[y=3956 fs=26px] A-09
+[y=4009 fs=12px] Director
+[y=4032 fs=26px] Mara Voss
+[y=4085 fs=12px] Date
+[y=4108 fs=26px] 26.11.26
+[y=4085 fs=12px] Build
+[y=4108 fs=12px] main · 9f3c1a
+[y=3859 fs=64px] That’s a
+[y=3844 fs=64px] wrap.
+[y=3938 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=3983 fs=12px] Write to me
+[y=4011 fs=40px] hello@maravoss.design →
+[y=4293 fs=12px] Work
+[y=4334 fs=18px] Sole
+[y=4339 fs=12px] Brand · Campaign
+[y=4381 fs=18px] Rouge
+[y=4386 fs=12px] Brand · Packaging
+[y=4428 fs=18px] Nord
+[y=4433 fs=12px] Brand · Identity
+[y=4475 fs=18px] Atlas
+[y=4480 fs=12px] Web · Front-end
+[y=4522 fs=18px] Chroma
+[y=4527 fs=12px] Brand · Colour system
+[y=4293 fs=12px] Pages
+[y=4334 fs=18px] About
+[y=4335 fs=17px] →
+[y=4381 fs=18px] Résumé
+[y=4382 fs=17px] →
+[y=4428 fs=18px] Lab
+[y=4429 fs=17px] →
+[y=4475 fs=18px] Writing
+[y=4476 fs=17px] →
+[y=4522 fs=18px] Contact
+[y=4523 fs=17px] →
+[y=4293 fs=12px] Elsewhere
+[y=4334 fs=18px] Dribbble
+[y=4335 fs=17px] ↗
+[y=4381 fs=18px] GitHub
+[y=4382 fs=17px] ↗
+[y=4428 fs=18px] LinkedIn
+[y=4429 fs=17px] ↗
+[y=4475 fs=18px] Read.cv
+[y=4476 fs=17px] ↗
+[y=4655 fs=12px] © 2026 Mara Voss
+[y=4656 fs=12px] Privacy
+[y=4656 fs=12px] Terms
+[y=4655 fs=12px] Local time
+[y=4655 fs=12px] 18:26
+[y=4655 fs=12px] · Berlin
+[y=4655 fs=12px] Back to top
+[y=4651 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

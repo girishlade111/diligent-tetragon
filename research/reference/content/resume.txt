@@ -1,0 +1,190 @@
+TITLE: Résumé — Mara Voss, product designer & developer | CV
+URL: https://diligent-tetragon-837366.framer.app/resume
+HEIGHT: 3964
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=170 fs=12px] FRAME 00 — Résumé
+[y=168 fs=12px] Updated Sep 2026 · A4
+[y=169 fs=13px] Print
+[y=185 fs=13px] Print
+[y=169 fs=13px] Download PDF
+[y=185 fs=13px] Download PDF
+[y=288 fs=12px] Résumé · Mara Voss
+[y=288 fs=12px] Proof 01
+[y=411 fs=81px] Mara Voss
+[y=496 fs=19px] Product designer & developer
+[y=363 fs=12px] Available for work · Nov 2026
+[y=388 fs=12px] hello@maravoss.design
+[y=408 fs=12px] Berlin
+[y=429 fs=12px] maravoss.design
+[y=449 fs=12px] Dribbble
+[y=469 fs=12px] GitHub
+[y=490 fs=12px] LinkedIn
+[y=510 fs=12px] Read.cv
+[y=597 fs=12px] Profile
+[y=630 fs=25px] Product designer and front-end developer with 9 years of shipping web and mobile products. I take work from research and flows to a production-ready design system in React, so the thing that ships is the thing we designed. Based in Berlin, working with teams in Europe and the US.
+[y=800 fs=12px] Experience
+[y=856 fs=12px] 2023 — now
+[y=853 fs=22px] Independent product designer & developer
+[y=910 fs=12px] Mara Voss Studio
+[y=933 fs=16px] Product design and front-end for startups and brands in Europe and the US.
+[y=989 fs=16px] Designed and built 14 product UIs and marketing sites for seed to Series B teams
+[y=1039 fs=16px] Set up Figma-to-React design systems that client teams now run on their own
+[y=1088 fs=16px] Average project from kickoff to launch: 7 weeks
+[y=1156 fs=12px] 2020 — 2023
+[y=1153 fs=22px] Lead product designer
+[y=1184 fs=12px] Loop Bank
+[y=1208 fs=16px] Led design of the mobile app from beta to 1.2M users.
+[y=1239 fs=16px] Took the mobile app from private beta to 1.2M users and a 4.7 App Store rating
+[y=1288 fs=16px] Led a team of four designers and ran weekly critique with engineering
+[y=1338 fs=16px] Cut onboarding drop-off by 38% with a rebuilt identity check flow
+[y=1430 fs=12px] 2018 — 2020
+[y=1427 fs=22px] Design engineer
+[y=1459 fs=12px] Pulse Analytics
+[y=1482 fs=16px] Built the design system in Figma and React.
+[y=1513 fs=16px] Built the Pulse UI kit: 140 React components documented in Storybook
+[y=1562 fs=16px] Shipped the dashboard redesign used by 3,000 companies
+[y=1612 fs=16px] Introduced design tokens shared by web and iOS
+[y=1680 fs=12px] 2016 — 2018
+[y=1677 fs=22px] Designer
+[y=1708 fs=12px] Studio North
+[y=1732 fs=16px] Brand and web projects for cultural clients.
+[y=1762 fs=16px] Brand and web projects for museums, festivals and publishers
+[y=1812 fs=16px] First production front-end work: HTML, CSS and a lot of GSAP
+[y=800 fs=12px] Skills
+[y=831 fs=12px] Design
+[y=855 fs=16px] Product strategy
+[y=886 fs=16px] UX research
+[y=916 fs=16px] Interaction design
+[y=947 fs=16px] Design systems
+[y=978 fs=16px] Prototyping
+[y=1009 fs=16px] Motion design
+[y=831 fs=12px] Code
+[y=855 fs=16px] React & Next.js
+[y=886 fs=16px] TypeScript
+[y=916 fs=16px] CSS & Tailwind
+[y=947 fs=16px] Framer Motion & GSAP
+[y=1003 fs=16px] Accessibility (WCAG 2.2)
+[y=1058 fs=16px] Storybook & testing
+[y=1119 fs=12px] Tools
+[y=1154 fs=12px] Figma
+[y=1154 fs=12px] Framer
+[y=1154 fs=12px] Rive
+[y=1154 fs=12px] VS Code
+[y=1154 fs=12px] Git
+[y=1180 fs=12px] Linear
+[y=1180 fs=12px] Notion
+[y=1233 fs=12px] Education
+[y=1265 fs=12px] 2012 — 2016
+[y=1286 fs=22px] BA Interaction Design
+[y=1316 fs=16px] HfG Schwäbisch Gmünd
+[y=1344 fs=16px] Thesis on motion in interfaces.
+[y=1405 fs=12px] Awards
+[y=1437 fs=12px] 2024
+[y=1458 fs=22px] Site of the Day
+[y=1487 fs=16px] Webcraft Awards
+[y=1516 fs=16px] For the Atlas docs site.
+[y=1577 fs=12px] Languages
+[y=1612 fs=16px] German
+[y=1616 fs=12px] Native
+[y=1663 fs=16px] English
+[y=1667 fs=12px] Fluent
+[y=1714 fs=16px] Spanish
+[y=1718 fs=12px] Conversational
+[y=2221 fs=12px] FRAME 10 — Contact
+[y=2270 fs=106px] Have a project? Let’s shoot.
+[y=2270 fs=106px] Have
+[y=2270 fs=106px] a
+[y=2270 fs=106px] project?
+[y=2365 fs=106px] Let’s
+[y=2365 fs=106px] shoot.
+[y=2519 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=2620 fs=13px] Start a project
+[y=2619 fs=14px] hello@maravoss.design
+[y=2609 fs=12px] Copy
+[y=2651 fs=12px] Copied
+[y=2336 fs=60.48px] ON AIR
+[y=2448 fs=12px] Studio 1 · Rec
+[y=2519 fs=12px] Booking now for
+[y=2539 fs=24.48px] Available for work · Nov 2026
+[y=2590 fs=12px] Next start dates
+[y=2671 fs=12px] Start
+[y=2688 fs=12px] No.
+[y=2688 fs=12px] 01
+[y=2677 fs=28.8px] Nov 17
+[y=2682 fs=12px] Admit one project
+[y=2745 fs=12px] Start
+[y=2762 fs=12px] No.
+[y=2762 fs=12px] 02
+[y=2751 fs=28.8px] Dec 1
+[y=2755 fs=12px] Admit one project
+[y=2819 fs=12px] Start
+[y=2836 fs=12px] No.
+[y=2836 fs=12px] 03
+[y=2825 fs=28.8px] Jan 12
+[y=2829 fs=12px] Admit one project
+[y=3108 fs=12px] Prod.
+[y=3132 fs=26px] Portfolio 2026
+[y=3184 fs=12px] Scene
+[y=3208 fs=26px] Footer
+[y=3184 fs=12px] Take
+[y=3208 fs=26px] 4
+[y=3184 fs=12px] Roll
+[y=3208 fs=26px] A-09
+[y=3260 fs=12px] Director
+[y=3284 fs=26px] Mara Voss
+[y=3336 fs=12px] Date
+[y=3360 fs=26px] 26.11.26
+[y=3336 fs=12px] Build
+[y=3360 fs=12px] main · 9f3c1a
+[y=3110 fs=64px] That’s a
+[y=3095 fs=64px] wrap.
+[y=3189 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=3234 fs=12px] Write to me
+[y=3262 fs=40px] hello@maravoss.design →
+[y=3544 fs=12px] Work
+[y=3586 fs=18px] Sole
+[y=3590 fs=12px] Brand · Campaign
+[y=3633 fs=18px] Rouge
+[y=3637 fs=12px] Brand · Packaging
+[y=3680 fs=18px] Nord
+[y=3684 fs=12px] Brand · Identity
+[y=3727 fs=18px] Atlas
+[y=3731 fs=12px] Web · Front-end
+[y=3774 fs=18px] Chroma
+[y=3778 fs=12px] Brand · Colour system
+[y=3544 fs=12px] Pages
+[y=3586 fs=18px] About
+[y=3586 fs=17px] →
+[y=3633 fs=18px] Résumé
+[y=3633 fs=17px] →
+[y=3680 fs=18px] Lab
+[y=3680 fs=17px] →
+[y=3727 fs=18px] Writing
+[y=3727 fs=17px] →
+[y=3774 fs=18px] Contact
+[y=3774 fs=17px] →
+[y=3544 fs=12px] Elsewhere
+[y=3586 fs=18px] Dribbble
+[y=3586 fs=17px] ↗
+[y=3633 fs=18px] GitHub
+[y=3633 fs=17px] ↗
+[y=3680 fs=18px] LinkedIn
+[y=3680 fs=17px] ↗
+[y=3727 fs=18px] Read.cv
+[y=3727 fs=17px] ↗
+[y=3907 fs=12px] © 2026 Mara Voss
+[y=3908 fs=12px] Privacy
+[y=3908 fs=12px] Terms
+[y=3907 fs=12px] Local time
+[y=3907 fs=12px] 18:23
+[y=3907 fs=12px] · Berlin
+[y=3907 fs=12px] Back to top
+[y=3903 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.

@@ -1,0 +1,209 @@
+TITLE: Lab — experiments and side projects | Mara Voss
+URL: https://diligent-tetragon-837366.framer.app/lab
+HEIGHT: 3962
+
+[y=33 fs=17px] Mara Voss
+[y=33 fs=14px] Work
+[y=33 fs=14px] About
+[y=33 fs=14px] Résumé
+[y=33 fs=14px] Writing
+[y=33 fs=14px] Contact
+[y=33 fs=13px] Hire me
+[y=289 fs=12px] FRAME 08 — Lab
+[y=335 fs=89px] Outtakes
+[y=335 fs=89px] and
+[y=417 fs=89px] experiments
+[y=417 fs=89px] .
+[y=524 fs=18px] Small tools, toys and tests, most of them open source.
+[y=599 fs=13px] Start a project
+[y=599 fs=13px] Download résumé
+[y=373 fs=12px] 3200K
+[y=695 fs=12px] MV 400TX · Int. studio — day
+[y=695 fs=12px] Scroll ↓
+[y=799 fs=12px] ROLL 02 — Every experiment
+[y=792 fs=12px] All
+[y=805 fs=12px] 06
+[y=792 fs=12px] Experiment
+[y=805 fs=12px] 02
+[y=792 fs=12px] Side project
+[y=805 fs=12px] 01
+[y=792 fs=12px] Open source
+[y=805 fs=12px] 01
+[y=792 fs=12px] Concept
+[y=805 fs=12px] 01
+[y=792 fs=12px] Resource
+[y=805 fs=12px] 01
+[y=805 fs=12px] 06 of 06 frames
+[y=930 fs=12px] MV-16
+[y=930 fs=12px] ▸
+[y=930 fs=12px] 01
+[y=930 fs=12px] A
+[y=1241 fs=12px] 01
+[y=1241 fs=12px] A ◂
+[y=1241 fs=12px] 7222
+[y=1284 fs=12px] 01
+[y=1286 fs=12px] Experiment
+[y=1286 fs=12px] 2026
+[y=1312 fs=28.8px] Variable type toy
+[y=1352 fs=16px] Drag to bend a variable font.
+[y=1390 fs=12px] React
+[y=1390 fs=12px] Canvas
+[y=930 fs=12px] MV-16
+[y=930 fs=12px] ▸
+[y=930 fs=12px] 02
+[y=930 fs=12px] A
+[y=1241 fs=12px] 02
+[y=1241 fs=12px] A ◂
+[y=1241 fs=12px] 7222
+[y=1284 fs=12px] 02
+[y=1286 fs=12px] Side project
+[y=1286 fs=12px] 2025
+[y=1312 fs=28.8px] UI sound kit
+[y=1352 fs=16px] 48 tiny sounds for interfaces.
+[y=1390 fs=12px] Web Audio
+[y=930 fs=12px] MV-16
+[y=930 fs=12px] ▸
+[y=930 fs=12px] 03
+[y=930 fs=12px] A
+[y=1241 fs=12px] 03
+[y=1241 fs=12px] A ◂
+[y=1241 fs=12px] 7222
+[y=1284 fs=12px] 03
+[y=1286 fs=12px] Experiment
+[y=1286 fs=12px] 2025
+[y=1312 fs=28.8px] Shader gradients
+[y=1352 fs=16px] Mesh gradients you can paint.
+[y=1390 fs=12px] WebGL
+[y=1390 fs=12px] GLSL
+[y=1473 fs=12px] MV-16
+[y=1473 fs=12px] ▸
+[y=1473 fs=12px] 04
+[y=1473 fs=12px] A
+[y=1783 fs=12px] 04
+[y=1783 fs=12px] A ◂
+[y=1783 fs=12px] 7222
+[y=1826 fs=12px] 04
+[y=1828 fs=12px] Open source
+[y=1828 fs=12px] 2024
+[y=1854 fs=28.8px] Token sync plugin
+[y=1894 fs=16px] Keeps Figma and code tokens in sync.
+[y=1932 fs=12px] Figma API
+[y=1932 fs=12px] TypeScript
+[y=1473 fs=12px] MV-16
+[y=1473 fs=12px] ▸
+[y=1473 fs=12px] 05
+[y=1473 fs=12px] A
+[y=1783 fs=12px] 05
+[y=1783 fs=12px] A ◂
+[y=1783 fs=12px] 7222
+[y=1826 fs=12px] 05
+[y=1828 fs=12px] Concept
+[y=1828 fs=12px] 2024
+[y=1854 fs=28.8px] Film camera app
+[y=1894 fs=16px] A camera that makes you wait.
+[y=1932 fs=12px] SwiftUI
+[y=1932 fs=12px] Figma
+[y=1473 fs=12px] MV-16
+[y=1473 fs=12px] ▸
+[y=1473 fs=12px] 06
+[y=1473 fs=12px] A
+[y=1783 fs=12px] 06
+[y=1783 fs=12px] A ◂
+[y=1783 fs=12px] 7222
+[y=1826 fs=12px] 06
+[y=1828 fs=12px] Resource
+[y=1828 fs=12px] 2023
+[y=1854 fs=28.8px] Motion cheatsheet
+[y=1894 fs=16px] Easing curves you can copy.
+[y=1932 fs=12px] Framer
+[y=2219 fs=12px] FRAME 10 — Contact
+[y=2268 fs=106px] Have a project? Let’s shoot.
+[y=2268 fs=106px] Have
+[y=2268 fs=106px] a
+[y=2268 fs=106px] project?
+[y=2364 fs=106px] Let’s
+[y=2364 fs=106px] shoot.
+[y=2517 fs=18px] Tell me what you are making. I reply within a day with next steps and a rough plan.
+[y=2618 fs=13px] Start a project
+[y=2618 fs=14px] hello@maravoss.design
+[y=2607 fs=12px] Copy
+[y=2649 fs=12px] Copied
+[y=2334 fs=60.48px] ON AIR
+[y=2446 fs=12px] Studio 1 · Rec
+[y=2518 fs=12px] Booking now for
+[y=2538 fs=24.48px] Available for work · Nov 2026
+[y=2589 fs=12px] Next start dates
+[y=2670 fs=12px] Start
+[y=2687 fs=12px] No.
+[y=2687 fs=12px] 01
+[y=2675 fs=28.8px] Nov 17
+[y=2680 fs=12px] Admit one project
+[y=2744 fs=12px] Start
+[y=2761 fs=12px] No.
+[y=2761 fs=12px] 02
+[y=2749 fs=28.8px] Dec 1
+[y=2753 fs=12px] Admit one project
+[y=2818 fs=12px] Start
+[y=2835 fs=12px] No.
+[y=2835 fs=12px] 03
+[y=2823 fs=28.8px] Jan 12
+[y=2828 fs=12px] Admit one project
+[y=3107 fs=12px] Prod.
+[y=3130 fs=26px] Portfolio 2026
+[y=3183 fs=12px] Scene
+[y=3206 fs=26px] Footer
+[y=3183 fs=12px] Take
+[y=3206 fs=26px] 6
+[y=3183 fs=12px] Roll
+[y=3206 fs=26px] A-09
+[y=3259 fs=12px] Director
+[y=3282 fs=26px] Mara Voss
+[y=3335 fs=12px] Date
+[y=3358 fs=26px] 26.11.26
+[y=3335 fs=12px] Build
+[y=3358 fs=12px] main · 9f3c1a
+[y=3109 fs=64px] That’s a
+[y=3094 fs=64px] wrap.
+[y=3187 fs=18px] Thanks for watching to the end. Say hello, I read every message and reply within a day.
+[y=3232 fs=12px] Write to me
+[y=3261 fs=40px] hello@maravoss.design →
+[y=3543 fs=12px] Work
+[y=3584 fs=18px] Sole
+[y=3589 fs=12px] Brand · Campaign
+[y=3631 fs=18px] Rouge
+[y=3636 fs=12px] Brand · Packaging
+[y=3678 fs=18px] Nord
+[y=3683 fs=12px] Brand · Identity
+[y=3725 fs=18px] Atlas
+[y=3730 fs=12px] Web · Front-end
+[y=3772 fs=18px] Chroma
+[y=3777 fs=12px] Brand · Colour system
+[y=3543 fs=12px] Pages
+[y=3584 fs=18px] About
+[y=3585 fs=17px] →
+[y=3631 fs=18px] Résumé
+[y=3632 fs=17px] →
+[y=3678 fs=18px] Lab
+[y=3679 fs=17px] →
+[y=3725 fs=18px] Writing
+[y=3726 fs=17px] →
+[y=3772 fs=18px] Contact
+[y=3773 fs=17px] →
+[y=3543 fs=12px] Elsewhere
+[y=3584 fs=18px] Dribbble
+[y=3585 fs=17px] ↗
+[y=3631 fs=18px] GitHub
+[y=3632 fs=17px] ↗
+[y=3678 fs=18px] LinkedIn
+[y=3679 fs=17px] ↗
+[y=3725 fs=18px] Read.cv
+[y=3726 fs=17px] ↗
+[y=3905 fs=12px] © 2026 Mara Voss
+[y=3906 fs=12px] Privacy
+[y=3906 fs=12px] Terms
+[y=3905 fs=12px] Local time
+[y=3905 fs=12px] 18:23
+[y=3905 fs=12px] · Berlin
+[y=3905 fs=12px] Back to top
+[y=3901 fs=17px] ↑
+[y=861 fs=12px] Create a free website with Framer, the website builder loved by startups, designers and agencies.
