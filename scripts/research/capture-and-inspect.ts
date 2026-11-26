@@ -187,6 +187,12 @@ async function main() {
   const researchDir = path.resolve(process.cwd(), 'research');
   const routesJson = JSON.parse(await fs.readFile(path.join(researchDir, 'manifests', 'routes.json'), 'utf-8'));
   const routes: RouteRecord[] = routesJson.routes.filter((r: RouteRecord) => r.httpStatus === 200);
+  if (!routes.some((r) => r.localPath === '/uses')) {
+    routes.push({ id: 'uses', localPath: '/uses', referenceUrl: `${BASE_URL}/uses`, httpStatus: 200 });
+  }
+  if (!routes.some((r) => r.localPath === '/404')) {
+    routes.push({ id: '404', localPath: '/404', referenceUrl: `${BASE_URL}/404`, httpStatus: 200 });
+  }
 
   const browser = await chromium.launch({ headless: true });
 

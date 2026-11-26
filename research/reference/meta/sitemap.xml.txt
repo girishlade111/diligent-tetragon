@@ -1,0 +1,42 @@
+STATUS: 200
+FINAL_URL: https://diligent-tetragon-837366.framer.app/sitemap.xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://diligent-tetragon-837366.framer.app/</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/work</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/about</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/resume</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/services</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/lab</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/writing</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/uses</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/contact</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/privacy</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/terms</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/404</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/services/product-design</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/services/design-systems</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/services/front-end-development</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/services/brand-and-web</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/lab/variable-type-toy</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/lab/ui-sound-kit</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/lab/shader-gradients</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/lab/figma-token-plugin</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/lab/film-camera-app</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/lab/motion-cheatsheet</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/writing/design-in-the-browser</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/writing/design-system-that-sticks</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/writing/freelance-year-three</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/writing/prototype-in-code</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/writing/motion-that-means-something</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/writing/pricing-design-work</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/work/sole-campaign</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/work/rouge-packaging</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/work/nord-brand-identity</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/work/atlas-dev-platform</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/work/print-colour-system</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/work/type-poster-series</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/work/loop-banking-app</loc></url>
+<url><loc>https://diligent-tetragon-837366.framer.app/work/pulse-dashboard</loc></url>
+</urlset>

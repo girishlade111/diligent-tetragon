@@ -1,0 +1,7 @@
+STATUS: 200
+FINAL_URL: https://diligent-tetragon-837366.framer.app/robots.txt
+
+User-agent: *
+Allow: /
+
+Sitemap: https://diligent-tetragon-837366.framer.app/sitemap.xml
