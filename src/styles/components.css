@@ -2740,6 +2740,10 @@
   letter-spacing: 0.08em;
 }
 
+.mv-dark .mv-case-k {
+  color: rgba(241, 236, 228, 0.82);
+}
+
 /* ==========================================================================
    /work & /work/[slug]
    ========================================================================== */
@@ -4223,6 +4227,33 @@
 .mv-lab-detail {
   background: var(--mv-bone);
   padding-top: 124px;
+}
+
+.mv-lab-detail.mv-dark {
+  background: var(--mv-night);
+  color: var(--mv-bone);
+}
+
+.mv-lab-detail.mv-dark .mv-case-crumb,
+.mv-lab-detail.mv-dark .mv-case-crumb a,
+.mv-lab-detail.mv-dark .mv-lab-meta-top,
+.mv-lab-detail.mv-dark .mv-lab-more-card span {
+  color: rgba(241, 236, 228, 0.82);
+}
+
+.mv-lab-detail.mv-dark .mv-lab-quote,
+.mv-lab-detail.mv-dark .mvli-sandbox {
+  background: #1d1816;
+  color: var(--mv-bone);
+  border-color: rgba(255, 255, 255, 0.16);
+}
+
+.mv-lab-detail.mv-dark .mvli-sandbox-head {
+  color: var(--mv-brass);
+}
+
+.mv-lab-detail.mv-dark .mv-lab-more {
+  border-top-color: rgba(255, 255, 255, 0.14);
 }
 
 .mv-lab-hero {
