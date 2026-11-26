@@ -1,0 +1,34 @@
+{
+  "id": "resume",
+  "localPath": "/resume",
+  "fullPage": {
+    "width": 1440,
+    "height": 3184,
+    "refSize": {
+      "width": 1440,
+      "height": 3964
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 3184
+    },
+    "diffPixels": 1691608,
+    "totalPixels": 4584960,
+    "diffPercent": 36.89
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 121535,
+    "totalPixels": 1296000,
+    "diffPercent": 9.38
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "work__sole-campaign",
+  "localPath": "/work/sole-campaign",
+  "fullPage": {
+    "width": 1440,
+    "height": 6080,
+    "refSize": {
+      "width": 1440,
+      "height": 6403
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 6080
+    },
+    "diffPixels": 3304002,
+    "totalPixels": 8755200,
+    "diffPercent": 37.74
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 840463,
+    "totalPixels": 1296000,
+    "diffPercent": 64.85
+  }
+}

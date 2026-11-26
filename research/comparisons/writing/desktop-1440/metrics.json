@@ -1,0 +1,34 @@
+{
+  "id": "writing",
+  "localPath": "/writing",
+  "fullPage": {
+    "width": 1440,
+    "height": 3742,
+    "refSize": {
+      "width": 1440,
+      "height": 4376
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 3742
+    },
+    "diffPixels": 2102033,
+    "totalPixels": 5388480,
+    "diffPercent": 39.01
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 317433,
+    "totalPixels": 1296000,
+    "diffPercent": 24.49
+  }
+}

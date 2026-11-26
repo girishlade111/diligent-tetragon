@@ -1,0 +1,34 @@
+{
+  "id": "home",
+  "localPath": "/",
+  "fullPage": {
+    "width": 1440,
+    "height": 12604,
+    "refSize": {
+      "width": 1440,
+      "height": 19133
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 12604
+    },
+    "diffPixels": 11606060,
+    "totalPixels": 18149760,
+    "diffPercent": 63.95
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 563147,
+    "totalPixels": 1296000,
+    "diffPercent": 43.45
+  }
+}

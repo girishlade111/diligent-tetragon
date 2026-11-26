@@ -1,0 +1,922 @@
+{
+  "totalRoutes": 34,
+  "totalErrors": 11,
+  "status404": 404,
+  "routes": [
+    {
+      "path": "/",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [
+        "http://localhost:3000/assets/images/extracted/img-028-dunKMZI2kyT07lXHFIEvckbg60.webp",
+        "http://localhost:3000/assets/images/extracted/img-029-4tAaRWdCGFFP6inkIMQvhHVYg.webp",
+        "http://localhost:3000/assets/images/extracted/img-030-VKW79qnYyo2u8EtRfJzLP6uts.webp",
+        "http://localhost:3000/assets/images/extracted/img-031-QEChA2dUSATQtS9xNXPe2Tts.webp",
+        "http://localhost:3000/assets/images/extracted/img-032-G8Lzu2FTtZBjR2kg4UmFJMoCHUc.webp",
+        "http://localhost:3000/assets/images/extracted/img-056-JD3bjmPjRlGATEMpkcwri45Bxdg.webp",
+        "http://localhost:3000/assets/images/extracted/img-057-atXjlwGx5GV7KloSOqPuvH7S7Cw.webp",
+        "http://localhost:3000/assets/images/extracted/img-058-yWReFKzsaMwrYkGZvDJEDKL4.webp",
+        "http://localhost:3000/assets/images/extracted/img-055-NknmqvAs4nc8W7at7d9CwbG0DXI.webp",
+        "http://localhost:3000/assets/images/extracted/img-059-OQ5Ct4PhqbpHPIx3QmbiZE2JrsU.webp",
+        "http://localhost:3000/assets/images/extracted/img-060-fK9KxCaxD3qarScDjSZCTpzcE.webp",
+        "http://localhost:3000/assets/images/extracted/img-096-bznkQafxtHVg5PuXhN9M4pu1V0.webp"
+      ],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 43
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 2
+        }
+      ]
+    },
+    {
+      "path": "/work",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [
+        "http://localhost:3000/assets/images/extracted/img-028-dunKMZI2kyT07lXHFIEvckbg60.webp",
+        "http://localhost:3000/assets/images/extracted/img-029-4tAaRWdCGFFP6inkIMQvhHVYg.webp",
+        "http://localhost:3000/assets/images/extracted/img-030-VKW79qnYyo2u8EtRfJzLP6uts.webp",
+        "http://localhost:3000/assets/images/extracted/img-031-QEChA2dUSATQtS9xNXPe2Tts.webp",
+        "http://localhost:3000/assets/images/extracted/img-032-G8Lzu2FTtZBjR2kg4UmFJMoCHUc.webp"
+      ],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 29
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/about",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [
+        "http://localhost:3000/assets/images/extracted/img-028-dunKMZI2kyT07lXHFIEvckbg60.webp",
+        "http://localhost:3000/assets/images/extracted/img-029-4tAaRWdCGFFP6inkIMQvhHVYg.webp",
+        "http://localhost:3000/assets/images/extracted/img-030-VKW79qnYyo2u8EtRfJzLP6uts.webp",
+        "http://localhost:3000/assets/images/extracted/img-031-QEChA2dUSATQtS9xNXPe2Tts.webp",
+        "http://localhost:3000/assets/images/extracted/img-032-G8Lzu2FTtZBjR2kg4UmFJMoCHUc.webp"
+      ],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 37
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/resume",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 31
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/services",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 35
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/lab",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 10
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/writing",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 25
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/contact",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 23
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/work/sole-campaign",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [
+        "http://localhost:3000/assets/images/extracted/img-035-V6F6MmOz0yYocntSYdagH0c6yk.webp"
+      ],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 31
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/work/rouge-packaging",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [
+        "http://localhost:3000/assets/images/extracted/img-036-0xS7DiKB6Qv3iIrl5djSaB9cfA.webp"
+      ],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 31
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/work/nord-brand-identity",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [
+        "http://localhost:3000/assets/images/extracted/img-037-HCyXSnJj8tsOubkimG9feSzY.webp"
+      ],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 31
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/work/atlas-dev-platform",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [
+        "http://localhost:3000/assets/images/extracted/img-038-ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp"
+      ],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 31
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/work/print-colour-system",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [
+        "http://localhost:3000/assets/images/extracted/img-039-ogU1zLwwfiOf77V1AWCdup1V0.webp"
+      ],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 31
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/work/type-poster-series",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [
+        "http://localhost:3000/assets/images/extracted/img-040-aCXktoLBfWbawiZ7GZnH7tUqE.webp"
+      ],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 31
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/work/loop-banking-app",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [
+        "http://localhost:3000/assets/images/extracted/img-041-VJUprwfcrDZhu5hrAX7RykPiVU.webp"
+      ],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 31
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        },
+        {
+          "id": "scrollable-region-focusable",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/work/pulse-dashboard",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [
+        "http://localhost:3000/assets/images/extracted/img-034-RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp"
+      ],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 31
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/services/product-design",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 20
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/services/design-systems",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 20
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/services/front-end-development",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 20
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/services/brand-and-web",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 20
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/lab/variable-type-toy",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 23
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/lab/ui-sound-kit",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 23
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/lab/shader-gradients",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 23
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/lab/figma-token-plugin",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 23
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/lab/film-camera-app",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 23
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/lab/motion-cheatsheet",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 23
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/writing/design-in-the-browser",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 16
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/writing/design-system-that-sticks",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 16
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/writing/freelance-year-three",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 16
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/writing/prototype-in-code",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 16
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/writing/motion-that-means-something",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 16
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/writing/pricing-design-work",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "aria-allowed-role",
+          "impact": "minor",
+          "nodes": 3
+        },
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 16
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/privacy",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 6
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    },
+    {
+      "path": "/terms",
+      "status": 200,
+      "consoleErrors": [],
+      "failedAssets": [],
+      "brokenImgs": [],
+      "overflowDesktop": false,
+      "overflowMobile": false,
+      "axeViolations": [
+        {
+          "id": "color-contrast",
+          "impact": "serious",
+          "nodes": 6
+        },
+        {
+          "id": "label-content-name-mismatch",
+          "impact": "serious",
+          "nodes": 1
+        }
+      ]
+    }
+  ]
+}

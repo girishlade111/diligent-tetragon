@@ -1,0 +1,34 @@
+{
+  "id": "lab",
+  "localPath": "/lab",
+  "fullPage": {
+    "width": 1440,
+    "height": 3324,
+    "refSize": {
+      "width": 1440,
+      "height": 3962
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 3324
+    },
+    "diffPixels": 2765741,
+    "totalPixels": 4786560,
+    "diffPercent": 57.78
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 458420,
+    "totalPixels": 1296000,
+    "diffPercent": 35.37
+  }
+}

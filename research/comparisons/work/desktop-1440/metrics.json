@@ -1,0 +1,34 @@
+{
+  "id": "work",
+  "localPath": "/work",
+  "fullPage": {
+    "width": 1440,
+    "height": 6225,
+    "refSize": {
+      "width": 1440,
+      "height": 7365
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 6225
+    },
+    "diffPixels": 5956619,
+    "totalPixels": 8964000,
+    "diffPercent": 66.45
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 366010,
+    "totalPixels": 1296000,
+    "diffPercent": 28.24
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "about",
+  "localPath": "/about",
+  "fullPage": {
+    "width": 1440,
+    "height": 8416,
+    "refSize": {
+      "width": 1440,
+      "height": 11438
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 8416
+    },
+    "diffPixels": 6747835,
+    "totalPixels": 12119040,
+    "diffPercent": 55.68
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 204511,
+    "totalPixels": 1296000,
+    "diffPercent": 15.78
+  }
+}
