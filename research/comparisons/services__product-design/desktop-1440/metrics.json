@@ -12,7 +12,7 @@
       "width": 1440,
       "height": 4215
     },
-    "diffPixels": 2327832,
+    "diffPixels": 2327859,
     "totalPixels": 6069600,
     "diffPercent": 38.35
   },
@@ -27,8 +27,8 @@
       "width": 1440,
       "height": 900
     },
-    "diffPixels": 395470,
+    "diffPixels": 395497,
     "totalPixels": 1296000,
-    "diffPercent": 30.51
+    "diffPercent": 30.52
   }
 }
