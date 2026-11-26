@@ -1,0 +1,1158 @@
+[
+  {
+    "id": "home",
+    "localPath": "/",
+    "fullPage": {
+      "width": 1440,
+      "height": 12604,
+      "refSize": {
+        "width": 1440,
+        "height": 19133
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 12604
+      },
+      "diffPixels": 11606060,
+      "totalPixels": 18149760,
+      "diffPercent": 63.95
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 563147,
+      "totalPixels": 1296000,
+      "diffPercent": 43.45
+    }
+  },
+  {
+    "id": "work",
+    "localPath": "/work",
+    "fullPage": {
+      "width": 1440,
+      "height": 6225,
+      "refSize": {
+        "width": 1440,
+        "height": 7365
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 6225
+      },
+      "diffPixels": 5956619,
+      "totalPixels": 8964000,
+      "diffPercent": 66.45
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 366010,
+      "totalPixels": 1296000,
+      "diffPercent": 28.24
+    }
+  },
+  {
+    "id": "about",
+    "localPath": "/about",
+    "fullPage": {
+      "width": 1440,
+      "height": 8416,
+      "refSize": {
+        "width": 1440,
+        "height": 11438
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 8416
+      },
+      "diffPixels": 6747835,
+      "totalPixels": 12119040,
+      "diffPercent": 55.68
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 204511,
+      "totalPixels": 1296000,
+      "diffPercent": 15.78
+    }
+  },
+  {
+    "id": "resume",
+    "localPath": "/resume",
+    "fullPage": {
+      "width": 1440,
+      "height": 3184,
+      "refSize": {
+        "width": 1440,
+        "height": 3964
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 3184
+      },
+      "diffPixels": 1691608,
+      "totalPixels": 4584960,
+      "diffPercent": 36.89
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 121535,
+      "totalPixels": 1296000,
+      "diffPercent": 9.38
+    }
+  },
+  {
+    "id": "services",
+    "localPath": "/services",
+    "fullPage": {
+      "width": 1440,
+      "height": 5203,
+      "refSize": {
+        "width": 1440,
+        "height": 6112
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 5203
+      },
+      "diffPixels": 4859443,
+      "totalPixels": 7492320,
+      "diffPercent": 64.86
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 833238,
+      "totalPixels": 1296000,
+      "diffPercent": 64.29
+    }
+  },
+  {
+    "id": "lab",
+    "localPath": "/lab",
+    "fullPage": {
+      "width": 1440,
+      "height": 3324,
+      "refSize": {
+        "width": 1440,
+        "height": 3962
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 3324
+      },
+      "diffPixels": 2765741,
+      "totalPixels": 4786560,
+      "diffPercent": 57.78
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 458420,
+      "totalPixels": 1296000,
+      "diffPercent": 35.37
+    }
+  },
+  {
+    "id": "writing",
+    "localPath": "/writing",
+    "fullPage": {
+      "width": 1440,
+      "height": 3742,
+      "refSize": {
+        "width": 1440,
+        "height": 4376
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 3742
+      },
+      "diffPixels": 2102033,
+      "totalPixels": 5388480,
+      "diffPercent": 39.01
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 317433,
+      "totalPixels": 1296000,
+      "diffPercent": 24.49
+    }
+  },
+  {
+    "id": "contact",
+    "localPath": "/contact",
+    "fullPage": {
+      "width": 1440,
+      "height": 2322,
+      "refSize": {
+        "width": 1440,
+        "height": 2597
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 2322
+      },
+      "diffPixels": 536943,
+      "totalPixels": 3343680,
+      "diffPercent": 16.06
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 171896,
+      "totalPixels": 1296000,
+      "diffPercent": 13.26
+    }
+  },
+  {
+    "id": "work__sole-campaign",
+    "localPath": "/work/sole-campaign",
+    "fullPage": {
+      "width": 1440,
+      "height": 6080,
+      "refSize": {
+        "width": 1440,
+        "height": 6403
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 6080
+      },
+      "diffPixels": 3304002,
+      "totalPixels": 8755200,
+      "diffPercent": 37.74
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 840463,
+      "totalPixels": 1296000,
+      "diffPercent": 64.85
+    }
+  },
+  {
+    "id": "work__rouge-packaging",
+    "localPath": "/work/rouge-packaging",
+    "fullPage": {
+      "width": 1440,
+      "height": 6098,
+      "refSize": {
+        "width": 1440,
+        "height": 6530
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 6098
+      },
+      "diffPixels": 3180118,
+      "totalPixels": 8781120,
+      "diffPercent": 36.22
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 687453,
+      "totalPixels": 1296000,
+      "diffPercent": 53.04
+    }
+  },
+  {
+    "id": "work__nord-brand-identity",
+    "localPath": "/work/nord-brand-identity",
+    "fullPage": {
+      "width": 1440,
+      "height": 6071,
+      "refSize": {
+        "width": 1440,
+        "height": 6530
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 6071
+      },
+      "diffPixels": 3227584,
+      "totalPixels": 8742240,
+      "diffPercent": 36.92
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 747722,
+      "totalPixels": 1296000,
+      "diffPercent": 57.69
+    }
+  },
+  {
+    "id": "work__atlas-dev-platform",
+    "localPath": "/work/atlas-dev-platform",
+    "fullPage": {
+      "width": 1440,
+      "height": 6060,
+      "refSize": {
+        "width": 1440,
+        "height": 6410
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 6060
+      },
+      "diffPixels": 3312362,
+      "totalPixels": 8726400,
+      "diffPercent": 37.96
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 794142,
+      "totalPixels": 1296000,
+      "diffPercent": 61.28
+    }
+  },
+  {
+    "id": "work__print-colour-system",
+    "localPath": "/work/print-colour-system",
+    "fullPage": {
+      "width": 1440,
+      "height": 6052,
+      "refSize": {
+        "width": 1440,
+        "height": 6468
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 6052
+      },
+      "diffPixels": 3453827,
+      "totalPixels": 8714880,
+      "diffPercent": 39.63
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 844303,
+      "totalPixels": 1296000,
+      "diffPercent": 65.15
+    }
+  },
+  {
+    "id": "work__type-poster-series",
+    "localPath": "/work/type-poster-series",
+    "fullPage": {
+      "width": 1440,
+      "height": 5981,
+      "refSize": {
+        "width": 1440,
+        "height": 6427
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 5981
+      },
+      "diffPixels": 3202058,
+      "totalPixels": 8612640,
+      "diffPercent": 37.18
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 815316,
+      "totalPixels": 1296000,
+      "diffPercent": 62.91
+    }
+  },
+  {
+    "id": "work__loop-banking-app",
+    "localPath": "/work/loop-banking-app",
+    "fullPage": {
+      "width": 1440,
+      "height": 6005,
+      "refSize": {
+        "width": 1440,
+        "height": 6427
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 6005
+      },
+      "diffPixels": 3249284,
+      "totalPixels": 8647200,
+      "diffPercent": 37.58
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 847346,
+      "totalPixels": 1296000,
+      "diffPercent": 65.38
+    }
+  },
+  {
+    "id": "work__pulse-dashboard",
+    "localPath": "/work/pulse-dashboard",
+    "fullPage": {
+      "width": 1440,
+      "height": 6025,
+      "refSize": {
+        "width": 1440,
+        "height": 6468
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 6025
+      },
+      "diffPixels": 3266424,
+      "totalPixels": 8676000,
+      "diffPercent": 37.65
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 845390,
+      "totalPixels": 1296000,
+      "diffPercent": 65.23
+    }
+  },
+  {
+    "id": "services__product-design",
+    "localPath": "/services/product-design",
+    "fullPage": {
+      "width": 1440,
+      "height": 4215,
+      "refSize": {
+        "width": 1440,
+        "height": 4628
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4215
+      },
+      "diffPixels": 2327314,
+      "totalPixels": 6069600,
+      "diffPercent": 38.34
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 395471,
+      "totalPixels": 1296000,
+      "diffPercent": 30.51
+    }
+  },
+  {
+    "id": "services__design-systems",
+    "localPath": "/services/design-systems",
+    "fullPage": {
+      "width": 1440,
+      "height": 4191,
+      "refSize": {
+        "width": 1440,
+        "height": 4603
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4191
+      },
+      "diffPixels": 2319645,
+      "totalPixels": 6035040,
+      "diffPercent": 38.44
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 354374,
+      "totalPixels": 1296000,
+      "diffPercent": 27.34
+    }
+  },
+  {
+    "id": "services__front-end-development",
+    "localPath": "/services/front-end-development",
+    "fullPage": {
+      "width": 1440,
+      "height": 4191,
+      "refSize": {
+        "width": 1440,
+        "height": 4628
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4191
+      },
+      "diffPixels": 2360535,
+      "totalPixels": 6035040,
+      "diffPercent": 39.11
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 365871,
+      "totalPixels": 1296000,
+      "diffPercent": 28.23
+    }
+  },
+  {
+    "id": "services__brand-and-web",
+    "localPath": "/services/brand-and-web",
+    "fullPage": {
+      "width": 1440,
+      "height": 4191,
+      "refSize": {
+        "width": 1440,
+        "height": 4603
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4191
+      },
+      "diffPixels": 2279657,
+      "totalPixels": 6035040,
+      "diffPercent": 37.77
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 315370,
+      "totalPixels": 1296000,
+      "diffPercent": 24.33
+    }
+  },
+  {
+    "id": "lab__variable-type-toy",
+    "localPath": "/lab/variable-type-toy",
+    "fullPage": {
+      "width": 1440,
+      "height": 4495,
+      "refSize": {
+        "width": 1440,
+        "height": 4777
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4495
+      },
+      "diffPixels": 3662158,
+      "totalPixels": 6472800,
+      "diffPercent": 56.58
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 797418,
+      "totalPixels": 1296000,
+      "diffPercent": 61.53
+    }
+  },
+  {
+    "id": "lab__ui-sound-kit",
+    "localPath": "/lab/ui-sound-kit",
+    "fullPage": {
+      "width": 1440,
+      "height": 4401,
+      "refSize": {
+        "width": 1440,
+        "height": 4753
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4401
+      },
+      "diffPixels": 3712549,
+      "totalPixels": 6337440,
+      "diffPercent": 58.58
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 770769,
+      "totalPixels": 1296000,
+      "diffPercent": 59.47
+    }
+  },
+  {
+    "id": "lab__shader-gradients",
+    "localPath": "/lab/shader-gradients",
+    "fullPage": {
+      "width": 1440,
+      "height": 4619,
+      "refSize": {
+        "width": 1440,
+        "height": 4758
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4619
+      },
+      "diffPixels": 3408921,
+      "totalPixels": 6651360,
+      "diffPercent": 51.25
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 535574,
+      "totalPixels": 1296000,
+      "diffPercent": 41.33
+    }
+  },
+  {
+    "id": "lab__figma-token-plugin",
+    "localPath": "/lab/figma-token-plugin",
+    "fullPage": {
+      "width": 1440,
+      "height": 4367,
+      "refSize": {
+        "width": 1440,
+        "height": 4770
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4367
+      },
+      "diffPixels": 3796808,
+      "totalPixels": 6288480,
+      "diffPercent": 60.38
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 822303,
+      "totalPixels": 1296000,
+      "diffPercent": 63.45
+    }
+  },
+  {
+    "id": "lab__film-camera-app",
+    "localPath": "/lab/film-camera-app",
+    "fullPage": {
+      "width": 1440,
+      "height": 4380,
+      "refSize": {
+        "width": 1440,
+        "height": 4761
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4380
+      },
+      "diffPixels": 3808790,
+      "totalPixels": 6307200,
+      "diffPercent": 60.39
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 762717,
+      "totalPixels": 1296000,
+      "diffPercent": 58.85
+    }
+  },
+  {
+    "id": "lab__motion-cheatsheet",
+    "localPath": "/lab/motion-cheatsheet",
+    "fullPage": {
+      "width": 1440,
+      "height": 4362,
+      "refSize": {
+        "width": 1440,
+        "height": 4713
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4362
+      },
+      "diffPixels": 3622365,
+      "totalPixels": 6281280,
+      "diffPercent": 57.67
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 716541,
+      "totalPixels": 1296000,
+      "diffPercent": 55.29
+    }
+  },
+  {
+    "id": "writing__design-in-the-browser",
+    "localPath": "/writing/design-in-the-browser",
+    "fullPage": {
+      "width": 1440,
+      "height": 4150,
+      "refSize": {
+        "width": 1440,
+        "height": 4756
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4150
+      },
+      "diffPixels": 2061845,
+      "totalPixels": 5976000,
+      "diffPercent": 34.5
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 474656,
+      "totalPixels": 1296000,
+      "diffPercent": 36.62
+    }
+  },
+  {
+    "id": "writing__design-system-that-sticks",
+    "localPath": "/writing/design-system-that-sticks",
+    "fullPage": {
+      "width": 1440,
+      "height": 4150,
+      "refSize": {
+        "width": 1440,
+        "height": 4719
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4150
+      },
+      "diffPixels": 1807146,
+      "totalPixels": 5976000,
+      "diffPercent": 30.24
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 315773,
+      "totalPixels": 1296000,
+      "diffPercent": 24.37
+    }
+  },
+  {
+    "id": "writing__freelance-year-three",
+    "localPath": "/writing/freelance-year-three",
+    "fullPage": {
+      "width": 1440,
+      "height": 4054,
+      "refSize": {
+        "width": 1440,
+        "height": 4726
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4054
+      },
+      "diffPixels": 2090167,
+      "totalPixels": 5837760,
+      "diffPercent": 35.8
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 427881,
+      "totalPixels": 1296000,
+      "diffPercent": 33.02
+    }
+  },
+  {
+    "id": "writing__prototype-in-code",
+    "localPath": "/writing/prototype-in-code",
+    "fullPage": {
+      "width": 1440,
+      "height": 4038,
+      "refSize": {
+        "width": 1440,
+        "height": 4726
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4038
+      },
+      "diffPixels": 2005129,
+      "totalPixels": 5814720,
+      "diffPercent": 34.48
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 351547,
+      "totalPixels": 1296000,
+      "diffPercent": 27.13
+    }
+  },
+  {
+    "id": "writing__motion-that-means-something",
+    "localPath": "/writing/motion-that-means-something",
+    "fullPage": {
+      "width": 1440,
+      "height": 4016,
+      "refSize": {
+        "width": 1440,
+        "height": 4688
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4016
+      },
+      "diffPixels": 1995729,
+      "totalPixels": 5783040,
+      "diffPercent": 34.51
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 380402,
+      "totalPixels": 1296000,
+      "diffPercent": 29.35
+    }
+  },
+  {
+    "id": "writing__pricing-design-work",
+    "localPath": "/writing/pricing-design-work",
+    "fullPage": {
+      "width": 1440,
+      "height": 4139,
+      "refSize": {
+        "width": 1440,
+        "height": 4749
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 4139
+      },
+      "diffPixels": 2073181,
+      "totalPixels": 5960160,
+      "diffPercent": 34.78
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 480474,
+      "totalPixels": 1296000,
+      "diffPercent": 37.07
+    }
+  },
+  {
+    "id": "privacy",
+    "localPath": "/privacy",
+    "fullPage": {
+      "width": 1440,
+      "height": 3671,
+      "refSize": {
+        "width": 1440,
+        "height": 4414
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 3671
+      },
+      "diffPixels": 914230,
+      "totalPixels": 5286240,
+      "diffPercent": 17.29
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 85719,
+      "totalPixels": 1296000,
+      "diffPercent": 6.61
+    }
+  },
+  {
+    "id": "terms",
+    "localPath": "/terms",
+    "fullPage": {
+      "width": 1440,
+      "height": 3664,
+      "refSize": {
+        "width": 1440,
+        "height": 4479
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 3664
+      },
+      "diffPixels": 1023607,
+      "totalPixels": 5276160,
+      "diffPercent": 19.4
+    },
+    "aboveFold": {
+      "width": 1440,
+      "height": 900,
+      "refSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "implSize": {
+        "width": 1440,
+        "height": 900
+      },
+      "diffPixels": 88206,
+      "totalPixels": 1296000,
+      "diffPercent": 6.81
+    }
+  }
+]

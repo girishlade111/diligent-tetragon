@@ -1,0 +1,34 @@
+{
+  "id": "writing__pricing-design-work",
+  "localPath": "/writing/pricing-design-work",
+  "fullPage": {
+    "width": 1440,
+    "height": 4139,
+    "refSize": {
+      "width": 1440,
+      "height": 4749
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 4139
+    },
+    "diffPixels": 2073181,
+    "totalPixels": 5960160,
+    "diffPercent": 34.78
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 480474,
+    "totalPixels": 1296000,
+    "diffPercent": 37.07
+  }
+}

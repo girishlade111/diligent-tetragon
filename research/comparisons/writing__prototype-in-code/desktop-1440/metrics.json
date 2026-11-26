@@ -1,0 +1,34 @@
+{
+  "id": "writing__prototype-in-code",
+  "localPath": "/writing/prototype-in-code",
+  "fullPage": {
+    "width": 1440,
+    "height": 4038,
+    "refSize": {
+      "width": 1440,
+      "height": 4726
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 4038
+    },
+    "diffPixels": 2005129,
+    "totalPixels": 5814720,
+    "diffPercent": 34.48
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 351547,
+    "totalPixels": 1296000,
+    "diffPercent": 27.13
+  }
+}
