@@ -3,18 +3,18 @@
   "localPath": "/services",
   "fullPage": {
     "width": 1440,
-    "height": 5203,
+    "height": 5210,
     "refSize": {
       "width": 1440,
       "height": 6112
     },
     "implSize": {
       "width": 1440,
-      "height": 5203
+      "height": 5210
     },
-    "diffPixels": 4859443,
-    "totalPixels": 7492320,
-    "diffPercent": 64.86
+    "diffPixels": 4379101,
+    "totalPixels": 7502400,
+    "diffPercent": 58.37
   },
   "aboveFold": {
     "width": 1440,
@@ -27,8 +27,8 @@
       "width": 1440,
       "height": 900
     },
-    "diffPixels": 833238,
+    "diffPixels": 376987,
     "totalPixels": 1296000,
-    "diffPercent": 64.29
+    "diffPercent": 29.09
   }
 }

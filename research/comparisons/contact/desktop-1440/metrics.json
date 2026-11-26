@@ -3,18 +3,18 @@
   "localPath": "/contact",
   "fullPage": {
     "width": 1440,
-    "height": 2322,
+    "height": 2328,
     "refSize": {
       "width": 1440,
       "height": 2597
     },
     "implSize": {
       "width": 1440,
-      "height": 2322
+      "height": 2328
     },
-    "diffPixels": 536943,
-    "totalPixels": 3343680,
-    "diffPercent": 16.06
+    "diffPixels": 542708,
+    "totalPixels": 3352320,
+    "diffPercent": 16.19
   },
   "aboveFold": {
     "width": 1440,
@@ -27,8 +27,8 @@
       "width": 1440,
       "height": 900
     },
-    "diffPixels": 171896,
+    "diffPixels": 184881,
     "totalPixels": 1296000,
-    "diffPercent": 13.26
+    "diffPercent": 14.27
   }
 }
