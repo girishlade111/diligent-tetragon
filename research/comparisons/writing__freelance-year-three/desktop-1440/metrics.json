@@ -1,0 +1,34 @@
+{
+  "id": "writing__freelance-year-three",
+  "localPath": "/writing/freelance-year-three",
+  "fullPage": {
+    "width": 1440,
+    "height": 4054,
+    "refSize": {
+      "width": 1440,
+      "height": 4726
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 4054
+    },
+    "diffPixels": 2090167,
+    "totalPixels": 5837760,
+    "diffPercent": 35.8
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 427881,
+    "totalPixels": 1296000,
+    "diffPercent": 33.02
+  }
+}

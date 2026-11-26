@@ -1,0 +1,34 @@
+{
+  "id": "writing__design-in-the-browser",
+  "localPath": "/writing/design-in-the-browser",
+  "fullPage": {
+    "width": 1440,
+    "height": 4150,
+    "refSize": {
+      "width": 1440,
+      "height": 4756
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 4150
+    },
+    "diffPixels": 2061845,
+    "totalPixels": 5976000,
+    "diffPercent": 34.5
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 474656,
+    "totalPixels": 1296000,
+    "diffPercent": 36.62
+  }
+}

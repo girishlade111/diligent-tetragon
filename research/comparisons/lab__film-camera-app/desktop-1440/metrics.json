@@ -1,0 +1,34 @@
+{
+  "id": "lab__film-camera-app",
+  "localPath": "/lab/film-camera-app",
+  "fullPage": {
+    "width": 1440,
+    "height": 4380,
+    "refSize": {
+      "width": 1440,
+      "height": 4761
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 4380
+    },
+    "diffPixels": 3808790,
+    "totalPixels": 6307200,
+    "diffPercent": 60.39
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 762717,
+    "totalPixels": 1296000,
+    "diffPercent": 58.85
+  }
+}

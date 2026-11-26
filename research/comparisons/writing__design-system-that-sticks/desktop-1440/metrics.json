@@ -1,0 +1,34 @@
+{
+  "id": "writing__design-system-that-sticks",
+  "localPath": "/writing/design-system-that-sticks",
+  "fullPage": {
+    "width": 1440,
+    "height": 4150,
+    "refSize": {
+      "width": 1440,
+      "height": 4719
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 4150
+    },
+    "diffPixels": 1807146,
+    "totalPixels": 5976000,
+    "diffPercent": 30.24
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 315773,
+    "totalPixels": 1296000,
+    "diffPercent": 24.37
+  }
+}

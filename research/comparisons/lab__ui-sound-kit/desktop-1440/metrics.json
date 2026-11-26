@@ -1,0 +1,34 @@
+{
+  "id": "lab__ui-sound-kit",
+  "localPath": "/lab/ui-sound-kit",
+  "fullPage": {
+    "width": 1440,
+    "height": 4401,
+    "refSize": {
+      "width": 1440,
+      "height": 4753
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 4401
+    },
+    "diffPixels": 3712549,
+    "totalPixels": 6337440,
+    "diffPercent": 58.58
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 770769,
+    "totalPixels": 1296000,
+    "diffPercent": 59.47
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "lab__variable-type-toy",
+  "localPath": "/lab/variable-type-toy",
+  "fullPage": {
+    "width": 1440,
+    "height": 4495,
+    "refSize": {
+      "width": 1440,
+      "height": 4777
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 4495
+    },
+    "diffPixels": 3662158,
+    "totalPixels": 6472800,
+    "diffPercent": 56.58
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 797418,
+    "totalPixels": 1296000,
+    "diffPercent": 61.53
+  }
+}

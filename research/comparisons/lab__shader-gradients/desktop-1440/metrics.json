@@ -1,0 +1,34 @@
+{
+  "id": "lab__shader-gradients",
+  "localPath": "/lab/shader-gradients",
+  "fullPage": {
+    "width": 1440,
+    "height": 4619,
+    "refSize": {
+      "width": 1440,
+      "height": 4758
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 4619
+    },
+    "diffPixels": 3408921,
+    "totalPixels": 6651360,
+    "diffPercent": 51.25
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 535574,
+    "totalPixels": 1296000,
+    "diffPercent": 41.33
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "lab__figma-token-plugin",
+  "localPath": "/lab/figma-token-plugin",
+  "fullPage": {
+    "width": 1440,
+    "height": 4367,
+    "refSize": {
+      "width": 1440,
+      "height": 4770
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 4367
+    },
+    "diffPixels": 3796808,
+    "totalPixels": 6288480,
+    "diffPercent": 60.38
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 822303,
+    "totalPixels": 1296000,
+    "diffPercent": 63.45
+  }
+}

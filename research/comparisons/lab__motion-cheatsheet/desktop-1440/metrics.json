@@ -1,0 +1,34 @@
+{
+  "id": "lab__motion-cheatsheet",
+  "localPath": "/lab/motion-cheatsheet",
+  "fullPage": {
+    "width": 1440,
+    "height": 4362,
+    "refSize": {
+      "width": 1440,
+      "height": 4713
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 4362
+    },
+    "diffPixels": 3622365,
+    "totalPixels": 6281280,
+    "diffPercent": 57.67
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 716541,
+    "totalPixels": 1296000,
+    "diffPercent": 55.29
+  }
+}
