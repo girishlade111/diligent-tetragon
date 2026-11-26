@@ -1,0 +1,44 @@
+{
+  "name": "diligent-tetragon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mara Voss — Product Designer & Developer Portfolio reconstruction",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "research:discover": "tsx scripts/research/discover-routes.ts",
+    "research:capture": "tsx scripts/research/capture-reference.ts",
+    "research:extract": "tsx scripts/research/extract-dom-styles.ts",
+    "research:assets": "tsx scripts/extraction/download-assets.ts",
+    "test:visual": "tsx scripts/testing/compare-screenshots.ts",
+    "test:routes": "tsx scripts/testing/check-routes.ts",
+    "test:a11y": "tsx scripts/testing/check-a11y.ts"
+  },
+  "dependencies": {
+    "next": "^15.3.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.10.1",
+    "@types/node": "^22.14.0",
+    "@types/pngjs": "^6.0.5",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.22.0",
+    "eslint-config-next": "^15.3.0",
+    "pixelmatch": "^6.0.0",
+    "playwright": "^1.51.0",
+    "pngjs": "^7.0.0",
+    "sharp": "^0.33.5",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2",
+    "vitest": "^3.0.9"
+  }
+}
