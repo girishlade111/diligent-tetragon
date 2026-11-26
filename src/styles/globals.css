@@ -292,12 +292,14 @@ select {
   inset: 0;
   background: var(--fill);
   border-radius: inherit;
+  opacity: 0;
   clip-path: inset(0 100% 0 0);
-  transition: clip-path 0.55s var(--ease-curtain);
+  transition: clip-path 0.55s var(--ease-curtain), opacity 0.2s ease;
 }
 
 .mv-btn:hover .mv-fill,
 .mv-btn:focus-visible .mv-fill {
+  opacity: 1;
   clip-path: inset(0 0 0 0);
 }
 

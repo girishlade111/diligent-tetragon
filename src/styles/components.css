@@ -73,13 +73,13 @@
   padding: 4px;
   border-radius: 10px;
   backdrop-filter: blur(14px);
-  background: rgba(255, 255, 255, 0.42);
-  border: 1px solid rgba(20, 18, 16, 0.12);
+  background: rgba(241, 236, 228, 0.88);
+  border: 1px solid rgba(20, 18, 16, 0.14);
 }
 
 .is-dark-route .mv-nav-pill {
-  background: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.14);
+  background: rgba(23, 19, 17, 0.88);
+  border-color: rgba(255, 255, 255, 0.16);
 }
 
 .mv-nav-link {

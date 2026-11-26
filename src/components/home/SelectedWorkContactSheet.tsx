@@ -137,7 +137,7 @@ export function SelectedWorkContactSheet() {
               type="button"
               onClick={() => setLightboxOpen(true)}
               className="mvwk-pi-btn"
-              aria-label={`Enlarge frame for ${activeProject.title}`}
+              title={`Enlarge frame for ${activeProject.title}`}
             >
               <span className="mvwk-pi is-cur">
                 <img
@@ -147,9 +147,7 @@ export function SelectedWorkContactSheet() {
                   width={960}
                   height={600}
                 />
-                <span className="mvwk-lp" aria-hidden="true">
-                  Loupe · Click to enlarge
-                </span>
+                <span className="mvwk-lp">Loupe · Click to enlarge</span>
               </span>
             </button>
 
