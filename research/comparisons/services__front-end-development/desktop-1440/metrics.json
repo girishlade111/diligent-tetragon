@@ -12,9 +12,9 @@
       "width": 1440,
       "height": 4191
     },
-    "diffPixels": 2360535,
+    "diffPixels": 2360783,
     "totalPixels": 6035040,
-    "diffPercent": 39.11
+    "diffPercent": 39.12
   },
   "aboveFold": {
     "width": 1440,
@@ -27,7 +27,7 @@
       "width": 1440,
       "height": 900
     },
-    "diffPixels": 365871,
+    "diffPixels": 365873,
     "totalPixels": 1296000,
     "diffPercent": 28.23
   }
