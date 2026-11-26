@@ -1,0 +1,34 @@
+{
+  "id": "work__loop-banking-app",
+  "localPath": "/work/loop-banking-app",
+  "fullPage": {
+    "width": 1440,
+    "height": 6005,
+    "refSize": {
+      "width": 1440,
+      "height": 6427
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 6005
+    },
+    "diffPixels": 3249284,
+    "totalPixels": 8647200,
+    "diffPercent": 37.58
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 847346,
+    "totalPixels": 1296000,
+    "diffPercent": 65.38
+  }
+}
