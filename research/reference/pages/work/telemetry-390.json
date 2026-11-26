@@ -1,0 +1,5006 @@
+{
+  "url": "https://diligent-tetragon-837366.framer.app/work",
+  "title": "Work — case studies in product design, brand and front-end | Mara Voss, designer portfolio",
+  "scrollHeight": 10031,
+  "scrollWidth": 390,
+  "viewportWidth": 390,
+  "viewportHeight": 844,
+  "fonts": [
+    {
+      "family": "Mona Sans",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Mona Sans",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Mona Sans",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "500",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "500",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Fragment Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Fragment Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Fragment Mono",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Mona Sans Variable",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Mona Sans Placeholder",
+      "weight": "normal",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Mona Sans Variable Placeholder",
+      "weight": "normal",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter Placeholder",
+      "weight": "normal",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "300 600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "300 600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "300 600",
+      "style": "italic",
+      "status": "loaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "300 600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "300 600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "300 600",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Mona Sans",
+      "weight": "200 900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Mona Sans",
+      "weight": "200 900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Mona Sans",
+      "weight": "200 900",
+      "style": "italic",
+      "status": "loaded"
+    },
+    {
+      "family": "Mona Sans",
+      "weight": "200 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Mona Sans",
+      "weight": "200 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Mona Sans",
+      "weight": "200 900",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "300 600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "300 600",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "300 600",
+      "style": "italic",
+      "status": "loaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "300 600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "300 600",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Chivo Mono",
+      "weight": "300 600",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Mona Sans",
+      "weight": "200 900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Mona Sans",
+      "weight": "200 900",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "Mona Sans",
+      "weight": "200 900",
+      "style": "italic",
+      "status": "loaded"
+    },
+    {
+      "family": "Mona Sans",
+      "weight": "200 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Mona Sans",
+      "weight": "200 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Mona Sans",
+      "weight": "200 900",
+      "style": "normal",
+      "status": "loaded"
+    }
+  ],
+  "stylesheets": [
+    "https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wdth,wght@0,75..125,200..900;1,75..125,200..900&family=Chivo+Mono:ital,wght@0,300..600;1,300..600&display=swap",
+    "https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wdth,wght@0,75..125,200..900;1,75..125,200..900&family=Chivo+Mono:ital,wght@0,300..600;1,300..600&display=swap",
+    "https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wdth,wght@0,75..125,200..900;1,75..125,200..900&family=Chivo+Mono:ital,wght@0,300..600;1,300..600&display=swap",
+    "https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wdth,wght@0,75..125,200..900;1,75..125,200..900&family=Chivo+Mono:ital,wght@0,300..600;1,300..600&display=swap",
+    "https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wdth,wght@0,75..125,200..900;1,75..125,200..900&family=Chivo+Mono:ital,wght@0,300..600;1,300..600&display=swap",
+    "https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wdth,wght@0,75..125,200..900;1,75..125,200..900&family=Chivo+Mono:ital,wght@0,300..600;1,300..600&display=swap",
+    "https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wdth,wght@0,75..125,200..900;1,75..125,200..900&family=Chivo+Mono:ital,wght@0,300..600;1,300..600&display=swap"
+  ],
+  "cssVars": {
+    "--token-16b5adc2-b338-4c29-8d2f-257e6954cf5a": "#f1ece4",
+    "--token-a0e1c66a-c1c9-4c90-be8e-4bf6a8de5b67": "#141210",
+    "--token-7c0dc847-0c00-4522-9b51-c06f450620d6": "#ff5b2e",
+    "--token-83513f9a-f80f-4010-85f4-fcfe722678a7": "#231d19",
+    "--token-ca1873bd-cbd6-4c8f-9e0f-99c3f2a381a3": "#ddd4c8",
+    "--token-4392d762-5738-4cf9-a436-c2d3ce566ed5": "#857b70",
+    "--token-f962665a-6e98-42fc-b153-6c537b674e45": "#fff",
+    "--token-2cb09a38-77ef-4464-80b0-9b13bcba4a5d": "#171311",
+    "--token-8ac7b6f1-72ca-464e-8db1-0211132fd97d": "#e6ded1",
+    "--token-7cfa2313-0725-45c4-8af5-c74bc88c371b": "#141210",
+    "--token-9691d2ef-3c92-40cd-8580-ac4d21195978": "#47413b",
+    "--token-c39d53fe-cb20-4ea6-842a-1a68d44a121b": "#141210",
+    "--token-5daf52bc-b9a7-4ae3-a5ad-98e20f890562": "#17131100",
+    "--token-569f377b-0768-42ef-910b-a96cdfc9fe57": "#14121000",
+    "--token-b998b29b-68fb-4072-a8aa-edb30938ecfe": "#ffffff59",
+    "--token-38e004b5-e9b4-4695-937b-7626aa175787": "#1412101f",
+    "--framer-will-change-override": "none",
+    "--framer-will-change-filter-override": "none",
+    "--mvg": "56px"
+  },
+  "images": [
+    {
+      "src": "https://framerusercontent.com/images/yrA6UEesQxKJJmJ3B0fFyOdK54.svg?width=64&height=64",
+      "srcRaw": "https://framerusercontent.com/images/yrA6UEesQxKJJmJ3B0fFyOdK54.svg?width=64&height=64",
+      "srcset": null,
+      "alt": "Mara Voss",
+      "naturalWidth": 64,
+      "naturalHeight": 64,
+      "rect": {
+        "x": 28,
+        "y": 26,
+        "width": 26,
+        "height": 26
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "none"
+    },
+    {
+      "src": "https://framerusercontent.com/images/RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp?scale-down-to=1024",
+      "srcset": "https://framerusercontent.com/images/RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp?scale-down-to=512 512w, https://framerusercontent.com/images/RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 390,
+      "naturalHeight": 390,
+      "rect": {
+        "x": -185.4394989013672,
+        "y": 629.5892944335938,
+        "width": 169.09591674804688,
+        "height": 135.13946533203125
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "saturate(0.9) contrast(1.02)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/V6F6MmOz0yYocntSYdagH0c6yk.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/V6F6MmOz0yYocntSYdagH0c6yk.webp?scale-down-to=1024",
+      "srcset": "https://framerusercontent.com/images/V6F6MmOz0yYocntSYdagH0c6yk.webp?scale-down-to=512 512w, https://framerusercontent.com/images/V6F6MmOz0yYocntSYdagH0c6yk.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/V6F6MmOz0yYocntSYdagH0c6yk.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 314,
+      "naturalHeight": 390,
+      "rect": {
+        "x": -16.706649780273438,
+        "y": 608.8714599609375,
+        "width": 169.09591674804688,
+        "height": 135.1395263671875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "saturate(0.9) contrast(1.02)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/0xS7DiKB6Qv3iIrl5djSaB9cfA.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/0xS7DiKB6Qv3iIrl5djSaB9cfA.webp?scale-down-to=1024",
+      "srcset": "https://framerusercontent.com/images/0xS7DiKB6Qv3iIrl5djSaB9cfA.webp?scale-down-to=512 512w, https://framerusercontent.com/images/0xS7DiKB6Qv3iIrl5djSaB9cfA.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/0xS7DiKB6Qv3iIrl5djSaB9cfA.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 390,
+      "naturalHeight": 261,
+      "rect": {
+        "x": 152.0261993408203,
+        "y": 588.1536865234375,
+        "width": 169.0959014892578,
+        "height": 135.1395263671875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "saturate(0.9) contrast(1.02)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/HCyXSnJj8tsOubkimG9feSzY.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/HCyXSnJj8tsOubkimG9feSzY.webp?scale-down-to=1024",
+      "srcset": "https://framerusercontent.com/images/HCyXSnJj8tsOubkimG9feSzY.webp?scale-down-to=512 512w, https://framerusercontent.com/images/HCyXSnJj8tsOubkimG9feSzY.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/HCyXSnJj8tsOubkimG9feSzY.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 390,
+      "naturalHeight": 217,
+      "rect": {
+        "x": 320.759033203125,
+        "y": 567.4359130859375,
+        "width": 169.09591674804688,
+        "height": 135.1395263671875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "saturate(0.9) contrast(1.02)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp?scale-down-to=1024",
+      "srcset": "https://framerusercontent.com/images/ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp?scale-down-to=512 512w, https://framerusercontent.com/images/ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 314,
+      "naturalHeight": 390,
+      "rect": {
+        "x": 489.49188232421875,
+        "y": 546.7181396484375,
+        "width": 169.09588623046875,
+        "height": 135.1395263671875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "saturate(0.9) contrast(1.02)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/ogU1zLwwfiOf77V1AWCdup1V0.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/ogU1zLwwfiOf77V1AWCdup1V0.webp?scale-down-to=1024",
+      "srcset": "https://framerusercontent.com/images/ogU1zLwwfiOf77V1AWCdup1V0.webp?scale-down-to=512 512w, https://framerusercontent.com/images/ogU1zLwwfiOf77V1AWCdup1V0.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/ogU1zLwwfiOf77V1AWCdup1V0.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 390,
+      "naturalHeight": 290,
+      "rect": {
+        "x": 658.2247314453125,
+        "y": 526.0003662109375,
+        "width": 169.09588623046875,
+        "height": 135.1395263671875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "saturate(0.9) contrast(1.02)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp?scale-down-to=1024",
+      "srcset": "https://framerusercontent.com/images/RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp?scale-down-to=512 512w, https://framerusercontent.com/images/RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 390,
+      "naturalHeight": 390,
+      "rect": {
+        "x": 826.9575805664062,
+        "y": 505.2825622558594,
+        "width": 169.09588623046875,
+        "height": 135.13949584960938
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "saturate(0.9) contrast(1.02)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/V6F6MmOz0yYocntSYdagH0c6yk.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/V6F6MmOz0yYocntSYdagH0c6yk.webp?scale-down-to=1024",
+      "srcset": "https://framerusercontent.com/images/V6F6MmOz0yYocntSYdagH0c6yk.webp?scale-down-to=512 512w, https://framerusercontent.com/images/V6F6MmOz0yYocntSYdagH0c6yk.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/V6F6MmOz0yYocntSYdagH0c6yk.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 314,
+      "naturalHeight": 390,
+      "rect": {
+        "x": 995.6904296875,
+        "y": 484.56475830078125,
+        "width": 169.095947265625,
+        "height": 135.1395263671875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "saturate(0.9) contrast(1.02)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/0xS7DiKB6Qv3iIrl5djSaB9cfA.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/0xS7DiKB6Qv3iIrl5djSaB9cfA.webp?scale-down-to=1024",
+      "srcset": "https://framerusercontent.com/images/0xS7DiKB6Qv3iIrl5djSaB9cfA.webp?scale-down-to=512 512w, https://framerusercontent.com/images/0xS7DiKB6Qv3iIrl5djSaB9cfA.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/0xS7DiKB6Qv3iIrl5djSaB9cfA.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 390,
+      "naturalHeight": 261,
+      "rect": {
+        "x": 1164.4232177734375,
+        "y": 463.84698486328125,
+        "width": 169.095947265625,
+        "height": 135.1395263671875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "saturate(0.9) contrast(1.02)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/HCyXSnJj8tsOubkimG9feSzY.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/HCyXSnJj8tsOubkimG9feSzY.webp?scale-down-to=1024",
+      "srcset": "https://framerusercontent.com/images/HCyXSnJj8tsOubkimG9feSzY.webp?scale-down-to=512 512w, https://framerusercontent.com/images/HCyXSnJj8tsOubkimG9feSzY.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/HCyXSnJj8tsOubkimG9feSzY.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 390,
+      "naturalHeight": 217,
+      "rect": {
+        "x": 1333.1561279296875,
+        "y": 443.1291809082031,
+        "width": 169.095947265625,
+        "height": 135.13949584960938
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "saturate(0.9) contrast(1.02)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp?scale-down-to=1024",
+      "srcset": "https://framerusercontent.com/images/ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp?scale-down-to=512 512w, https://framerusercontent.com/images/ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 314,
+      "naturalHeight": 390,
+      "rect": {
+        "x": 1501.888916015625,
+        "y": 422.4114074707031,
+        "width": 169.095947265625,
+        "height": 135.13949584960938
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "saturate(0.9) contrast(1.02)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/ogU1zLwwfiOf77V1AWCdup1V0.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/ogU1zLwwfiOf77V1AWCdup1V0.webp?scale-down-to=1024",
+      "srcset": "https://framerusercontent.com/images/ogU1zLwwfiOf77V1AWCdup1V0.webp?scale-down-to=512 512w, https://framerusercontent.com/images/ogU1zLwwfiOf77V1AWCdup1V0.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/ogU1zLwwfiOf77V1AWCdup1V0.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 390,
+      "naturalHeight": 290,
+      "rect": {
+        "x": 1670.621826171875,
+        "y": 401.693603515625,
+        "width": 169.0958251953125,
+        "height": 135.1395263671875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "saturate(0.9) contrast(1.02)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp?scale-down-to=2048",
+      "srcset": "https://framerusercontent.com/images/RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp?scale-down-to=512 512w, https://framerusercontent.com/images/RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/RQkpkpcrQxhlTtR8Pr6HgCXqSI8.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 390,
+      "naturalHeight": 390,
+      "rect": {
+        "x": 33.42999267578125,
+        "y": 1434.306884765625,
+        "width": 323.1400146484375,
+        "height": 242.35498046875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "none"
+    },
+    {
+      "src": "https://framerusercontent.com/images/V6F6MmOz0yYocntSYdagH0c6yk.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/V6F6MmOz0yYocntSYdagH0c6yk.webp?scale-down-to=2048",
+      "srcset": "https://framerusercontent.com/images/V6F6MmOz0yYocntSYdagH0c6yk.webp?scale-down-to=512 512w, https://framerusercontent.com/images/V6F6MmOz0yYocntSYdagH0c6yk.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/V6F6MmOz0yYocntSYdagH0c6yk.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 314,
+      "naturalHeight": 390,
+      "rect": {
+        "x": 33.42999267578125,
+        "y": 1861.025634765625,
+        "width": 323.1400146484375,
+        "height": 242.35498046875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "none"
+    },
+    {
+      "src": "https://framerusercontent.com/images/0xS7DiKB6Qv3iIrl5djSaB9cfA.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/0xS7DiKB6Qv3iIrl5djSaB9cfA.webp?scale-down-to=2048",
+      "srcset": "https://framerusercontent.com/images/0xS7DiKB6Qv3iIrl5djSaB9cfA.webp?scale-down-to=512 512w, https://framerusercontent.com/images/0xS7DiKB6Qv3iIrl5djSaB9cfA.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/0xS7DiKB6Qv3iIrl5djSaB9cfA.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 390,
+      "naturalHeight": 261,
+      "rect": {
+        "x": 33.42999267578125,
+        "y": 2303.931884765625,
+        "width": 323.1400146484375,
+        "height": 242.35498046875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "none"
+    },
+    {
+      "src": "https://framerusercontent.com/images/HCyXSnJj8tsOubkimG9feSzY.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/HCyXSnJj8tsOubkimG9feSzY.webp?scale-down-to=2048",
+      "srcset": "https://framerusercontent.com/images/HCyXSnJj8tsOubkimG9feSzY.webp?scale-down-to=512 512w, https://framerusercontent.com/images/HCyXSnJj8tsOubkimG9feSzY.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/HCyXSnJj8tsOubkimG9feSzY.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 390,
+      "naturalHeight": 217,
+      "rect": {
+        "x": 33.42999267578125,
+        "y": 2730.650634765625,
+        "width": 323.1400146484375,
+        "height": 242.35498046875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "none"
+    },
+    {
+      "src": "https://framerusercontent.com/images/ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp?scale-down-to=2048",
+      "srcset": "https://framerusercontent.com/images/ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp?scale-down-to=512 512w, https://framerusercontent.com/images/ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/ExoxWkFXM2Zkwx5XnEk8MdUY59w.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 314,
+      "naturalHeight": 390,
+      "rect": {
+        "x": 33.42999267578125,
+        "y": 3157.369384765625,
+        "width": 323.1400146484375,
+        "height": 242.35498046875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "none"
+    },
+    {
+      "src": "https://framerusercontent.com/images/ogU1zLwwfiOf77V1AWCdup1V0.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/ogU1zLwwfiOf77V1AWCdup1V0.webp?scale-down-to=2048",
+      "srcset": "https://framerusercontent.com/images/ogU1zLwwfiOf77V1AWCdup1V0.webp?scale-down-to=512 512w, https://framerusercontent.com/images/ogU1zLwwfiOf77V1AWCdup1V0.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/ogU1zLwwfiOf77V1AWCdup1V0.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 390,
+      "naturalHeight": 290,
+      "rect": {
+        "x": 33.42999267578125,
+        "y": 3584.088134765625,
+        "width": 323.1400146484375,
+        "height": 242.35498046875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "none"
+    },
+    {
+      "src": "https://framerusercontent.com/images/aCXktoLBfWbawiZ7GZnH7tUqE.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/aCXktoLBfWbawiZ7GZnH7tUqE.webp?scale-down-to=2048",
+      "srcset": "https://framerusercontent.com/images/aCXktoLBfWbawiZ7GZnH7tUqE.webp?scale-down-to=512 512w, https://framerusercontent.com/images/aCXktoLBfWbawiZ7GZnH7tUqE.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/aCXktoLBfWbawiZ7GZnH7tUqE.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 202,
+      "naturalHeight": 151,
+      "rect": {
+        "x": 33.42999267578125,
+        "y": 4010.806884765625,
+        "width": 323.1400146484375,
+        "height": 242.355224609375
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "none"
+    },
+    {
+      "src": "https://framerusercontent.com/images/VJUprwfcrDZhu5hrAX7RykPiVU.webp?scale-down-to=1024",
+      "srcRaw": "https://framerusercontent.com/images/VJUprwfcrDZhu5hrAX7RykPiVU.webp?scale-down-to=2048",
+      "srcset": "https://framerusercontent.com/images/VJUprwfcrDZhu5hrAX7RykPiVU.webp?scale-down-to=512 512w, https://framerusercontent.com/images/VJUprwfcrDZhu5hrAX7RykPiVU.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/VJUprwfcrDZhu5hrAX7RykPiVU.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 119,
+      "naturalHeight": 148,
+      "rect": {
+        "x": 33.42999267578125,
+        "y": 4437.525390625,
+        "width": 323.1400146484375,
+        "height": 242.35546875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "none"
+    },
+    {
+      "src": "https://framerusercontent.com/images/dunKMZI2kyT07lXHFIEvckbg60.webp?scale-down-to=512",
+      "srcRaw": "https://framerusercontent.com/images/dunKMZI2kyT07lXHFIEvckbg60.webp?scale-down-to=512",
+      "srcset": "https://framerusercontent.com/images/dunKMZI2kyT07lXHFIEvckbg60.webp?scale-down-to=512 512w, https://framerusercontent.com/images/dunKMZI2kyT07lXHFIEvckbg60.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/dunKMZI2kyT07lXHFIEvckbg60.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 53.121307373046875,
+        "y": 5461.720703125,
+        "width": 70.57331085205078,
+        "height": 70.57373046875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "grayscale(1) contrast(1.15)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/4tAaRWdCGFFP6inkIMQvhHVYg.webp?scale-down-to=512",
+      "srcRaw": "https://framerusercontent.com/images/4tAaRWdCGFFP6inkIMQvhHVYg.webp?scale-down-to=512",
+      "srcset": "https://framerusercontent.com/images/4tAaRWdCGFFP6inkIMQvhHVYg.webp?scale-down-to=512 512w, https://framerusercontent.com/images/4tAaRWdCGFFP6inkIMQvhHVYg.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/4tAaRWdCGFFP6inkIMQvhHVYg.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 11.976873397827148,
+        "y": 5774.39013671875,
+        "width": 70.23423767089844,
+        "height": 70.23388671875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "grayscale(1) contrast(1.15)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/VKW79qnYyo2u8EtRfJzLP6uts.webp?scale-down-to=512",
+      "srcRaw": "https://framerusercontent.com/images/VKW79qnYyo2u8EtRfJzLP6uts.webp?scale-down-to=512",
+      "srcset": "https://framerusercontent.com/images/VKW79qnYyo2u8EtRfJzLP6uts.webp?scale-down-to=512 512w, https://framerusercontent.com/images/VKW79qnYyo2u8EtRfJzLP6uts.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/VKW79qnYyo2u8EtRfJzLP6uts.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 52.03025817871094,
+        "y": 6151.4931640625,
+        "width": 70.06341552734375,
+        "height": 70.0634765625
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "grayscale(1) contrast(1.15)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/QEChA2dUSATQtS9xNXPe2Tts.webp?scale-down-to=512",
+      "srcRaw": "https://framerusercontent.com/images/QEChA2dUSATQtS9xNXPe2Tts.webp?scale-down-to=512",
+      "srcset": "https://framerusercontent.com/images/QEChA2dUSATQtS9xNXPe2Tts.webp?scale-down-to=512 512w, https://framerusercontent.com/images/QEChA2dUSATQtS9xNXPe2Tts.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/QEChA2dUSATQtS9xNXPe2Tts.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 14.77132797241211,
+        "y": 6439.5302734375,
+        "width": 70.06341552734375,
+        "height": 70.0634765625
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "grayscale(1) contrast(1.15)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/G8Lzu2FTtZBjR2kg4UmFJMoCHUc.webp?scale-down-to=512",
+      "srcRaw": "https://framerusercontent.com/images/G8Lzu2FTtZBjR2kg4UmFJMoCHUc.webp?scale-down-to=512",
+      "srcset": "https://framerusercontent.com/images/G8Lzu2FTtZBjR2kg4UmFJMoCHUc.webp?scale-down-to=512 512w, https://framerusercontent.com/images/G8Lzu2FTtZBjR2kg4UmFJMoCHUc.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/G8Lzu2FTtZBjR2kg4UmFJMoCHUc.webp?scale-down-to=2048 2048w",
+      "alt": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 51.250816345214844,
+        "y": 6792.220703125,
+        "width": 70.90894317626953,
+        "height": 70.9091796875
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "grayscale(1) contrast(1.15)"
+    },
+    {
+      "src": "https://framerusercontent.com/images/wWV2ddZYB4xeHZuWidhxzKZxgb4.svg?width=560&height=28",
+      "srcRaw": "https://framerusercontent.com/images/wWV2ddZYB4xeHZuWidhxzKZxgb4.svg?width=560&height=28",
+      "srcset": "https://framerusercontent.com/images/wWV2ddZYB4xeHZuWidhxzKZxgb4.svg?scale-down-to=512&width=560&height=28 512w,https://framerusercontent.com/images/wWV2ddZYB4xeHZuWidhxzKZxgb4.svg?width=560&height=28 560w",
+      "alt": "",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rect": {
+        "x": 19.559463500976562,
+        "y": 8273.09375,
+        "width": 350.88104248046875,
+        "height": 44.28125
+      },
+      "objectFit": "cover",
+      "objectPosition": "50% 50%",
+      "borderRadius": "4px 4px 0px 0px",
+      "opacity": "1",
+      "mixBlendMode": "normal",
+      "filter": "none"
+    }
+  ],
+  "bgImages": [
+    {
+      "selector": "div.mvps-paper",
+      "backgroundImage": "linear-gradient(rgba(255, 255, 255, 0.35), rgba(0, 0, 0, 0.024)), url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .05 0'/></filter><rect width='120' height='120' filter='url(%23n)'/></svg>\")",
+      "rect": {
+        "width": 418.9417724609375,
+        "height": 388.45703125
+      }
+    },
+    {
+      "selector": "div.mvps-paper",
+      "backgroundImage": "linear-gradient(rgba(255, 255, 255, 0.35), rgba(0, 0, 0, 0.024)), url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .05 0'/></filter><rect width='120' height='120' filter='url(%23n)'/></svg>\")",
+      "rect": {
+        "width": 421.99530029296875,
+        "height": 413.2509765625
+      }
+    },
+    {
+      "selector": "div.mvps-paper",
+      "backgroundImage": "linear-gradient(rgba(255, 255, 255, 0.35), rgba(0, 0, 0, 0.024)), url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .05 0'/></filter><rect width='120' height='120' filter='url(%23n)'/></svg>\")",
+      "rect": {
+        "width": 416.25732421875,
+        "height": 385.3076171875
+      }
+    },
+    {
+      "selector": "div.mvps-paper",
+      "backgroundImage": "linear-gradient(rgba(255, 255, 255, 0.35), rgba(0, 0, 0, 0.024)), url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .05 0'/></filter><rect width='120' height='120' filter='url(%23n)'/></svg>\")",
+      "rect": {
+        "width": 416.25732421875,
+        "height": 385.30810546875
+      }
+    },
+    {
+      "selector": "div.mvps-paper",
+      "backgroundImage": "linear-gradient(rgba(255, 255, 255, 0.35), rgba(0, 0, 0, 0.024)), url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .05 0'/></filter><rect width='120' height='120' filter='url(%23n)'/></svg>\")",
+      "rect": {
+        "width": 415.492919921875,
+        "height": 363.7138671875
+      }
+    }
+  ],
+  "svgsCount": 35,
+  "svgs": [
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg class=\"framer-mbPBj framer-1492tgi\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--1m6trwb: 0; --21h8s6: var(--token-7c0dc847-0c00-4522-9b51-c06f450620d6); --pgex8v: 2.2; opacity: 1;\"><use href=\"#3642559178\"></use></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 15,
+      "height": 15,
+      "outerHTML": "<svg class=\"framer-mbPBj framer-1492tgi\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--1m6trwb: 0; --21h8s6: var(--token-7c0dc847-0c00-4522-9b51-c06f450620d6); --pgex8v: 2.2; opacity: 1;\"><use href=\"#3642559178\"></use></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 15,
+      "height": 15,
+      "outerHTML": "<svg class=\"framer-mbPBj framer-1492tgi\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--1m6trwb: 0; --21h8s6: var(--token-f962665a-6e98-42fc-b153-6c537b674e45); --pgex8v: 2.2; opacity: 1;\"><use href=\"#3642559178\"></use></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg class=\"mv-spark\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 1.5C12.9 8 16 11.1 22.5 12 16 12.9 12.9 16 12 22.5 11.1 16 8 12.9 1.5 12 8 11.1 11.1 8 12 1.5Z\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 17L17 7M9 7h8v8\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 17L17 7M9 7h8v8\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 17L17 7M9 7h8v8\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 17L17 7M9 7h8v8\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg class=\"mv-spark\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 1.5C12.9 8 16 11.1 22.5 12 16 12.9 12.9 16 12 22.5 11.1 16 8 12.9 1.5 12 8 11.1 11.1 8 12 1.5Z\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 16 16",
+      "width": 14,
+      "height": 14,
+      "outerHTML": "<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><rect x=\"1.5\" y=\"1.5\" width=\"7\" height=\"6\" rx=\"1\"></rect><rect x=\"10.5\" y=\"1.5\" width=\"4\" height=\"8\" rx=\"1\"></rect><rect x=\"1.5\" y=\"9.5\" width=\"7\" height=\"5\" rx=\"1\"></rect><rect x=\"10.5\" y=\"11.5\" width=\"4\" height=\"3\" rx=\"1\"></rect></svg>"
+    },
+    {
+      "viewBox": "0 0 16 16",
+      "width": 14,
+      "height": 14,
+      "outerHTML": "<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path d=\"M1.5 3.5h13M1.5 8h13M1.5 12.5h13\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 13,
+      "height": 13,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 17L17 7M9 7h8v8\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 13,
+      "height": 13,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 17L17 7M9 7h8v8\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 13,
+      "height": 13,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 17L17 7M9 7h8v8\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 13,
+      "height": 13,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 17L17 7M9 7h8v8\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 13,
+      "height": 13,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 17L17 7M9 7h8v8\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 13,
+      "height": 13,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 17L17 7M9 7h8v8\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 13,
+      "height": 13,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 17L17 7M9 7h8v8\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 13,
+      "height": 13,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 17L17 7M9 7h8v8\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg class=\"mv-spark\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 1.5C12.9 8 16 11.1 22.5 12 16 12.9 12.9 16 12 22.5 11.1 16 8 12.9 1.5 12 8 11.1 11.1 8 12 1.5Z\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 15,
+      "height": 15,
+      "outerHTML": "<svg class=\"framer-mbPBj framer-1492tgi\" role=\"presentation\" viewBox=\"0 0 24 24\" style=\"--1m6trwb: 0; --21h8s6: var(--token-a0e1c66a-c1c9-4c90-be8e-4bf6a8de5b67); --pgex8v: 2.2; opacity: 1;\"><use href=\"#3642559178\"></use></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg class=\"mv-spark\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 1.5C12.9 8 16 11.1 22.5 12 16 12.9 12.9 16 12 22.5 11.1 16 8 12.9 1.5 12 8 11.1 11.1 8 12 1.5Z\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"3\"></rect><path d=\"M4 7l8 6 8-6\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 5l7 7-7 7\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 5l7 7-7 7\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 5l7 7-7 7\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg class=\"mv-spark\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 1.5C12.9 8 16 11.1 22.5 12 16 12.9 12.9 16 12 22.5 11.1 16 8 12.9 1.5 12 8 11.1 11.1 8 12 1.5Z\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 17L17 7M9 7h8v8\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 17L17 7M9 7h8v8\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"5\" width=\"18\" height=\"14\" rx=\"3\"></rect><path d=\"M4 7l8 6 8-6\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 15.764480590820312,
+      "height": 15.7646484375,
+      "outerHTML": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 5l7 7-7 7\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 15.764480590820312,
+      "height": 15.76416015625,
+      "outerHTML": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 5l7 7-7 7\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 15.764495849609375,
+      "height": 15.7646484375,
+      "outerHTML": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 5l7 7-7 7\"></path></svg>"
+    },
+    {
+      "viewBox": "0 0 24 24",
+      "width": 0,
+      "height": 0,
+      "outerHTML": "<svg id=\"3642559178\" display=\"block\" role=\"presentation\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M 0 0 L 9.75 0 L 9.75 9.75 Z\" fill-opacity=\"var(--1m6trwb, 0)\" fill=\"var(--21h8s6, rgb(0, 0, 0))\" height=\"9.75px\" id=\"wb64pxkUI\" transform=\"translate(8.25 6)\" width=\"9.75px\"></path><path d=\"M 0 7.125 L 7.125 0\" fill=\"transparent\" height=\"7.125px\" id=\"eXMMevGY5\" stroke-dasharray=\"\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"var(--pgex8v, 1.5)\" stroke=\"var(--21h8s6, rgb(0, 0, 0))\" transform=\"translate(6 10.875)\" width=\"7.125px\"></path><path d=\"M 0 0 L 9.75 0 L 9.75 9.75 Z\" fill=\"transparent\" height=\"9.75px\" id=\"FrNxKmblG\" stroke-dasharray=\"\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"var(--pgex8v, 1.5)\" stroke=\"var(--21h8s6, rgb(0, 0, 0))\" transform=\"translate(8.25 6)\" width=\"9.75px\"></path></svg>"
+    },
+    {
+      "viewBox": null,
+      "width": 14,
+      "height": 14,
+      "outerHTML": "<svg role=\"presentation\" xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" fill=\"none\"><path d=\"M1 9.414a1 1 0 0 1 .293-.707l7.469-7.469a1.75 1.75 0 0 1 2.476 0l1.524 1.524a1.75 1.75 0 0 1 0 2.476l-7.469 7.469a1 1 0 0 1-.707.293H2a1 1 0 0 1-1-1zM11.5 6.5l-4-4\" fill=\"transparent\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>"
+    }
+  ],
+  "typoSamples": [
+    {
+      "tag": "a",
+      "text": "Mara Voss",
+      "rect": {
+        "x": 28,
+        "y": 26,
+        "w": 120,
+        "h": 26
+      },
+      "fontFamily": "sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(0, 0, 238)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(0, 0, 238)",
+      "padding": "0px",
+      "gap": "10px"
+    },
+    {
+      "tag": "p",
+      "text": "Mara Voss",
+      "rect": {
+        "x": 64,
+        "y": 31,
+        "w": 84,
+        "h": 16
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "16px",
+      "letterSpacing": "-0.32px",
+      "textTransform": "none",
+      "color": "rgb(241, 236, 228)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(241, 236, 228)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "button",
+      "text": "Menu",
+      "rect": {
+        "x": 276,
+        "y": 17,
+        "w": 90,
+        "h": 44
+      },
+      "fontFamily": "sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgba(20, 18, 16, 0.08)",
+      "borderRadius": "10px",
+      "border": "0px outset rgb(0, 0, 0)",
+      "padding": "0px 14px 0px 12px",
+      "gap": "10px"
+    },
+    {
+      "tag": "p",
+      "text": "Menu",
+      "rect": {
+        "x": 318,
+        "y": 30,
+        "w": 34,
+        "h": 17
+      },
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "lineHeight": "17.4px",
+      "letterSpacing": "1.2px",
+      "textTransform": "uppercase",
+      "color": "rgb(241, 236, 228)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(241, 236, 228)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "FRAME 02 — Work",
+      "rect": {
+        "x": 47,
+        "y": 111,
+        "w": 119,
+        "h": 14
+      },
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "14.4px",
+      "letterSpacing": "0.72px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "h1",
+      "text": "Work I’mproud of.",
+      "rect": {
+        "x": 20,
+        "y": 152,
+        "w": 187,
+        "h": 84
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "45px",
+      "fontWeight": "400",
+      "lineHeight": "41.85px",
+      "letterSpacing": "-2.025px",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "Eight projects from the last few years, from the first sketch to the shipped release, with the role ",
+      "rect": {
+        "x": 20,
+        "y": 256,
+        "w": 350,
+        "h": 77
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "16.5px",
+      "fontWeight": "400",
+      "lineHeight": "25.575px",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgba(255, 255, 255, 0.78)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgba(255, 255, 255, 0.78)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "a",
+      "text": "Start a project",
+      "rect": {
+        "x": 20,
+        "y": 357,
+        "w": 350,
+        "h": 54
+      },
+      "fontFamily": "sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(0, 0, 238)",
+      "backgroundColor": "rgb(255, 91, 46)",
+      "borderRadius": "10px",
+      "border": "0px none rgb(0, 0, 238)",
+      "padding": "0px 8px 0px 22px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "Start a project",
+      "rect": {
+        "x": 42,
+        "y": 376,
+        "w": 91,
+        "h": 16
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "400",
+      "lineHeight": "15.6px",
+      "letterSpacing": "0.065px",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "a",
+      "text": "Download résumé",
+      "rect": {
+        "x": 20,
+        "y": 423,
+        "w": 350,
+        "h": 54
+      },
+      "fontFamily": "sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(0, 0, 238)",
+      "backgroundColor": "rgba(255, 255, 255, 0.08)",
+      "borderRadius": "10px",
+      "border": "0px none rgb(0, 0, 238)",
+      "padding": "0px 8px 0px 22px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "Download résumé",
+      "rect": {
+        "x": 42,
+        "y": 442,
+        "w": 115,
+        "h": 16
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "13px",
+      "fontWeight": "400",
+      "lineHeight": "15.6px",
+      "letterSpacing": "0.065px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "section",
+      "text": ":where(.mv){position:relative;z-index:10} .mv,.mv *{box-sizing:border-box;min-width:0} .mv-sr{positi",
+      "rect": {
+        "x": 20,
+        "y": 521,
+        "w": 350,
+        "h": 280
+      },
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "MV 400TX · Int. studio — day",
+      "rect": {
+        "x": 20,
+        "y": 862,
+        "w": 235,
+        "h": 17
+      },
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "17.4px",
+      "letterSpacing": "1.2px",
+      "textTransform": "uppercase",
+      "color": "rgba(255, 255, 255, 0.78)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgba(255, 255, 255, 0.78)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "ROLL 07 — 8 projects",
+      "rect": {
+        "x": 20,
+        "y": 1001,
+        "w": 203,
+        "h": 26
+      },
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "1.2px",
+      "textTransform": "uppercase",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "color(srgb 1 1 1 / 0.09)",
+      "borderRadius": "4px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "6px 10px 6px 9px",
+      "gap": "9px"
+    },
+    {
+      "tag": "h2",
+      "text": "Every frame,in order.",
+      "rect": {
+        "x": 20,
+        "y": 1017,
+        "w": 218,
+        "h": 68
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "36px",
+      "fontWeight": "400",
+      "lineHeight": "34.2px",
+      "letterSpacing": "-1.512px",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "Filter by the kind of work, or switch to the list if you know what you’re looking for.",
+      "rect": {
+        "x": 20,
+        "y": 1122,
+        "w": 350,
+        "h": 50
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24.8px",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgba(255, 255, 255, 0.78)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgba(255, 255, 255, 0.78)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "section",
+      "text": ":where(.mv){position:relative;z-index:10} .mv,.mv *{box-sizing:border-box;min-width:0} .mv-sr{positi",
+      "rect": {
+        "x": 0,
+        "y": 1197,
+        "w": 390,
+        "h": 3765
+      },
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgb(23, 19, 17)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px 0px 88px",
+      "gap": "normal"
+    },
+    {
+      "tag": "button",
+      "text": "All08",
+      "rect": {
+        "x": 66,
+        "y": 1226,
+        "w": 71,
+        "h": 38
+      },
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "0.96px",
+      "textTransform": "uppercase",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgb(255, 91, 46)",
+      "borderRadius": "10px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "11px 13px 9px",
+      "gap": "5px"
+    },
+    {
+      "tag": "button",
+      "text": "Brand04",
+      "rect": {
+        "x": 144,
+        "y": 1226,
+        "w": 87,
+        "h": 38
+      },
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "0.96px",
+      "textTransform": "uppercase",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "10px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "11px 13px 9px",
+      "gap": "5px"
+    },
+    {
+      "tag": "button",
+      "text": "Sheet",
+      "rect": {
+        "x": 23,
+        "y": 1283,
+        "w": 88,
+        "h": 34
+      },
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "1.2px",
+      "textTransform": "uppercase",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "borderRadius": "7px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px 12px",
+      "gap": "8px"
+    },
+    {
+      "tag": "button",
+      "text": "List",
+      "rect": {
+        "x": 113,
+        "y": 1283,
+        "w": 80,
+        "h": 34
+      },
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "1.2px",
+      "textTransform": "uppercase",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "7px",
+      "border": "0px none color(srgb 0.808627 0.792941 0.775686)",
+      "padding": "0px 12px",
+      "gap": "8px"
+    },
+    {
+      "tag": "p",
+      "text": "Light table · Roll 078 exposures · Mara Voss",
+      "rect": {
+        "x": 26,
+        "y": 1356,
+        "w": 199,
+        "h": 32
+      },
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "1.44px",
+      "textTransform": "uppercase",
+      "color": "rgb(58, 46, 30)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(58, 46, 30)",
+      "padding": "0px",
+      "gap": "4px"
+    },
+    {
+      "tag": "a",
+      "text": "01A ▸MV 400TX 101AOpen caseSoleSole Supply · 2026RoleArt direction, web+64% launch-week sales",
+      "rect": {
+        "x": 44,
+        "y": 1420,
+        "w": 302,
+        "h": 417
+      },
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "",
+      "padding": "0px 0px 18px",
+      "gap": "10px"
+    },
+    {
+      "tag": "h2",
+      "text": "Sole",
+      "rect": {
+        "x": 46,
+        "y": 1693,
+        "w": 151,
+        "h": 29
+      },
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif",
+      "fontSize": "30px",
+      "fontWeight": "720",
+      "lineHeight": "28.5px",
+      "letterSpacing": "-1.2px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "h2",
+      "text": "Rouge",
+      "rect": {
+        "x": 46,
+        "y": 2119,
+        "w": 160,
+        "h": 29
+      },
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif",
+      "fontSize": "30px",
+      "fontWeight": "720",
+      "lineHeight": "28.5px",
+      "letterSpacing": "-1.2px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "h2",
+      "text": "Nord",
+      "rect": {
+        "x": 46,
+        "y": 2562,
+        "w": 151,
+        "h": 29
+      },
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif",
+      "fontSize": "30px",
+      "fontWeight": "720",
+      "lineHeight": "28.5px",
+      "letterSpacing": "-1.2px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "h2",
+      "text": "Atlas",
+      "rect": {
+        "x": 46,
+        "y": 2989,
+        "w": 151,
+        "h": 29
+      },
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif",
+      "fontSize": "30px",
+      "fontWeight": "720",
+      "lineHeight": "28.5px",
+      "letterSpacing": "-1.2px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "h2",
+      "text": "Chroma",
+      "rect": {
+        "x": 46,
+        "y": 3416,
+        "w": 168,
+        "h": 29
+      },
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif",
+      "fontSize": "30px",
+      "fontWeight": "720",
+      "lineHeight": "28.5px",
+      "letterSpacing": "-1.2px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "h2",
+      "text": "Violet",
+      "rect": {
+        "x": 46,
+        "y": 3843,
+        "w": 185,
+        "h": 29
+      },
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif",
+      "fontSize": "30px",
+      "fontWeight": "720",
+      "lineHeight": "28.5px",
+      "letterSpacing": "-1.2px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "h2",
+      "text": "Loop",
+      "rect": {
+        "x": 46,
+        "y": 4269,
+        "w": 134,
+        "h": 29
+      },
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif",
+      "fontSize": "30px",
+      "fontWeight": "720",
+      "lineHeight": "28.5px",
+      "letterSpacing": "-1.2px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "h2",
+      "text": "Pulse",
+      "rect": {
+        "x": 46,
+        "y": 4696,
+        "w": 185,
+        "h": 29
+      },
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif",
+      "fontSize": "30px",
+      "fontWeight": "720",
+      "lineHeight": "28.5px",
+      "letterSpacing": "-1.2px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "FRAME 07 — Kind words",
+      "rect": {
+        "x": 45,
+        "y": 5082,
+        "w": 176,
+        "h": 14
+      },
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "14.4px",
+      "letterSpacing": "1.2px",
+      "textTransform": "uppercase",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "h2",
+      "text": "What clients say.",
+      "rect": {
+        "x": 20,
+        "y": 5103,
+        "w": 244,
+        "h": 76
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "40px",
+      "fontWeight": "400",
+      "lineHeight": "38px",
+      "letterSpacing": "-1.68px",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "h2",
+      "text": "What clients",
+      "rect": {
+        "x": 20,
+        "y": 5103,
+        "w": 244,
+        "h": 38
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "40px",
+      "fontWeight": "400",
+      "lineHeight": "38px",
+      "letterSpacing": "-1.68px",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "h2",
+      "text": "say.",
+      "rect": {
+        "x": 23,
+        "y": 5141,
+        "w": 76,
+        "h": 38
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "40px",
+      "fontWeight": "400",
+      "lineHeight": "38px",
+      "letterSpacing": "-1.68px",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "Cut out and kept. A few words from the people I’ve designed and shipped with.",
+      "rect": {
+        "x": 20,
+        "y": 5225,
+        "w": 350,
+        "h": 50
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24.8px",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgba(20, 18, 16, 0.77)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgba(20, 18, 16, 0.77)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "05 / 05",
+      "rect": {
+        "x": 311,
+        "y": 5291,
+        "w": 59,
+        "h": 17
+      },
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "lineHeight": "17.4px",
+      "letterSpacing": "1.2px",
+      "textTransform": "uppercase",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "section",
+      "text": ":where(.mv){position:relative;z-index:10} .mv,.mv *{box-sizing:border-box;min-width:0} .mv-sr{positi",
+      "rect": {
+        "x": 0,
+        "y": 5357,
+        "w": 390,
+        "h": 1739
+      },
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgb(241, 236, 228)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px 0px 96px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "No. 01Loop Bank · Re: Loop",
+      "rect": {
+        "x": 15,
+        "y": 5210,
+        "w": 317,
+        "h": 87
+      },
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "1.2px",
+      "textTransform": "uppercase",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "",
+      "padding": "0px 0px 10px",
+      "gap": "12px"
+    },
+    {
+      "tag": "h2",
+      "text": "Have a project? Let’s shoot.",
+      "rect": {
+        "x": 20,
+        "y": 7232,
+        "w": 350,
+        "h": 127
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "47px",
+      "fontWeight": "400",
+      "lineHeight": "42.3px",
+      "letterSpacing": "-2.115px",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "h2",
+      "text": "Have a project?",
+      "rect": {
+        "x": 20,
+        "y": 7232,
+        "w": 350,
+        "h": 85
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "47px",
+      "fontWeight": "400",
+      "lineHeight": "42.3px",
+      "letterSpacing": "-2.115px",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "h2",
+      "text": "Let’s",
+      "rect": {
+        "x": 20,
+        "y": 7317,
+        "w": 104,
+        "h": 42
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "47px",
+      "fontWeight": "400",
+      "lineHeight": "42.3px",
+      "letterSpacing": "-2.115px",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "h2",
+      "text": "shoot.",
+      "rect": {
+        "x": 135,
+        "y": 7317,
+        "w": 142,
+        "h": 42
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "47px",
+      "fontWeight": "400",
+      "lineHeight": "42.3px",
+      "letterSpacing": "-2.115px",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "Tell me what you are making. I reply within a day with next steps and a rough plan.",
+      "rect": {
+        "x": 20,
+        "y": 7417,
+        "w": 350,
+        "h": 51
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "25.5px",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "a",
+      "text": "Start a project",
+      "rect": {
+        "x": 20,
+        "y": 7496,
+        "w": 350,
+        "h": 54
+      },
+      "fontFamily": "sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(0, 0, 238)",
+      "backgroundColor": "rgb(20, 18, 16)",
+      "borderRadius": "10px",
+      "border": "0px none rgb(0, 0, 238)",
+      "padding": "0px 8px 0px 22px",
+      "gap": "normal"
+    },
+    {
+      "tag": "section",
+      "text": ":where(.mv){position:relative;z-index:10} .mv,.mv *{box-sizing:border-box;min-width:0} .mv-sr{positi",
+      "rect": {
+        "x": 20,
+        "y": 7562,
+        "w": 350,
+        "h": 54
+      },
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "button",
+      "text": "hello@maravoss.designCopyCopied",
+      "rect": {
+        "x": 20,
+        "y": 7578,
+        "w": 350,
+        "h": 54
+      },
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "10px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px 8px 0px 16px",
+      "gap": "8px"
+    },
+    {
+      "tag": "p",
+      "text": "Booking now forAvailable for work · Nov 2026",
+      "rect": {
+        "x": 20,
+        "y": 7840,
+        "w": 350,
+        "h": 42
+      },
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "6px"
+    },
+    {
+      "tag": "a",
+      "text": "StartNo.01Nov 17Admit one project",
+      "rect": {
+        "x": 20,
+        "y": 7970,
+        "w": 353,
+        "h": 82
+      },
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(20, 18, 16)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(20, 18, 16)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "Prod.",
+      "rect": {
+        "x": 34,
+        "y": 8320,
+        "w": 42,
+        "h": 17
+      },
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "17.4px",
+      "letterSpacing": "1.2px",
+      "textTransform": "uppercase",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgba(241, 236, 228, 0.6)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "Portfolio 2026",
+      "rect": {
+        "x": 34,
+        "y": 8344,
+        "w": 151,
+        "h": 24
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "22px",
+      "fontWeight": "400",
+      "lineHeight": "24.2px",
+      "letterSpacing": "-0.44px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "2",
+      "rect": {
+        "x": 151,
+        "y": 8415,
+        "w": 13,
+        "h": 24
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "22px",
+      "fontWeight": "400",
+      "lineHeight": "24.2px",
+      "letterSpacing": "-0.44px",
+      "textTransform": "none",
+      "color": "rgb(255, 91, 46)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 91, 46)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "main · 9f3c1a",
+      "rect": {
+        "x": 209,
+        "y": 8558,
+        "w": 109,
+        "h": 17
+      },
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "17.4px",
+      "letterSpacing": "1.2px",
+      "textTransform": "uppercase",
+      "color": "rgb(255, 91, 46)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 91, 46)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "h2",
+      "text": "That’s a wrap.",
+      "rect": {
+        "x": 20,
+        "y": 8643,
+        "w": 350,
+        "h": 42
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "44px",
+      "fontWeight": "400",
+      "lineHeight": "41.8px",
+      "letterSpacing": "-1.98px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "Thanks for watching to the end. Say hello, I read every message and reply within a day.",
+      "rect": {
+        "x": 20,
+        "y": 8702,
+        "w": 350,
+        "h": 51
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "25.5px",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgba(241, 236, 228, 0.72)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgba(241, 236, 228, 0.72)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "hello@maravoss.design →",
+      "rect": {
+        "x": 20,
+        "y": 8807,
+        "w": 324,
+        "h": 29
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "26px",
+      "fontWeight": "400",
+      "lineHeight": "28.6px",
+      "letterSpacing": "-0.78px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "a",
+      "text": "hello@maravoss.design →",
+      "rect": {
+        "x": 20,
+        "y": 8803,
+        "w": 324,
+        "h": 36
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "26px",
+      "fontWeight": "400",
+      "lineHeight": "28.6px",
+      "letterSpacing": "-0.78px",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "Sole",
+      "rect": {
+        "x": 20,
+        "y": 9021,
+        "w": 35,
+        "h": 26
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "17px",
+      "fontWeight": "400",
+      "lineHeight": "25.5px",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "→",
+      "rect": {
+        "x": 358,
+        "y": 9321,
+        "w": 12,
+        "h": 24
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgba(241, 236, 228, 0.5)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgba(241, 236, 228, 0.5)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "a",
+      "text": "Privacy",
+      "rect": {
+        "x": 20,
+        "y": 9913,
+        "w": 59,
+        "h": 14
+      },
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "17.4px",
+      "letterSpacing": "1.2px",
+      "textTransform": "uppercase",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgba(241, 236, 228, 0.6)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "18:28",
+      "rect": {
+        "x": 128,
+        "y": 9946,
+        "w": 42,
+        "h": 17
+      },
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace",
+      "fontSize": "12px",
+      "fontWeight": "500",
+      "lineHeight": "17.4px",
+      "letterSpacing": "1.2px",
+      "textTransform": "uppercase",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "↑",
+      "rect": {
+        "x": 120,
+        "y": 9979,
+        "w": 8,
+        "h": 24
+      },
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24px",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "p",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "rect": {
+        "x": 300,
+        "y": 805,
+        "w": 0,
+        "h": 0
+      },
+      "fontFamily": "sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(0, 0, 238)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "border": "0px none rgb(0, 0, 238)",
+      "padding": "0px",
+      "gap": "normal"
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "rect": {
+        "x": 350,
+        "y": 407,
+        "w": 30,
+        "h": 30
+      },
+      "fontFamily": "sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "textTransform": "none",
+      "color": "rgb(255, 255, 255)",
+      "backgroundColor": "rgba(34, 34, 34, 0.8)",
+      "borderRadius": "15px",
+      "border": "0px none rgb(255, 255, 255)",
+      "padding": "0px",
+      "gap": "normal"
+    }
+  ],
+  "textNodes": [
+    {
+      "text": "Mara Voss",
+      "y": 31,
+      "x": 64,
+      "fontSize": "16px",
+      "color": "rgb(241, 236, 228)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Menu",
+      "y": 30,
+      "x": 318,
+      "fontSize": "12px",
+      "color": "rgb(241, 236, 228)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "FRAME 02 — Work",
+      "y": 111,
+      "x": 47,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Work",
+      "y": 152,
+      "x": 20,
+      "fontSize": "45px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "I’m",
+      "y": 152,
+      "x": 144,
+      "fontSize": "45px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "proud",
+      "y": 194,
+      "x": 20,
+      "fontSize": "45px",
+      "color": "rgb(255, 91, 46)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "of.",
+      "y": 194,
+      "x": 157,
+      "fontSize": "45px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Eight projects from the last few years, from the first sketch to the shipped release, with the role I played and what changed.",
+      "y": 256,
+      "x": 20,
+      "fontSize": "16.5px",
+      "color": "rgba(255, 255, 255, 0.78)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Start a project",
+      "y": 376,
+      "x": 42,
+      "fontSize": "13px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Download résumé",
+      "y": 442,
+      "x": 42,
+      "fontSize": "13px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 765,
+      "x": -166,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "01",
+      "y": 765,
+      "x": -166,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "A",
+      "y": 765,
+      "x": -166,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 745,
+      "x": 2,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "02",
+      "y": 745,
+      "x": 2,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "A",
+      "y": 745,
+      "x": 2,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 724,
+      "x": 171,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "03",
+      "y": 724,
+      "x": 171,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "A",
+      "y": 724,
+      "x": 171,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 703,
+      "x": 340,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "04",
+      "y": 703,
+      "x": 340,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "A",
+      "y": 703,
+      "x": 340,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 682,
+      "x": 508,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "05",
+      "y": 682,
+      "x": 508,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "A",
+      "y": 682,
+      "x": 508,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 662,
+      "x": 677,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "06",
+      "y": 662,
+      "x": 677,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "A",
+      "y": 662,
+      "x": 677,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 641,
+      "x": 846,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "01",
+      "y": 641,
+      "x": 846,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "A",
+      "y": 641,
+      "x": 846,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 620,
+      "x": 1015,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "02",
+      "y": 620,
+      "x": 1015,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "A",
+      "y": 620,
+      "x": 1015,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 600,
+      "x": 1183,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "03",
+      "y": 600,
+      "x": 1183,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "A",
+      "y": 600,
+      "x": 1183,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 579,
+      "x": 1352,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "04",
+      "y": 579,
+      "x": 1352,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "A",
+      "y": 579,
+      "x": 1352,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 558,
+      "x": 1521,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "05",
+      "y": 558,
+      "x": 1521,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "A",
+      "y": 558,
+      "x": 1521,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 537,
+      "x": 1690,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "06",
+      "y": 537,
+      "x": 1690,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "A",
+      "y": 537,
+      "x": 1690,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "MV 400TX · Int. studio — day",
+      "y": 862,
+      "x": 20,
+      "fontSize": "12px",
+      "color": "rgba(255, 255, 255, 0.78)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Scroll ↓",
+      "y": 862,
+      "x": 303,
+      "fontSize": "12px",
+      "color": "rgba(255, 255, 255, 0.78)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Every",
+      "y": 1053,
+      "x": 20,
+      "fontSize": "36px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "frame",
+      "y": 1053,
+      "x": 125,
+      "fontSize": "36px",
+      "color": "rgb(255, 91, 46)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": ",",
+      "y": 1053,
+      "x": 231,
+      "fontSize": "36px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "in",
+      "y": 1087,
+      "x": 20,
+      "fontSize": "36px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "order.",
+      "y": 1087,
+      "x": 57,
+      "fontSize": "36px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Filter by the kind of work, or switch to the list if you know what you’re looking for.",
+      "y": 1122,
+      "x": 20,
+      "fontSize": "16px",
+      "color": "rgba(255, 255, 255, 0.78)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Show",
+      "y": 1238,
+      "x": 20,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "All",
+      "y": 1226,
+      "x": 66,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "08",
+      "y": 1235,
+      "x": 108,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Brand",
+      "y": 1226,
+      "x": 144,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "04",
+      "y": 1235,
+      "x": 203,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Web",
+      "y": 1226,
+      "x": 240,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "01",
+      "y": 1235,
+      "x": 282,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Editorial",
+      "y": 1226,
+      "x": 319,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "01",
+      "y": 1235,
+      "x": 410,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Product",
+      "y": 1226,
+      "x": 446,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "02",
+      "y": 1235,
+      "x": 521,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Sheet",
+      "y": 1283,
+      "x": 23,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "List",
+      "y": 1283,
+      "x": 113,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Exposed",
+      "y": 1421,
+      "x": 216,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "00",
+      "y": 1421,
+      "x": 289,
+      "fontSize": "12px",
+      "color": "rgb(255, 241, 218)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "/",
+      "y": 1421,
+      "x": 289,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "08",
+      "y": 1421,
+      "x": 289,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Light table · Roll 07",
+      "y": 1356,
+      "x": 26,
+      "fontSize": "12px",
+      "color": "rgb(26, 20, 12)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "8 exposures · Mara Voss",
+      "y": 1374,
+      "x": 26,
+      "fontSize": "12px",
+      "color": "rgb(58, 46, 30)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "01",
+      "y": 1420,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A ▸",
+      "y": 1420,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 1420,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "1",
+      "y": 1420,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "01",
+      "y": 1452,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A",
+      "y": 1452,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Sole",
+      "y": 1693,
+      "x": 46,
+      "fontSize": "30px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Sole Supply · 2026",
+      "y": 1729,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Role",
+      "y": 1757,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Art direction, web",
+      "y": 1757,
+      "x": 46,
+      "fontSize": "13.5px",
+      "color": "color(srgb 1 1 1 / 0.86)",
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "+64% launch-week sales",
+      "y": 1800,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "02",
+      "y": 1847,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A ▸",
+      "y": 1847,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 1847,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "2",
+      "y": 1847,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "02",
+      "y": 1879,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A",
+      "y": 1879,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Rouge",
+      "y": 2119,
+      "x": 46,
+      "fontSize": "30px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Maison Rouge · 2025",
+      "y": 2156,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Role",
+      "y": 2184,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Packaging, 3D configurator",
+      "y": 2184,
+      "x": 46,
+      "fontSize": "13.5px",
+      "color": "color(srgb 1 1 1 / 0.86)",
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "1 in 5 visitors used the configurator",
+      "y": 2226,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "03",
+      "y": 2290,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A ▸",
+      "y": 2290,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 2290,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "3",
+      "y": 2290,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "03",
+      "y": 2322,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A",
+      "y": 2322,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Nord",
+      "y": 2562,
+      "x": 46,
+      "fontSize": "30px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Nord Coffee · 2025",
+      "y": 2599,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Role",
+      "y": 2626,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Identity, packaging, type",
+      "y": 2626,
+      "x": 46,
+      "fontSize": "13.5px",
+      "color": "color(srgb 1 1 1 / 0.86)",
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Stocked in 40 cafés in year one",
+      "y": 2669,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "04",
+      "y": 2717,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A ▸",
+      "y": 2717,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 2717,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "4",
+      "y": 2717,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "04",
+      "y": 2749,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A",
+      "y": 2749,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Atlas",
+      "y": 2989,
+      "x": 46,
+      "fontSize": "30px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Atlas Cloud · 2024",
+      "y": 3026,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Role",
+      "y": 3053,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Front-end lead",
+      "y": 3053,
+      "x": 46,
+      "fontSize": "13.5px",
+      "color": "color(srgb 1 1 1 / 0.86)",
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Docs load 3× faster",
+      "y": 3096,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "05",
+      "y": 3143,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A ▸",
+      "y": 3143,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 3143,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "5",
+      "y": 3143,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "05",
+      "y": 3175,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A",
+      "y": 3175,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Chroma",
+      "y": 3416,
+      "x": 46,
+      "fontSize": "30px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Studio Chroma · 2024",
+      "y": 3452,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Role",
+      "y": 3480,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Colour system",
+      "y": 3480,
+      "x": 46,
+      "fontSize": "13.5px",
+      "color": "color(srgb 1 1 1 / 0.86)",
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "One palette for screen and print",
+      "y": 3523,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "06",
+      "y": 3570,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A ▸",
+      "y": 3570,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 3570,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "6",
+      "y": 3570,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "06",
+      "y": 3602,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A",
+      "y": 3602,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Violet",
+      "y": 3843,
+      "x": 46,
+      "fontSize": "30px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Violet Magazine · 2024",
+      "y": 3879,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Role",
+      "y": 3907,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Art direction, layout",
+      "y": 3907,
+      "x": 46,
+      "fontSize": "13.5px",
+      "color": "color(srgb 1 1 1 / 0.86)",
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Issue 12 sold out",
+      "y": 3950,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "07",
+      "y": 3997,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A ▸",
+      "y": 3997,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 3997,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "7",
+      "y": 3997,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "07",
+      "y": 4029,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A",
+      "y": 4029,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Loop",
+      "y": 4269,
+      "x": 46,
+      "fontSize": "30px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Loop Bank · 2023",
+      "y": 4306,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Role",
+      "y": 4333,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Product design, prototyping",
+      "y": 4333,
+      "x": 46,
+      "fontSize": "13.5px",
+      "color": "color(srgb 1 1 1 / 0.86)",
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "4.7★ on the App Store",
+      "y": 4376,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "08",
+      "y": 4423,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A ▸",
+      "y": 4423,
+      "x": 44,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 4423,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "8",
+      "y": 4423,
+      "x": 260,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "08",
+      "y": 4455,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A",
+      "y": 4455,
+      "x": 54,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Pulse",
+      "y": 4696,
+      "x": 46,
+      "fontSize": "30px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Pulse Analytics · 2020",
+      "y": 4732,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Role",
+      "y": 4760,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "color(srgb 0.808627 0.792941 0.775686)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "Design system, React",
+      "y": 4760,
+      "x": 46,
+      "fontSize": "13.5px",
+      "color": "color(srgb 1 1 1 / 0.86)",
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "140 components, 1 source",
+      "y": 4803,
+      "x": 46,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "08",
+      "y": 4822,
+      "x": 133,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "A ◂",
+      "y": 4822,
+      "x": 133,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "MV 400TX",
+      "y": 4822,
+      "x": 133,
+      "fontSize": "12px",
+      "color": "rgb(242, 146, 58)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, monospace"
+    },
+    {
+      "text": "FRAME 07 — Kind words",
+      "y": 5082,
+      "x": 45,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "What clients say.",
+      "y": 5103,
+      "x": 20,
+      "fontSize": "40px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "What",
+      "y": 5139,
+      "x": 20,
+      "fontSize": "40px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "clients",
+      "y": 5139,
+      "x": 136,
+      "fontSize": "40px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "say.",
+      "y": 5177,
+      "x": 23,
+      "fontSize": "40px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Cut out and kept. A few words from the people I’ve designed and shipped with.",
+      "y": 5225,
+      "x": 20,
+      "fontSize": "16px",
+      "color": "rgba(20, 18, 16, 0.77)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Clippings filed",
+      "y": 5291,
+      "x": 20,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "05 / 05",
+      "y": 5291,
+      "x": 311,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "No.",
+      "y": 5258,
+      "x": 15,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "01",
+      "y": 5258,
+      "x": 15,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Loop Bank · Re: Loop",
+      "y": 5210,
+      "x": 149,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "“",
+      "y": 5258,
+      "x": 22,
+      "fontSize": "52.9px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Mara designed it and then built half of it. We shipped two months early.",
+      "y": 5258,
+      "x": 24,
+      "fontSize": "23px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Lena Hart",
+      "y": 5444,
+      "x": 129,
+      "fontSize": "15px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "CEO · Loop Bank",
+      "y": 5470,
+      "x": 134,
+      "fontSize": "12px",
+      "color": "color(srgb 0.277843 0.255882 0.232157)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "No.",
+      "y": 5543,
+      "x": 62,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "02",
+      "y": 5543,
+      "x": 62,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Nord Coffee · Re: Nord",
+      "y": 5564,
+      "x": 178,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "“",
+      "y": 5590,
+      "x": 48,
+      "fontSize": "52.9px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "The brand looked like us from the first round. Customers ask who made our bags.",
+      "y": 5591,
+      "x": 30,
+      "fontSize": "23px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Jonas Berg",
+      "y": 5797,
+      "x": 91,
+      "fontSize": "15px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Founder · Nord Coffee",
+      "y": 5823,
+      "x": 88,
+      "fontSize": "12px",
+      "color": "color(srgb 0.277843 0.255882 0.232157)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "No.",
+      "y": 5948,
+      "x": 16,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "03",
+      "y": 5948,
+      "x": 16,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Atlas Cloud · Re: Atlas",
+      "y": 5902,
+      "x": 123,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "“",
+      "y": 5950,
+      "x": 22,
+      "fontSize": "52.9px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "The rare designer who reads a pull request. Our docs finally feel fast.",
+      "y": 5950,
+      "x": 24,
+      "fontSize": "23px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Amira Said",
+      "y": 6132,
+      "x": 128,
+      "fontSize": "15px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "CTO · Atlas Cloud",
+      "y": 6158,
+      "x": 133,
+      "fontSize": "12px",
+      "color": "color(srgb 0.277843 0.255882 0.232157)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "No.",
+      "y": 6235,
+      "x": 59,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "04",
+      "y": 6235,
+      "x": 59,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Pulse Analytics · Re: Pulse",
+      "y": 6247,
+      "x": 130,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "“",
+      "y": 6282,
+      "x": 46,
+      "fontSize": "52.9px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "She gave us one system our designers and engineers both trust.",
+      "y": 6282,
+      "x": 33,
+      "fontSize": "23px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Chris Owen",
+      "y": 6455,
+      "x": 95,
+      "fontSize": "15px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Head of Product · Pulse Analytics",
+      "y": 6480,
+      "x": 90,
+      "fontSize": "12px",
+      "color": "color(srgb 0.277843 0.255882 0.232157)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "No.",
+      "y": 6616,
+      "x": 17,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "05",
+      "y": 6616,
+      "x": 17,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Sole Supply · Re: Sole",
+      "y": 6566,
+      "x": 133,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "“",
+      "y": 6613,
+      "x": 24,
+      "fontSize": "52.9px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Fast, calm and very, very good with detail.",
+      "y": 6613,
+      "x": 26,
+      "fontSize": "23px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Sofia Marin",
+      "y": 6745,
+      "x": 126,
+      "fontSize": "15px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, system-ui, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Creative Director · Sole Supply",
+      "y": 6771,
+      "x": 131,
+      "fontSize": "12px",
+      "color": "color(srgb 0.277843 0.255882 0.232157)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "FRAME 10 — Contact",
+      "y": 7201,
+      "x": 47,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Have a project? Let’s shoot.",
+      "y": 7232,
+      "x": 20,
+      "fontSize": "47px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Have",
+      "y": 7268,
+      "x": 20,
+      "fontSize": "47px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "a",
+      "y": 7268,
+      "x": 151,
+      "fontSize": "47px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "project?",
+      "y": 7311,
+      "x": 20,
+      "fontSize": "47px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Let’s",
+      "y": 7353,
+      "x": 20,
+      "fontSize": "47px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "shoot.",
+      "y": 7353,
+      "x": 135,
+      "fontSize": "47px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Tell me what you are making. I reply within a day with next steps and a rough plan.",
+      "y": 7417,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Start a project",
+      "y": 7515,
+      "x": 42,
+      "fontSize": "13px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "hello@maravoss.design",
+      "y": 7598,
+      "x": 36,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Copy",
+      "y": 7586,
+      "x": 298,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Copied",
+      "y": 7628,
+      "x": 298,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "ON AIR",
+      "y": 7689,
+      "x": 110,
+      "fontSize": "46px",
+      "color": "rgb(168, 74, 64)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Studio 1 · Rec",
+      "y": 7784,
+      "x": 20,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Booking now for",
+      "y": 7840,
+      "x": 20,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Available for work · Nov 2026",
+      "y": 7860,
+      "x": 20,
+      "fontSize": "20px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Next start dates",
+      "y": 7906,
+      "x": 20,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Start",
+      "y": 7987,
+      "x": 34,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "No.",
+      "y": 8004,
+      "x": 33,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "01",
+      "y": 8004,
+      "x": 33,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Nov 17",
+      "y": 7995,
+      "x": 117,
+      "fontSize": "24px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Start",
+      "y": 8061,
+      "x": 34,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "No.",
+      "y": 8078,
+      "x": 33,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "02",
+      "y": 8078,
+      "x": 33,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Dec 1",
+      "y": 8069,
+      "x": 117,
+      "fontSize": "24px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Start",
+      "y": 8135,
+      "x": 34,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "No.",
+      "y": 8152,
+      "x": 33,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "03",
+      "y": 8152,
+      "x": 33,
+      "fontSize": "12px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Chivo Mono\", ui-monospace, SFMono-Regular, Menlo, monospace"
+    },
+    {
+      "text": "Jan 12",
+      "y": 8143,
+      "x": 117,
+      "fontSize": "24px",
+      "color": "rgb(20, 18, 16)",
+      "fontFamily": "\"Mona Sans\", Inter, -apple-system, Arial, sans-serif"
+    },
+    {
+      "text": "Prod.",
+      "y": 8320,
+      "x": 34,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Portfolio 2026",
+      "y": 8344,
+      "x": 34,
+      "fontSize": "22px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Scene",
+      "y": 8392,
+      "x": 34,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Footer",
+      "y": 8415,
+      "x": 34,
+      "fontSize": "22px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Take",
+      "y": 8392,
+      "x": 151,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "2",
+      "y": 8415,
+      "x": 151,
+      "fontSize": "22px",
+      "color": "rgb(255, 91, 46)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Roll",
+      "y": 8392,
+      "x": 267,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "A-09",
+      "y": 8415,
+      "x": 267,
+      "fontSize": "22px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Director",
+      "y": 8463,
+      "x": 34,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Mara Voss",
+      "y": 8487,
+      "x": 34,
+      "fontSize": "22px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Date",
+      "y": 8535,
+      "x": 34,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "26.11.26",
+      "y": 8558,
+      "x": 34,
+      "fontSize": "22px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Build",
+      "y": 8535,
+      "x": 209,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "main · 9f3c1a",
+      "y": 8558,
+      "x": 209,
+      "fontSize": "12px",
+      "color": "rgb(255, 91, 46)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "That’s a",
+      "y": 8643,
+      "x": 20,
+      "fontSize": "44px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "wrap.",
+      "y": 8632,
+      "x": 193,
+      "fontSize": "44px",
+      "color": "rgb(255, 91, 46)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Thanks for watching to the end. Say hello, I read every message and reply within a day.",
+      "y": 8702,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgba(241, 236, 228, 0.72)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Write to me",
+      "y": 8771,
+      "x": 20,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "hello@maravoss.design →",
+      "y": 8803,
+      "x": 20,
+      "fontSize": "26px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Work",
+      "y": 8979,
+      "x": 20,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Sole",
+      "y": 9021,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Brand · Campaign",
+      "y": 9025,
+      "x": 67,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Rouge",
+      "y": 9066,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Brand · Packaging",
+      "y": 9070,
+      "x": 84,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Nord",
+      "y": 9112,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Brand · Identity",
+      "y": 9116,
+      "x": 71,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Atlas",
+      "y": 9157,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Web · Front-end",
+      "y": 9161,
+      "x": 73,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Chroma",
+      "y": 9203,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Brand · Colour system",
+      "y": 9207,
+      "x": 98,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Pages",
+      "y": 9278,
+      "x": 20,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "About",
+      "y": 9320,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "→",
+      "y": 9321,
+      "x": 358,
+      "fontSize": "16px",
+      "color": "rgba(241, 236, 228, 0.5)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Résumé",
+      "y": 9365,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "→",
+      "y": 9366,
+      "x": 358,
+      "fontSize": "16px",
+      "color": "rgba(241, 236, 228, 0.5)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Lab",
+      "y": 9411,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "→",
+      "y": 9412,
+      "x": 358,
+      "fontSize": "16px",
+      "color": "rgba(241, 236, 228, 0.5)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Writing",
+      "y": 9456,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "→",
+      "y": 9457,
+      "x": 358,
+      "fontSize": "16px",
+      "color": "rgba(241, 236, 228, 0.5)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Contact",
+      "y": 9502,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "→",
+      "y": 9503,
+      "x": 358,
+      "fontSize": "16px",
+      "color": "rgba(241, 236, 228, 0.5)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Elsewhere",
+      "y": 9577,
+      "x": 20,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Dribbble",
+      "y": 9619,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "↗",
+      "y": 9619,
+      "x": 358,
+      "fontSize": "16px",
+      "color": "rgba(241, 236, 228, 0.5)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "GitHub",
+      "y": 9664,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "↗",
+      "y": 9665,
+      "x": 358,
+      "fontSize": "16px",
+      "color": "rgba(241, 236, 228, 0.5)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "LinkedIn",
+      "y": 9710,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "↗",
+      "y": 9710,
+      "x": 358,
+      "fontSize": "16px",
+      "color": "rgba(241, 236, 228, 0.5)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Read.cv",
+      "y": 9755,
+      "x": 20,
+      "fontSize": "17px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "↗",
+      "y": 9756,
+      "x": 358,
+      "fontSize": "16px",
+      "color": "rgba(241, 236, 228, 0.5)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "© 2026 Mara Voss",
+      "y": 9883,
+      "x": 20,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Privacy",
+      "y": 9913,
+      "x": 20,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Terms",
+      "y": 9913,
+      "x": 99,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Local time",
+      "y": 9946,
+      "x": 36,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "18:28",
+      "y": 9946,
+      "x": 128,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "· Berlin",
+      "y": 9946,
+      "x": 178,
+      "fontSize": "12px",
+      "color": "rgba(241, 236, 228, 0.6)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "Back to top",
+      "y": 9982,
+      "x": 20,
+      "fontSize": "12px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Chivo Mono\", \"Chivo Mono Placeholder\", monospace"
+    },
+    {
+      "text": "↑",
+      "y": 9979,
+      "x": 120,
+      "fontSize": "16px",
+      "color": "rgb(255, 255, 255)",
+      "fontFamily": "\"Mona Sans Variable\", \"Mona Sans Variable Placeholder\", sans-serif"
+    },
+    {
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies.",
+      "y": 805,
+      "x": 300,
+      "fontSize": "12px",
+      "color": "rgb(0, 0, 238)",
+      "fontFamily": "sans-serif"
+    }
+  ],
+  "animationsCount": 3
+}
