@@ -4082,7 +4082,7 @@
 .mv-svc-projects,
 .mv-svc-other,
 .mv-svc-faq {
-  padding: 56px 0;
+  padding-block: 56px;
   border-top: 1px solid rgba(20, 18, 16, 0.14);
   display: grid;
   gap: 24px;
@@ -4359,7 +4359,7 @@
   display: grid;
   grid-template-columns: 280px minmax(0, 1fr);
   gap: 48px;
-  padding: 40px 0 64px;
+  padding-block: 40px 64px;
   align-items: start;
 }
 
@@ -4471,7 +4471,7 @@
 }
 
 .mv-lab-more {
-  padding: 48px 0 80px;
+  padding-block: 48px 80px;
   border-top: 1px solid rgba(20, 18, 16, 0.14);
   display: grid;
   gap: 24px;
@@ -4796,7 +4796,7 @@
 }
 
 .mvpo-more {
-  padding: 48px 0 80px;
+  padding-block: 48px 80px;
   border-top: 1px solid rgba(20, 18, 16, 0.14);
   display: grid;
   gap: 20px;
