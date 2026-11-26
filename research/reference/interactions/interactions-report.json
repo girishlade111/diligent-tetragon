@@ -1,0 +1,4988 @@
+{
+  "preloaderText": "Mara Voss\n\nWork\n\nAbout\n\nRésumé\n\nWriting\n\nContact\n\nHire me\n\nM\nA\nR\nA\nV\nO\nS\nS\nMara Voss, Product designer & developer\n\nAvailable for work · Nov 2026\n\nBerlin · 18:30\n\n9 years of shipping\n\nMove the light · click for a new backdrop\n\nBackdrop\nLight\n\nProduct designer\n& developer\n\nI design digital products and build them in code, from the first sketch to the shipped release.\n\nSee my work\nSee my work\nDownload résumé\nDownload résumé\n\nFRAME 01 — About\n\nI’m Mara. For nine years I’ve turned messy briefs into products people actually use — designed in Figma, built in React, shipped on time.\n\n01\n\n9 YEARS\n\n02\n",
+  "backdropChanged": false,
+  "heroNamedElements": {
+    "heroCount": 6,
+    "namedEls": [
+      {
+        "name": "L MvLoader · THE SLATE (once per session)",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1440,
+          "h": 0
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "MvLoader",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1440,
+          "h": 0
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "L MvPageTrans · THE CUT",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1440,
+          "h": 0
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "MvPageTrans",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1440,
+          "h": 0
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Site Header Bar",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1440,
+          "h": 72
+        },
+        "position": "fixed",
+        "top": "0px",
+        "zIndex": "10",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Site Header",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1440,
+          "h": 72
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Desktop",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1440,
+          "h": 72
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Bar",
+        "tag": "div",
+        "rect": {
+          "x": 58,
+          "y": 10,
+          "w": 1324,
+          "h": 62
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "2",
+        "bg": "rgba(23, 19, 17, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Logo",
+        "tag": "a",
+        "rect": {
+          "x": 70,
+          "y": 28,
+          "w": 125,
+          "h": 26
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Logo Mark",
+        "tag": "div",
+        "rect": {
+          "x": 70,
+          "y": 28,
+          "w": 26,
+          "h": 26
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Logo Text",
+        "tag": "div",
+        "rect": {
+          "x": 106,
+          "y": 33,
+          "w": 89,
+          "h": 17
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Nav",
+        "tag": "nav",
+        "rect": {
+          "x": 507,
+          "y": 21,
+          "w": 382,
+          "h": 41
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(255, 255, 255, 0.35)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Nav Link",
+        "tag": "a",
+        "rect": {
+          "x": 511,
+          "y": 25,
+          "w": 62,
+          "h": 33
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Nav Label",
+        "tag": "div",
+        "rect": {
+          "x": 525,
+          "y": 33,
+          "w": 34,
+          "h": 17
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Nav Link",
+        "tag": "a",
+        "rect": {
+          "x": 575,
+          "y": 25,
+          "w": 68,
+          "h": 33
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Nav Label",
+        "tag": "div",
+        "rect": {
+          "x": 589,
+          "y": 33,
+          "w": 40,
+          "h": 17
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Nav Link",
+        "tag": "a",
+        "rect": {
+          "x": 645,
+          "y": 25,
+          "w": 81,
+          "h": 33
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Nav Label",
+        "tag": "div",
+        "rect": {
+          "x": 659,
+          "y": 33,
+          "w": 53,
+          "h": 17
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Nav Link",
+        "tag": "a",
+        "rect": {
+          "x": 728,
+          "y": 25,
+          "w": 74,
+          "h": 33
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Nav Label",
+        "tag": "div",
+        "rect": {
+          "x": 742,
+          "y": 33,
+          "w": 46,
+          "h": 17
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Nav Link",
+        "tag": "a",
+        "rect": {
+          "x": 805,
+          "y": 25,
+          "w": 81,
+          "h": 33
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Nav Label",
+        "tag": "div",
+        "rect": {
+          "x": 819,
+          "y": 33,
+          "w": 53,
+          "h": 17
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Actions",
+        "tag": "div",
+        "rect": {
+          "x": 1201,
+          "y": 14,
+          "w": 173,
+          "h": 54
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Availability",
+        "tag": "div",
+        "rect": {
+          "x": 1201,
+          "y": 26,
+          "w": 30,
+          "h": 30
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Live Dot",
+        "tag": "div",
+        "rect": {
+          "x": 1211,
+          "y": 37,
+          "w": 9,
+          "h": 9
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgb(61, 220, 151)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Hire",
+        "tag": "div",
+        "rect": {
+          "x": 1243,
+          "y": 14,
+          "w": 131,
+          "h": 54
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Accent",
+        "tag": "a",
+        "rect": {
+          "x": 1243,
+          "y": 14,
+          "w": 131,
+          "h": 54
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgb(255, 91, 46)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "Label",
+        "tag": "div",
+        "rect": {
+          "x": 1265,
+          "y": 33,
+          "w": 49,
+          "h": 16
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Gap",
+        "tag": "div",
+        "rect": {
+          "x": 1314,
+          "y": 41,
+          "w": 14,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Chip",
+        "tag": "div",
+        "rect": {
+          "x": 1328,
+          "y": 22,
+          "w": 38,
+          "h": 38
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgb(20, 18, 16)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Menu Button",
+        "tag": "button",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "position": "relative",
+        "top": "auto",
+        "zIndex": "auto",
+        "bg": "rgba(20, 18, 16, 0.08)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Burger",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "position": "relative",
+        "top": "auto",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Line",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "position": "relative",
+        "top": "auto",
+        "zIndex": "auto",
+        "bg": "rgb(20, 18, 16)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Line",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "position": "relative",
+        "top": "auto",
+        "zIndex": "auto",
+        "bg": "rgb(20, 18, 16)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "Menu Text",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "position": "relative",
+        "top": "auto",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "L MvSmooth",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1440,
+          "h": 0
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "MvSmooth",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1440,
+          "h": 0
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "CMS Bridge · posts (keep)",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "posts-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "posts-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "posts-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 1,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "posts-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 1,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "posts-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 2,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "posts-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 2,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "posts-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 3,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "posts-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 3,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "posts-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 4,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "posts-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 4,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "posts-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 5,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "posts-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 5,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "CMS Bridge · lab (keep)",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "lab-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "lab-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "lab-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 1,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "lab-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 1,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "lab-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 2,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "lab-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 2,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "lab-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 3,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "lab-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 3,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "lab-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 4,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "lab-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 4,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "lab-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 5,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "lab-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 5,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "CMS Bridge · reviews (keep)",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "reviews-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "reviews-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "reviews-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 1,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "reviews-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 1,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "reviews-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 2,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "reviews-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 2,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "reviews-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 3,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "reviews-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 3,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "reviews-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 4,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "reviews-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 4,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "CMS Bridge · tools (keep)",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 1,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 1,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 2,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 2,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 3,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 3,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 4,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 4,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 5,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 5,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 6,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 6,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 7,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 7,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 8,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 8,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 9,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 9,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 10,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 10,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 11,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 11,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "CMS Bridge · process (keep)",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "process-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "process-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "process-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 1,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "process-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 1,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "process-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 2,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "process-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 2,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "process-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 3,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "process-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 3,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "CMS Bridge · uses (keep)",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 1,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 1,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 2,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 2,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 3,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 3,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 4,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 4,
+          "w": 1,
+          "h": 1
+        },
+        "position": "absolute",
+        "top": "-0.5px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "visible"
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "rect": {
+          "x": 0,
+          "y": 5,
+          "w": 1,
+          "h": 1
+        },
+        "position": "relative",
+        "top": "0px",
+        "zIndex": "auto",
+        "bg": "rgba(0, 0, 0, 0)",
+        "bgImg": "none",
+        "overflow": "clip"
+      }
+    ]
+  },
+  "homeScrollHeight": 19133,
+  "scrollSamples": [
+    {
+      "y": 0,
+      "activeTexts": [
+        "Site Header Bar: Mara VossWorkAboutRésuméWritingContactHire meMenu",
+        "Site Header: Mara VossWorkAboutRésuméWritingContactHire meMenu",
+        "Desktop: Mara VossWorkAboutRésuméWritingContactHire meMenu",
+        "Bar: Mara VossWorkAboutRésuméWritingContactHire meMenu",
+        "Logo: Mara Voss",
+        "Logo Mark: ",
+        "Logo Text: Mara Voss",
+        "Nav: WorkAboutRésuméWritingContact",
+        "Nav Link: Work",
+        "Nav Label: Work",
+        "Nav Link: About",
+        "Nav Label: About",
+        "Nav Link: Résumé",
+        "Nav Label: Résumé",
+        "Nav Link: Writing",
+        "Nav Label: Writing",
+        "Nav Link: Contact",
+        "Nav Label: Contact",
+        "Actions: Hire meMenu",
+        "Availability: "
+      ]
+    },
+    {
+      "y": 1913,
+      "activeTexts": [
+        "Live Dot: ",
+        "Gap: ",
+        "H3: Sole",
+        "Sticky: FRAME 02 — Selected workWork I’mproud of.All projects",
+        "Grid: FRAME 02 — Selected workWork I’mproud of.All projects",
+        "Sheet Space: ",
+        "Head Column: FRAME 02 — Selected workWork I’mproud of.All projects",
+        "Row: FRAME 02 — Selected workWork I’mproud of.All projects",
+        "Title: FRAME 02 — Selected workWork I’mproud of.",
+        "Eyebrow: FRAME 02 — Selected work",
+        "Dot: ",
+        "Eyebrow Text: FRAME 02 — Selected work",
+        "Heading: Work I’mproud of.",
+        "H2: Work I’mproud of.",
+        "Glass: All projects",
+        "Label: All projects",
+        "Gap: ",
+        "Chip: ",
+        "Light: Create a free website with Framer, the website builder loved",
+        "Backdrop: "
+      ]
+    },
+    {
+      "y": 3827,
+      "activeTexts": [
+        "Live Dot: ",
+        "Gap: ",
+        "H3: Chroma",
+        "Sticky: FRAME 02 — Selected workWork I’mproud of.All projects",
+        "Grid: FRAME 02 — Selected workWork I’mproud of.All projects",
+        "Sheet Space: ",
+        "Head Column: FRAME 02 — Selected workWork I’mproud of.All projects",
+        "Row: FRAME 02 — Selected workWork I’mproud of.All projects",
+        "Title: FRAME 02 — Selected workWork I’mproud of.",
+        "Eyebrow: FRAME 02 — Selected work",
+        "Dot: ",
+        "Eyebrow Text: FRAME 02 — Selected work",
+        "Heading: Work I’mproud of.",
+        "H2: Work I’mproud of.",
+        "Glass: All projects",
+        "Label: All projects",
+        "Gap: ",
+        "Chip: ",
+        "Light: Create a free website with Framer, the website builder loved",
+        "Backdrop: "
+      ]
+    },
+    {
+      "y": 5740,
+      "activeTexts": [
+        "Live Dot: ",
+        "Gap: ",
+        "MvServices: FRAME 03 — ServicesWhat I can do for you.What I candofor you",
+        "Head: FRAME 03 — ServicesWhat I can do for you.What I candofor you",
+        "Row: FRAME 03 — ServicesWhat I can do for you.What I candofor you",
+        "Title: FRAME 03 — ServicesWhat I can do for you.What I candofor you",
+        "Eyebrow: FRAME 03 — Services",
+        "Dot: ",
+        "Eyebrow Text: FRAME 03 — Services",
+        "Heading: What I can do for you.What I candofor you.",
+        "Heading (SEO): What I can do for you.",
+        "H2: What I can do for you.",
+        "Line 1: What I can",
+        "Text: What I can",
+        "Line 2: dofor you.",
+        "Highlight: do",
+        "Fill: ",
+        "Word: do",
+        "Text: for you.",
+        "Outline: All services"
+      ]
+    },
+    {
+      "y": 7653,
+      "activeTexts": [
+        "Live Dot: ",
+        "Gap: ",
+        "Row: FRAME 04 — How I workOne project,four days that matter.",
+        "Eyebrow: FRAME 04 — How I work",
+        "Dot: ",
+        "Eyebrow Text: FRAME 04 — How I work",
+        "Heading: One project,four days that matter.",
+        "H2: One project,four days that matter.",
+        "MvProcess: :where(.mv){position:relative;z-index:10} .mv,.mv *{box-sizi",
+        "H3: Brief",
+        "H3: Explore",
+        "H3: Build",
+        "H3: Ship",
+        "Light: Create a free website with Framer, the website builder loved",
+        "Backdrop: ",
+        "Content: Create a free website with Framer, the website builder loved",
+        "Logo: ",
+        "Text: ",
+        "Bottom: ",
+        "Border: "
+      ]
+    },
+    {
+      "y": 9567,
+      "activeTexts": [
+        "Live Dot: ",
+        "Gap: ",
+        "MvCredits: :where(.mv){position:relative;z-index:10} .mv,.mv *{box-sizi",
+        "MvCredits: :where(.mv){position:relative;z-index:10} .mv,.mv *{box-sizi",
+        "H3: Work",
+        "Heading Rail: FRAME 06 — RésuméThe credits.Download résuméFull résumé",
+        "Sticky: FRAME 06 — RésuméThe credits.Download résuméFull résumé",
+        "Row: FRAME 06 — RésuméThe credits.Download résuméFull résumé",
+        "Title: FRAME 06 — RésuméThe credits.",
+        "Eyebrow: FRAME 06 — Résumé",
+        "Dot: ",
+        "Eyebrow Text: FRAME 06 — Résumé",
+        "Heading: The credits.",
+        "H2: The credits.",
+        "Buttons: Download résuméFull résumé",
+        "Accent: Download résumé",
+        "Label: Download résumé",
+        "Gap: ",
+        "Chip: ",
+        "Glass: Full résumé"
+      ]
+    },
+    {
+      "y": 11480,
+      "activeTexts": [
+        "Live Dot: ",
+        "Gap: ",
+        "H3: Awards",
+        "MvPress: FRAME 07 — Kind wordsWhat clients say.What clientssay.Cut ou",
+        "Client Words: FRAME 07 — Kind wordsWhat clients say.What clientssay.Cut ou",
+        "MvPress: FRAME 07 — Kind wordsWhat clients say.What clientssay.Cut ou",
+        "Head: FRAME 07 — Kind wordsWhat clients say.What clientssay.Cut ou",
+        "Row: FRAME 07 — Kind wordsWhat clients say.What clientssay.Cut ou",
+        "Title: FRAME 07 — Kind wordsWhat clients say.What clientssay.",
+        "Eyebrow: FRAME 07 — Kind words",
+        "Dot: ",
+        "Eyebrow Text: FRAME 07 — Kind words",
+        "Heading: What clients say.What clientssay.",
+        "Heading (SEO): What clients say.",
+        "H2: What clients say.",
+        "Line 1: What clients",
+        "Text: What clients",
+        "H2: What clients",
+        "Line 2: say.",
+        "Highlight: say."
+      ]
+    },
+    {
+      "y": 13393,
+      "activeTexts": [
+        "Live Dot: ",
+        "Gap: ",
+        "Sticky: FRAME 08 — PlaygroundOuttakes,side projectsand experiments.T",
+        "Row: FRAME 08 — PlaygroundOuttakes,side projectsand experiments.T",
+        "Title: FRAME 08 — PlaygroundOuttakes,side projectsand experiments.",
+        "Eyebrow: FRAME 08 — Playground",
+        "Dot: ",
+        "Eyebrow Text: FRAME 08 — Playground",
+        "Heading: Outtakes,side projectsand experiments.",
+        "H2: Outtakes,side projectsand experiments.",
+        "Side: Things I make when nobody is waiting for them. Small tools, ",
+        "Intro: Things I make when nobody is waiting for them. Small tools, ",
+        "Glass: Visit the lab",
+        "Label: Visit the lab",
+        "Gap: ",
+        "Chip: ",
+        "Light: Create a free website with Framer, the website builder loved",
+        "Backdrop: ",
+        "Content: Create a free website with Framer, the website builder loved",
+        "Logo: "
+      ]
+    },
+    {
+      "y": 15306,
+      "activeTexts": [
+        "Live Dot: ",
+        "Gap: ",
+        "MvNotes: FRAME 09 — WritingNotes from the studio.Notes fromthestudio.",
+        "Head: FRAME 09 — WritingNotes from the studio.Notes fromthestudio.",
+        "Row: FRAME 09 — WritingNotes from the studio.Notes fromthestudio.",
+        "Title: FRAME 09 — WritingNotes from the studio.Notes fromthestudio.",
+        "Eyebrow: FRAME 09 — Writing",
+        "Dot: ",
+        "Eyebrow Text: FRAME 09 — Writing",
+        "Heading: Notes from the studio.Notes fromthestudio.",
+        "Heading (SEO): Notes from the studio.",
+        "H2: Notes from the studio.",
+        "Line 1: Notes from",
+        "Text: Notes from",
+        "Line 2: thestudio.",
+        "Text: the",
+        "Highlight: studio.",
+        "Fill: ",
+        "Word: studio.",
+        "Side: Notebook · Vol. 3Written between projectsAll writing"
+      ]
+    },
+    {
+      "y": 17220,
+      "activeTexts": [
+        "Live Dot: ",
+        "Gap: ",
+        "MvCta: FRAME 10 — ContactHave a project? Let’s shoot.Have a project",
+        "Contact CTA: FRAME 10 — ContactHave a project? Let’s shoot.Have a project",
+        "MvCta: FRAME 10 — ContactHave a project? Let’s shoot.Have a project",
+        "Contact: FRAME 10 — ContactHave a project? Let’s shoot.Have a project",
+        "Left: FRAME 10 — ContactHave a project? Let’s shoot.Have a project",
+        "Head: FRAME 10 — ContactHave a project? Let’s shoot.Have a project",
+        "Eyebrow: FRAME 10 — Contact",
+        "Dot: ",
+        "Eyebrow Text: FRAME 10 — Contact",
+        "Heading: Have a project? Let’s shoot.Have a project?Let’sshoot.",
+        "Heading (SEO): Have a project? Let’s shoot.",
+        "H2: Have a project? Let’s shoot.",
+        "Line 1: Have a project?",
+        "Text: Have a project?",
+        "H2: Have a project?",
+        "Line 2: Let’sshoot.",
+        "Text: Let’s",
+        "H2: Let’s"
+      ]
+    },
+    {
+      "y": 19133,
+      "activeTexts": [
+        "Live Dot: ",
+        "Gap: ",
+        "Inner: Prod.Portfolio 2026SceneFooterTake1RollA-09DirectorMara Voss",
+        "Footer Top: Prod.Portfolio 2026SceneFooterTake1RollA-09DirectorMara Voss",
+        "Clapperboard: Prod.Portfolio 2026SceneFooterTake1RollA-09DirectorMara Voss",
+        "Clapper Arm: ",
+        "Slate: Prod.Portfolio 2026SceneFooterTake1RollA-09DirectorMara Voss",
+        "Row: Prod.Portfolio 2026",
+        "Cell: Prod.Portfolio 2026",
+        "Label: Prod.",
+        "Value: Portfolio 2026",
+        "Row: SceneFooterTake1RollA-09",
+        "Cell: SceneFooter",
+        "Label: Scene",
+        "Value: Footer",
+        "Cell: Take1",
+        "Label: Take",
+        "Take: 1",
+        "Cell: RollA-09",
+        "Label: Roll"
+      ]
+    }
+  ],
+  "contactDetails": {
+    "namedEls": [
+      {
+        "name": "L MvLoader · THE SLATE (once per session)",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "MvLoader",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "L MvPageTrans · THE CUT",
+        "tag": "div",
+        "text": ".mvtr{position:fixed;inset:0;z-index:9998;pointer-events:none;overflow:hidden;color:var(--fg);displa"
+      },
+      {
+        "name": "MvPageTrans",
+        "tag": "div",
+        "text": ".mvtr{position:fixed;inset:0;z-index:9998;pointer-events:none;overflow:hidden;color:var(--fg);displa"
+      },
+      {
+        "name": "Site Header Bar",
+        "tag": "div",
+        "text": "Mara VossWorkAboutRésuméWritingContactHire meMenu"
+      },
+      {
+        "name": "Site Header",
+        "tag": "div",
+        "text": "Mara VossWorkAboutRésuméWritingContactHire meMenu"
+      },
+      {
+        "name": "Desktop",
+        "tag": "div",
+        "text": "Mara VossWorkAboutRésuméWritingContactHire meMenu"
+      },
+      {
+        "name": "Bar",
+        "tag": "div",
+        "text": "Mara VossWorkAboutRésuméWritingContactHire meMenu"
+      },
+      {
+        "name": "Logo",
+        "tag": "a",
+        "text": "Mara Voss"
+      },
+      {
+        "name": "Logo Mark",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "Logo Text",
+        "tag": "div",
+        "text": "Mara Voss"
+      },
+      {
+        "name": "Nav",
+        "tag": "nav",
+        "text": "WorkAboutRésuméWritingContact"
+      },
+      {
+        "name": "Nav Link",
+        "tag": "a",
+        "text": "Work"
+      },
+      {
+        "name": "Nav Label",
+        "tag": "div",
+        "text": "Work"
+      },
+      {
+        "name": "Nav Link",
+        "tag": "a",
+        "text": "About"
+      },
+      {
+        "name": "Nav Label",
+        "tag": "div",
+        "text": "About"
+      },
+      {
+        "name": "Nav Link",
+        "tag": "a",
+        "text": "Résumé"
+      },
+      {
+        "name": "Nav Label",
+        "tag": "div",
+        "text": "Résumé"
+      },
+      {
+        "name": "Nav Link",
+        "tag": "a",
+        "text": "Writing"
+      },
+      {
+        "name": "Nav Label",
+        "tag": "div",
+        "text": "Writing"
+      },
+      {
+        "name": "Nav Link",
+        "tag": "a",
+        "text": "Contact"
+      },
+      {
+        "name": "Nav Label",
+        "tag": "div",
+        "text": "Contact"
+      },
+      {
+        "name": "Actions",
+        "tag": "div",
+        "text": "Hire meMenu"
+      },
+      {
+        "name": "Availability",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "Live Dot",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "Hire",
+        "tag": "div",
+        "text": "Hire me"
+      },
+      {
+        "name": "Accent",
+        "tag": "a",
+        "text": "Hire me"
+      },
+      {
+        "name": "Label",
+        "tag": "div",
+        "text": "Hire me"
+      },
+      {
+        "name": "Gap",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "Chip",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "Menu Button",
+        "tag": "button",
+        "text": "Menu"
+      },
+      {
+        "name": "Burger",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "Line",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "Line",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "Menu Text",
+        "tag": "div",
+        "text": "Menu"
+      },
+      {
+        "name": "L MvSmooth",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "MvSmooth",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "CMS Bridge · posts (keep)",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "posts-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "posts-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "posts-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "posts-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "posts-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "posts-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "posts-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "posts-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "posts-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "posts-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "posts-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "posts-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "CMS Bridge · lab (keep)",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "lab-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "lab-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "lab-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "lab-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "lab-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "lab-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "lab-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "lab-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "lab-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "lab-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "lab-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "lab-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "CMS Bridge · reviews (keep)",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "reviews-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "reviews-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "reviews-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "reviews-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "reviews-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "reviews-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "reviews-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "reviews-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "reviews-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "reviews-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "CMS Bridge · tools (keep)",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "tools-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "CMS Bridge · process (keep)",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "process-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "process-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "process-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "process-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "process-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "process-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "process-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "process-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "CMS Bridge · uses (keep)",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "uses-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "CMS Bridge · experience (keep)",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "experience-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "experience-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "experience-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "experience-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "experience-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "experience-row",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "experience-item",
+        "tag": "div",
+        "text": ""
+      },
+      {
+        "name": "experience-row",
+        "tag": "div",
+        "text": ""
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "button",
+        "type": null,
+        "name": null,
+        "placeholder": null,
+        "ariaLabel": "Menu",
+        "text": "Menu"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Name",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "email",
+        "name": "Email",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "Company",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "url",
+        "name": "Website",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "Budget",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": "Choose oneUnder €5k€5k–€15k€15k–€40k€40k+",
+        "options": [
+          "Choose one",
+          "Under €5k",
+          "€5k–€15k",
+          "€15k–€40k",
+          "€40k+"
+        ]
+      },
+      {
+        "tag": "select",
+        "type": null,
+        "name": "Timeline",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": "Choose oneASAP1–2 monthsLater this year",
+        "options": [
+          "Choose one",
+          "ASAP",
+          "1–2 months",
+          "Later this year"
+        ]
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "Product design",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "Design systems",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "Front-end development",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "checkbox",
+        "name": "Brand & web",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "textarea",
+        "type": null,
+        "name": "Brief",
+        "placeholder": "What are you making, who is it for, and what does done look like?",
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "button",
+        "type": "submit",
+        "name": "Submit Button",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": "Send the brief"
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "website",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "company",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "message",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "subject",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "title",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "description",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "feedback",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "notes",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "details",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "remarks",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "type": "text",
+        "name": "comments",
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      },
+      {
+        "tag": "button",
+        "type": "button",
+        "name": null,
+        "placeholder": null,
+        "ariaLabel": "Copy hello@maravoss.design",
+        "text": "CopyCopied"
+      },
+      {
+        "tag": "button",
+        "type": "button",
+        "name": null,
+        "placeholder": null,
+        "ariaLabel": null,
+        "text": ""
+      }
+    ]
+  },
+  "aboutNamed": [
+    {
+      "name": "L MvLoader · THE SLATE (once per session)",
+      "tag": "div",
+      "y": 0,
+      "h": 0,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "MvLoader",
+      "tag": "div",
+      "y": 0,
+      "h": 0,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "L MvPageTrans · THE CUT",
+      "tag": "div",
+      "y": 0,
+      "h": 0,
+      "position": "relative",
+      "text": ".mvtr{position:fixed;inset:0;z-index:9998;pointer-events:none;overflow:hidden;co"
+    },
+    {
+      "name": "MvPageTrans",
+      "tag": "div",
+      "y": 0,
+      "h": 0,
+      "position": "relative",
+      "text": ".mvtr{position:fixed;inset:0;z-index:9998;pointer-events:none;overflow:hidden;co"
+    },
+    {
+      "name": "Site Header Bar",
+      "tag": "div",
+      "y": 0,
+      "h": 72,
+      "position": "fixed",
+      "text": "Mara VossWorkAboutRésuméWritingContactHire meMenu"
+    },
+    {
+      "name": "Site Header",
+      "tag": "div",
+      "y": 0,
+      "h": 72,
+      "position": "relative",
+      "text": "Mara VossWorkAboutRésuméWritingContactHire meMenu"
+    },
+    {
+      "name": "Desktop",
+      "tag": "div",
+      "y": 0,
+      "h": 72,
+      "position": "relative",
+      "text": "Mara VossWorkAboutRésuméWritingContactHire meMenu"
+    },
+    {
+      "name": "Bar",
+      "tag": "div",
+      "y": 10,
+      "h": 62,
+      "position": "relative",
+      "text": "Mara VossWorkAboutRésuméWritingContactHire meMenu"
+    },
+    {
+      "name": "Logo",
+      "tag": "a",
+      "y": 28,
+      "h": 26,
+      "position": "relative",
+      "text": "Mara Voss"
+    },
+    {
+      "name": "Logo Mark",
+      "tag": "div",
+      "y": 28,
+      "h": 26,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "Logo Text",
+      "tag": "div",
+      "y": 33,
+      "h": 17,
+      "position": "relative",
+      "text": "Mara Voss"
+    },
+    {
+      "name": "Nav",
+      "tag": "nav",
+      "y": 21,
+      "h": 41,
+      "position": "relative",
+      "text": "WorkAboutRésuméWritingContact"
+    },
+    {
+      "name": "Nav Link",
+      "tag": "a",
+      "y": 25,
+      "h": 33,
+      "position": "relative",
+      "text": "Work"
+    },
+    {
+      "name": "Nav Label",
+      "tag": "div",
+      "y": 33,
+      "h": 17,
+      "position": "relative",
+      "text": "Work"
+    },
+    {
+      "name": "Nav Link",
+      "tag": "a",
+      "y": 25,
+      "h": 33,
+      "position": "relative",
+      "text": "About"
+    },
+    {
+      "name": "Nav Label",
+      "tag": "div",
+      "y": 33,
+      "h": 17,
+      "position": "relative",
+      "text": "About"
+    },
+    {
+      "name": "Nav Link",
+      "tag": "a",
+      "y": 25,
+      "h": 33,
+      "position": "relative",
+      "text": "Résumé"
+    },
+    {
+      "name": "Nav Label",
+      "tag": "div",
+      "y": 33,
+      "h": 17,
+      "position": "relative",
+      "text": "Résumé"
+    },
+    {
+      "name": "Nav Link",
+      "tag": "a",
+      "y": 25,
+      "h": 33,
+      "position": "relative",
+      "text": "Writing"
+    },
+    {
+      "name": "Nav Label",
+      "tag": "div",
+      "y": 33,
+      "h": 17,
+      "position": "relative",
+      "text": "Writing"
+    },
+    {
+      "name": "Nav Link",
+      "tag": "a",
+      "y": 25,
+      "h": 33,
+      "position": "relative",
+      "text": "Contact"
+    },
+    {
+      "name": "Nav Label",
+      "tag": "div",
+      "y": 33,
+      "h": 17,
+      "position": "relative",
+      "text": "Contact"
+    },
+    {
+      "name": "Actions",
+      "tag": "div",
+      "y": 14,
+      "h": 54,
+      "position": "relative",
+      "text": "Hire meMenu"
+    },
+    {
+      "name": "Availability",
+      "tag": "div",
+      "y": 26,
+      "h": 30,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "Live Dot",
+      "tag": "div",
+      "y": 37,
+      "h": 9,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "Hire",
+      "tag": "div",
+      "y": 14,
+      "h": 54,
+      "position": "relative",
+      "text": "Hire me"
+    },
+    {
+      "name": "Accent",
+      "tag": "a",
+      "y": 14,
+      "h": 54,
+      "position": "relative",
+      "text": "Hire me"
+    },
+    {
+      "name": "Label",
+      "tag": "div",
+      "y": 33,
+      "h": 16,
+      "position": "relative",
+      "text": "Hire me"
+    },
+    {
+      "name": "Gap",
+      "tag": "div",
+      "y": 41,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "Chip",
+      "tag": "div",
+      "y": 22,
+      "h": 38,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "Menu Button",
+      "tag": "button",
+      "y": 0,
+      "h": 0,
+      "position": "relative",
+      "text": "Menu"
+    },
+    {
+      "name": "Burger",
+      "tag": "div",
+      "y": 0,
+      "h": 0,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "Line",
+      "tag": "div",
+      "y": 0,
+      "h": 0,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "Line",
+      "tag": "div",
+      "y": 0,
+      "h": 0,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "Menu Text",
+      "tag": "div",
+      "y": 0,
+      "h": 0,
+      "position": "relative",
+      "text": "Menu"
+    },
+    {
+      "name": "L MvSmooth",
+      "tag": "div",
+      "y": 0,
+      "h": 0,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "MvSmooth",
+      "tag": "div",
+      "y": 0,
+      "h": 0,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "CMS Bridge · posts (keep)",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "posts-item",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "posts-row",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "posts-item",
+      "tag": "div",
+      "y": 1,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "posts-row",
+      "tag": "div",
+      "y": 1,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "posts-item",
+      "tag": "div",
+      "y": 2,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "posts-row",
+      "tag": "div",
+      "y": 2,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "posts-item",
+      "tag": "div",
+      "y": 3,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "posts-row",
+      "tag": "div",
+      "y": 3,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "posts-item",
+      "tag": "div",
+      "y": 4,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "posts-row",
+      "tag": "div",
+      "y": 4,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "posts-item",
+      "tag": "div",
+      "y": 5,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "posts-row",
+      "tag": "div",
+      "y": 5,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "CMS Bridge · lab (keep)",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "lab-item",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "lab-row",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "lab-item",
+      "tag": "div",
+      "y": 1,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "lab-row",
+      "tag": "div",
+      "y": 1,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "lab-item",
+      "tag": "div",
+      "y": 2,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "lab-row",
+      "tag": "div",
+      "y": 2,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "lab-item",
+      "tag": "div",
+      "y": 3,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "lab-row",
+      "tag": "div",
+      "y": 3,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "lab-item",
+      "tag": "div",
+      "y": 4,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "lab-row",
+      "tag": "div",
+      "y": 4,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "lab-item",
+      "tag": "div",
+      "y": 5,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "lab-row",
+      "tag": "div",
+      "y": 5,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "CMS Bridge · reviews (keep)",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "reviews-item",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "reviews-row",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "reviews-item",
+      "tag": "div",
+      "y": 1,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "reviews-row",
+      "tag": "div",
+      "y": 1,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "reviews-item",
+      "tag": "div",
+      "y": 2,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "reviews-row",
+      "tag": "div",
+      "y": 2,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "reviews-item",
+      "tag": "div",
+      "y": 3,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "reviews-row",
+      "tag": "div",
+      "y": 3,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "reviews-item",
+      "tag": "div",
+      "y": 4,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "reviews-row",
+      "tag": "div",
+      "y": 4,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "CMS Bridge · tools (keep)",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "y": 1,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "y": 1,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "y": 2,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "y": 2,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "y": 3,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "y": 3,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "y": 4,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "y": 4,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "y": 5,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "y": 5,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "y": 6,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "y": 6,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "y": 7,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "y": 7,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "y": 8,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "y": 8,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "y": 9,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "y": 9,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "y": 10,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "y": 10,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "y": 11,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "y": 11,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "CMS Bridge · process (keep)",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "process-item",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "process-row",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "process-item",
+      "tag": "div",
+      "y": 1,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "process-row",
+      "tag": "div",
+      "y": 1,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "process-item",
+      "tag": "div",
+      "y": 2,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "process-row",
+      "tag": "div",
+      "y": 2,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "process-item",
+      "tag": "div",
+      "y": 3,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "process-row",
+      "tag": "div",
+      "y": 3,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "CMS Bridge · uses (keep)",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 1,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 1,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 2,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 2,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 3,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 3,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 4,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 4,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 5,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 5,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 6,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 6,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 7,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 7,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 8,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 8,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 9,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 9,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 10,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 10,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 11,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 11,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 12,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 12,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 13,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 13,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 14,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 14,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "y": 15,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "y": 15,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "CMS Bridge · experience (keep)",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "experience-item",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "experience-row",
+      "tag": "div",
+      "y": 0,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "experience-item",
+      "tag": "div",
+      "y": 1,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "experience-row",
+      "tag": "div",
+      "y": 1,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "experience-item",
+      "tag": "div",
+      "y": 2,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "experience-row",
+      "tag": "div",
+      "y": 2,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    },
+    {
+      "name": "experience-item",
+      "tag": "div",
+      "y": 3,
+      "h": 1,
+      "position": "relative",
+      "text": ""
+    },
+    {
+      "name": "experience-row",
+      "tag": "div",
+      "y": 3,
+      "h": 1,
+      "position": "absolute",
+      "text": ""
+    }
+  ],
+  "labNamed": [
+    {
+      "name": "L MvLoader · THE SLATE (once per session)",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "MvLoader",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "L MvPageTrans · THE CUT",
+      "tag": "div",
+      "text": ".mvtr{position:fixed;inset:0;z-index:9998;pointer-events:none;overflow:hidden;co"
+    },
+    {
+      "name": "MvPageTrans",
+      "tag": "div",
+      "text": ".mvtr{position:fixed;inset:0;z-index:9998;pointer-events:none;overflow:hidden;co"
+    },
+    {
+      "name": "Site Header Bar",
+      "tag": "div",
+      "text": "Mara VossWorkAboutRésuméWritingContactHire meMenu"
+    },
+    {
+      "name": "Site Header",
+      "tag": "div",
+      "text": "Mara VossWorkAboutRésuméWritingContactHire meMenu"
+    },
+    {
+      "name": "Desktop",
+      "tag": "div",
+      "text": "Mara VossWorkAboutRésuméWritingContactHire meMenu"
+    },
+    {
+      "name": "Bar",
+      "tag": "div",
+      "text": "Mara VossWorkAboutRésuméWritingContactHire meMenu"
+    },
+    {
+      "name": "Logo",
+      "tag": "a",
+      "text": "Mara Voss"
+    },
+    {
+      "name": "Logo Mark",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "Logo Text",
+      "tag": "div",
+      "text": "Mara Voss"
+    },
+    {
+      "name": "Nav",
+      "tag": "nav",
+      "text": "WorkAboutRésuméWritingContact"
+    },
+    {
+      "name": "Nav Link",
+      "tag": "a",
+      "text": "Work"
+    },
+    {
+      "name": "Nav Label",
+      "tag": "div",
+      "text": "Work"
+    },
+    {
+      "name": "Nav Link",
+      "tag": "a",
+      "text": "About"
+    },
+    {
+      "name": "Nav Label",
+      "tag": "div",
+      "text": "About"
+    },
+    {
+      "name": "Nav Link",
+      "tag": "a",
+      "text": "Résumé"
+    },
+    {
+      "name": "Nav Label",
+      "tag": "div",
+      "text": "Résumé"
+    },
+    {
+      "name": "Nav Link",
+      "tag": "a",
+      "text": "Writing"
+    },
+    {
+      "name": "Nav Label",
+      "tag": "div",
+      "text": "Writing"
+    },
+    {
+      "name": "Nav Link",
+      "tag": "a",
+      "text": "Contact"
+    },
+    {
+      "name": "Nav Label",
+      "tag": "div",
+      "text": "Contact"
+    },
+    {
+      "name": "Actions",
+      "tag": "div",
+      "text": "Hire meMenu"
+    },
+    {
+      "name": "Availability",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "Live Dot",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "Hire",
+      "tag": "div",
+      "text": "Hire me"
+    },
+    {
+      "name": "Accent",
+      "tag": "a",
+      "text": "Hire me"
+    },
+    {
+      "name": "Label",
+      "tag": "div",
+      "text": "Hire me"
+    },
+    {
+      "name": "Gap",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "Chip",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "Menu Button",
+      "tag": "button",
+      "text": "Menu"
+    },
+    {
+      "name": "Burger",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "Line",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "Line",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "Menu Text",
+      "tag": "div",
+      "text": "Menu"
+    },
+    {
+      "name": "L MvSmooth",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "MvSmooth",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "CMS Bridge · posts (keep)",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "posts-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "posts-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "posts-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "posts-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "posts-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "posts-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "posts-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "posts-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "posts-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "posts-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "posts-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "posts-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "CMS Bridge · lab (keep)",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "lab-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "lab-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "lab-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "lab-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "lab-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "lab-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "lab-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "lab-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "lab-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "lab-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "lab-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "lab-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "CMS Bridge · reviews (keep)",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "reviews-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "reviews-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "reviews-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "reviews-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "reviews-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "reviews-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "reviews-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "reviews-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "reviews-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "reviews-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "CMS Bridge · tools (keep)",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "tools-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "CMS Bridge · process (keep)",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "process-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "process-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "process-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "process-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "process-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "process-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "process-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "process-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "CMS Bridge · uses (keep)",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "uses-row",
+      "tag": "div",
+      "text": ""
+    },
+    {
+      "name": "uses-item",
+      "tag": "div",
+      "text": ""
+    }
+  ]
+}
