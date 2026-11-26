@@ -1,0 +1,34 @@
+{
+  "id": "work__pulse-dashboard",
+  "localPath": "/work/pulse-dashboard",
+  "fullPage": {
+    "width": 1440,
+    "height": 6025,
+    "refSize": {
+      "width": 1440,
+      "height": 6468
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 6025
+    },
+    "diffPixels": 3266424,
+    "totalPixels": 8676000,
+    "diffPercent": 37.65
+  },
+  "aboveFold": {
+    "width": 1440,
+    "height": 900,
+    "refSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "implSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "diffPixels": 845390,
+    "totalPixels": 1296000,
+    "diffPercent": 65.23
+  }
+}
