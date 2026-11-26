@@ -63,7 +63,13 @@ export function SiteHeader() {
       data-testid="site-header"
     >
       <div className="mv-header-inner">
-        <Link href="/" className="mv-brand" aria-label="Mara Voss home">
+        <Link
+          href="/"
+          prefetch={true}
+          className="mv-brand"
+          aria-label="Mara Voss home"
+          onClick={() => handleNavClick('/')}
+        >
           <span className="mv-brand-mark" aria-hidden="true">
             <img src={ASSETS.brand.logoMark} alt="" width={24} height={24} />
           </span>
@@ -72,12 +78,15 @@ export function SiteHeader() {
 
         <nav className="mv-nav-pill" aria-label="Primary navigation">
           {siteConfig.navLinks.map((item) => {
-            const active = pathname === item.href || pathname.startsWith(item.href);
+            const active = pathname === item.href || pathname.startsWith(`${item.href}/`);
+            const pending = pendingHref === item.href;
             return (
               <Link
                 key={item.href}
                 href={item.href}
-                className={`mv-nav-link ${active ? 'is-active' : ''}`}
+                prefetch={true}
+                onClick={() => handleNavClick(item.href)}
+                className={`mv-nav-link ${active ? 'is-active' : ''} ${pending ? 'is-pending' : ''}`}
                 aria-current={active ? 'page' : undefined}
               >
                 {item.label}
@@ -88,7 +97,12 @@ export function SiteHeader() {
 
         <div className="mv-header-right">
           <div className="mv-header-cta">
-            <ArrowButton label="Hire me" href="/contact" variant="solid" />
+            <ArrowButton
+              label="Hire me"
+              href="/contact"
+              variant="solid"
+              onClick={() => handleNavClick('/contact')}
+            />
           </div>
           <button
             type="button"
@@ -121,25 +135,38 @@ export function SiteHeader() {
                 { label: 'Services', href: '/services' },
                 { label: 'Lab', href: '/lab' },
                 { label: 'Uses', href: '/uses' },
-              ].map((item) => (
-                <li key={item.href}>
-                  <Link
-                    href={item.href}
-                    className={`mv-mobile-link ${pathname === item.href ? 'is-active' : ''}`}
-                    onClick={() => setMenuOpen(false)}
-                  >
-                    <span>{item.label}</span>
-                    <span aria-hidden="true">→</span>
-                  </Link>
-                </li>
-              ))}
+              ].map((item) => {
+                const active =
+                  item.href === '/'
+                    ? pathname === '/'
+                    : pathname === item.href || pathname.startsWith(`${item.href}/`);
+                const pending = pendingHref === item.href;
+                return (
+                  <li key={item.href}>
+                    <Link
+                      href={item.href}
+                      prefetch={true}
+                      className={`mv-mobile-link ${active ? 'is-active' : ''} ${pending ? 'is-pending' : ''}`}
+                      onClick={() => handleNavClick(item.href, true)}
+                    >
+                      <span>{item.label}</span>
+                      <span aria-hidden="true">→</span>
+                    </Link>
+                  </li>
+                );
+              })}
             </ul>
             <div className="mv-mobile-drawer-foot">
               <p className="mv-mobile-status">
                 <span className="mv-port" aria-hidden="true" />
                 <span>{siteConfig.availability.statusLabel}</span>
               </p>
-              <ArrowButton label="Start a project" href="/contact" variant="orange" />
+              <ArrowButton
+                label="Start a project"
+                href="/contact"
+                variant="orange"
+                onClick={() => handleNavClick('/contact', true)}
+              />
             </div>
           </div>
         </div>

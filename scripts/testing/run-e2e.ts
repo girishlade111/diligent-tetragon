@@ -126,13 +126,58 @@ async function main() {
     await ctx.close();
   });
 
-  // 8. Mobile drawer open/close
-  await runTest('Mobile viewport menu drawer opens cleanly', async () => {
-    const ctx = await browser.newContext({ viewport: { width: 390, height: 844 }, isMobile: true });
+  // 8. Desktop navbar links & CTA switch pages cleanly
+  await runTest('Desktop navbar links and Hire me CTA navigate between routes', async () => {
+    const ctx = await browser.newContext({ viewport: { width: 1440, height: 900 } });
     const page = await ctx.newPage();
     await page.goto(`${BASE}/?deterministic=1`, { waitUntil: 'networkidle' });
-    await page.getByTestId('mobile-menu-toggle').click();
-    assert(await page.getByTestId('mobile-nav-drawer').isVisible(), 'Expected mobile drawer visible');
+
+    const navTargets: Array<[string, string]> = [
+      ['Work', '/work'],
+      ['About', '/about'],
+      ['Résumé', '/resume'],
+      ['Writing', '/writing'],
+      ['Contact', '/contact'],
+    ];
+
+    for (const [label, expectedPath] of navTargets) {
+      await page.getByTestId('site-header').getByRole('link', { name: label }).click();
+      await page.waitForURL(`**${expectedPath}`, { timeout: 10000 });
+      assert.equal(new URL(page.url()).pathname, expectedPath);
+    }
+
+    await page.getByTestId('site-header').locator('.mv-brand').click();
+    await page.waitForURL(`${BASE}/`, { timeout: 10000 });
+    assert.equal(new URL(page.url()).pathname, '/');
+
+    await page.getByTestId('site-header').getByRole('link', { name: 'Hire me' }).click();
+    await page.waitForURL('**/contact', { timeout: 10000 });
+    assert.equal(new URL(page.url()).pathname, '/contact');
+    await ctx.close();
+  });
+
+  // 9. Mobile drawer open, route navigation & close
+  await runTest('Mobile viewport menu drawer opens and switches pages cleanly', async () => {
+    const ctx = await browser.newContext({ viewport: { width: 390, height: 844 }, isMobile: true, hasTouch: true });
+    const page = await ctx.newPage();
+    await page.goto(`${BASE}/?deterministic=1`, { waitUntil: 'networkidle' });
+
+    for (const [label, expectedPath] of [
+      ['Work', '/work'],
+      ['Services', '/services'],
+      ['Lab', '/lab'],
+      ['Home', '/'],
+    ]) {
+      await page.getByTestId('mobile-menu-toggle').click();
+      await page.getByTestId('mobile-nav-drawer').waitFor({ state: 'visible', timeout: 3000 });
+      await page
+        .getByTestId('mobile-nav-drawer')
+        .getByRole('link', { name: new RegExp(`^${label}`, 'i') })
+        .first()
+        .click();
+      await page.waitForURL(`**${expectedPath}`, { timeout: 10000 });
+      assert.equal(new URL(page.url()).pathname, expectedPath);
+    }
     await ctx.close();
   });
 
