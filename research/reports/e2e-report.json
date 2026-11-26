@@ -1,5 +1,5 @@
 {
-  "passed": 8,
+  "passed": 9,
   "failed": 0,
   "results": [
     {
@@ -31,7 +31,11 @@
       "status": "passed"
     },
     {
-      "name": "Mobile viewport menu drawer opens cleanly",
+      "name": "Desktop navbar links and Hire me CTA navigate between routes",
+      "status": "passed"
+    },
+    {
+      "name": "Mobile viewport menu drawer opens and switches pages cleanly",
       "status": "passed"
     }
   ]
